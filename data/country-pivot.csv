@@ -1,0 +1,334 @@
+,year,sex,endpoint,All countries,Australia,Canada,EU14 excl Irl (UK & Ireland),EU15 to EU27 (accession countries joined post 2004),Other countries (23),United Kingdom (1),United States
+0,1987,Both sexes,Emigrants: All destinations,40.2,,,3.1,,5.4,21.8,9.9
+1,1987,Both sexes,Immigrants: All origins,17.2,,,2.2,,4.0,8.1,3.0
+2,1987,Both sexes,Net migration,-23.0,,,-0.9,,-1.4,-13.7,-6.9
+3,1987,Female,Emigrants: All destinations,,,,1.9,,2.8,8.7,5.2
+4,1987,Female,Immigrants: All origins,,,,1.2,,2.2,4.0,1.7
+5,1987,Female,Net migration,-15.1,,,-7.5,,0.6,-4.7,-3.5
+6,1987,Male,Emigrants: All destinations,,,,1.2,,2.6,13.1,4.8
+7,1987,Male,Immigrants: All origins,,,,1.0,,1.8,4.1,1.2
+8,1987,Male,Net migration,-13.6,,,-0.2,,-0.8,-9.0,-3.6
+9,1988,Both sexes,Emigrants: All destinations,61.1,,,2.8,,10.2,40.2,7.9
+10,1988,Both sexes,Immigrants: All origins,19.2,,,2.6,,3.4,9.9,3.4
+11,1988,Both sexes,Net migration,-41.9,,,-0.2,,-6.8,-30.3,-4.5
+12,1988,Female,Emigrants: All destinations,,,,1.3,,5.0,16.7,4.2
+13,1988,Female,Immigrants: All origins,,,,1.4,,1.7,4.5,1.7
+14,1988,Female,Net migration,-26.7,,,-15.3,,3.3,-12.2,-2.5
+15,1988,Male,Emigrants: All destinations,,,,1.5,,5.3,23.5,3.8
+16,1988,Male,Immigrants: All origins,,,,1.2,,1.6,5.4,1.7
+17,1988,Male,Net migration,-24.2,,,-0.3,,-3.7,-18.1,-2.1
+18,1989,Both sexes,Emigrants: All destinations,70.6,,,3.9,,10.0,48.4,8.2
+19,1989,Both sexes,Immigrants: All origins,26.7,,,3.6,,5.8,14.2,3.1
+20,1989,Both sexes,Net migration,-43.9,,,-0.3,,-4.2,-34.2,-5.4
+21,1989,Female,Emigrants: All destinations,,,,2.2,,5.3,19.9,3.9
+22,1989,Female,Immigrants: All origins,,,,2.2,,2.7,6.7,1.4
+23,1989,Female,Net migration,-30.8,,,-17.7,,2.6,-13.2,-2.5
+24,1989,Male,Emigrants: All destinations,,,,1.7,,4.7,28.5,4.3
+25,1989,Male,Immigrants: All origins,,,,1.4,,3.2,7.4,1.6
+26,1989,Male,Net migration,-25.6,,,-0.3,,-1.5,-21.1,-2.7
+27,1990,Both sexes,Emigrants: All destinations,56.3,,,5.1,,7.6,35.8,7.7
+28,1990,Both sexes,Immigrants: All origins,33.3,,,5.0,,6.9,17.6,3.9
+29,1990,Both sexes,Net migration,-22.9,,,-0.1,,-0.7,-18.2,-3.8
+30,1990,Female,Emigrants: All destinations,,,,2.9,,4.0,17.1,3.6
+31,1990,Female,Immigrants: All origins,,,,2.7,,3.3,7.7,1.9
+32,1990,Female,Net migration,-24.8,,,-14.4,,0.7,-9.4,-1.7
+33,1990,Male,Emigrants: All destinations,,,,2.2,,3.6,18.7,4.1
+34,1990,Male,Immigrants: All origins,,,,2.2,,3.6,9.9,2.0
+35,1990,Male,Net migration,-10.9,,,0.0,,0.0,-8.8,-2.1
+36,1991,Both sexes,Emigrants: All destinations,35.3,,,3.1,,4.4,23.0,4.8
+37,1991,Both sexes,Immigrants: All origins,33.3,,,4.2,,6.1,18.7,4.3
+38,1991,Both sexes,Net migration,-2.0,,,1.1,,1.7,-4.3,-0.5
+39,1991,Female,Emigrants: All destinations,,,,1.7,,2.7,10.8,2.5
+40,1991,Female,Immigrants: All origins,,,,2.3,,3.2,8.1,2.1
+41,1991,Female,Net migration,-12.1,,,-8.5,,-0.5,-2.7,-0.4
+42,1991,Male,Emigrants: All destinations,,,,1.4,,1.8,12.2,2.3
+43,1991,Male,Immigrants: All origins,,,,1.9,,2.9,10.6,2.2
+44,1991,Male,Net migration,-0.1,,,0.5,,1.1,-1.6,-0.1
+45,1992,Both sexes,Emigrants: All destinations,33.4,,,7.5,,5.5,16.9,3.5
+46,1992,Both sexes,Immigrants: All origins,40.7,,,6.5,,6.9,22.7,4.6
+47,1992,Both sexes,Net migration,7.4,,,-1.0,,1.4,5.8,1.1
+48,1992,Female,Emigrants: All destinations,16.0,,,4.0,,3.1,7.5,1.5
+49,1992,Female,Immigrants: All origins,18.9,,,3.2,,3.5,9.7,2.5
+50,1992,Female,Net migration,2.9,,,-4.3,,-0.4,2.2,1.0
+51,1992,Male,Emigrants: All destinations,17.3,,,3.5,,2.4,9.4,2.0
+52,1992,Male,Immigrants: All origins,21.8,,,3.4,,3.4,13.0,2.1
+53,1992,Male,Net migration,4.4,,,-0.1,,1.0,3.6,0.1
+54,1993,Both sexes,Emigrants: All destinations,35.1,,,7.3,,5.8,16.4,5.6
+55,1993,Both sexes,Immigrants: All origins,34.7,,,6.6,,5.7,17.5,5.0
+56,1993,Both sexes,Net migration,-0.4,,,-0.7,,-0.1,1.1,-0.6
+57,1993,Female,Emigrants: All destinations,17.5,,,3.9,,2.9,8.2,2.5
+58,1993,Female,Immigrants: All origins,17.3,,,3.8,,2.6,8.4,2.5
+59,1993,Female,Net migration,-0.2,,,-4.4,,0.3,0.2,0.0
+60,1993,Male,Emigrants: All destinations,17.6,,,3.4,,3.0,8.2,3.1
+61,1993,Male,Immigrants: All origins,17.4,,,2.9,,3.1,9.0,2.5
+62,1993,Male,Net migration,-0.2,,,-0.5,,0.1,0.8,-0.6
+63,1994,Both sexes,Emigrants: All destinations,34.8,,,5.5,,4.9,14.8,9.6
+64,1994,Both sexes,Immigrants: All origins,30.1,,,5.8,,4.8,15.2,4.3
+65,1994,Both sexes,Net migration,-4.7,,,0.3,,-0.1,0.4,-5.3
+66,1994,Female,Emigrants: All destinations,17.3,,,2.9,,2.7,7.1,4.6
+67,1994,Female,Immigrants: All origins,15.3,,,3.1,,2.6,7.4,2.2
+68,1994,Female,Net migration,-2.0,,,-4.0,,0.1,0.3,-2.4
+69,1994,Male,Emigrants: All destinations,17.6,,,2.6,,2.2,7.7,5.0
+70,1994,Male,Immigrants: All origins,14.8,,,2.7,,2.2,7.8,2.1
+71,1994,Male,Net migration,-2.7,,,0.1,,0.0,0.1,-2.9
+72,1995,Both sexes,Emigrants: All destinations,33.1,,,5.1,,6.6,13.3,8.2
+73,1995,Both sexes,Immigrants: All origins,31.2,,,6.3,,5.5,15.6,3.8
+74,1995,Both sexes,Net migration,-1.9,,,1.2,,-1.1,2.3,-4.4
+75,1995,Female,Emigrants: All destinations,14.9,,,2.6,,3.4,5.4,3.6
+76,1995,Female,Immigrants: All origins,16.5,,,3.7,,2.5,8.2,2.1
+77,1995,Female,Net migration,1.6,,,-1.7,,0.9,2.8,-1.5
+78,1995,Male,Emigrants: All destinations,18.2,,,2.5,,3.2,7.8,4.6
+79,1995,Male,Immigrants: All origins,14.7,,,2.6,,3.1,7.3,1.8
+80,1995,Male,Net migration,-3.4,,,0.1,,-0.1,-0.5,-2.8
+81,1996,Both sexes,Emigrants: All destinations,31.2,,,5.1,,6.8,14.1,5.2
+82,1996,Both sexes,Immigrants: All origins,39.2,,,7.2,,8.0,17.6,6.4
+83,1996,Both sexes,Net migration,8.0,,,2.1,,1.2,3.5,1.2
+84,1996,Female,Emigrants: All destinations,15.9,,,2.8,,3.2,7.4,2.5
+85,1996,Female,Immigrants: All origins,20.4,,,3.9,,3.7,9.2,3.6
+86,1996,Female,Net migration,4.4,,,-3.5,,-0.5,1.8,1.1
+87,1996,Male,Emigrants: All destinations,15.3,,,2.2,,3.6,6.7,2.7
+88,1996,Male,Immigrants: All origins,18.8,,,3.2,,4.3,8.4,2.8
+89,1996,Male,Net migration,3.5,,,1.0,,0.7,1.7,0.1
+90,1997,Both sexes,Emigrants: All destinations,25.3,,,3.8,,6.6,11.6,3.4
+91,1997,Both sexes,Immigrants: All origins,44.5,,,8.1,,9.4,20.3,6.7
+92,1997,Both sexes,Net migration,19.2,,,4.3,,2.8,8.7,3.3
+93,1997,Female,Emigrants: All destinations,12.9,,,2.0,,3.4,6.1,1.3
+94,1997,Female,Immigrants: All origins,22.6,,,4.2,,4.5,9.9,4.0
+95,1997,Female,Net migration,9.7,,,-1.9,,-1.1,3.8,2.7
+96,1997,Male,Emigrants: All destinations,12.5,,,1.8,,3.2,5.4,2.1
+97,1997,Male,Immigrants: All origins,22.0,,,3.9,,4.9,10.4,2.7
+98,1997,Male,Net migration,9.5,,,2.1,,1.7,5.0,0.6
+99,1998,Both sexes,Emigrants: All destinations,28.6,,,5.9,,5.6,11.8,5.3
+100,1998,Both sexes,Immigrants: All origins,46.0,,,9.1,,9.7,22.1,5.1
+101,1998,Both sexes,Net migration,17.4,,,3.2,,4.1,10.3,-0.2
+102,1998,Female,Emigrants: All destinations,14.7,,,3.6,,3.2,5.8,2.0
+103,1998,Female,Immigrants: All origins,23.3,,,5.5,,4.7,10.6,2.4
+104,1998,Female,Net migration,8.6,,,-0.3,,-1.5,4.8,0.4
+105,1998,Male,Emigrants: All destinations,13.9,,,2.3,,2.3,6.0,3.3
+106,1998,Male,Immigrants: All origins,22.7,,,3.5,,5.0,11.4,2.7
+107,1998,Male,Net migration,8.8,,,1.2,,2.7,5.4,-0.6
+108,1999,Both sexes,Emigrants: All destinations,31.5,,,5.5,,9.5,11.2,5.3
+109,1999,Both sexes,Immigrants: All origins,48.9,,,10.2,,10.5,22.3,5.9
+110,1999,Both sexes,Net migration,17.3,,,4.7,,1.0,11.1,0.6
+111,1999,Female,Emigrants: All destinations,16.1,,,3.2,,4.4,6.0,2.4
+112,1999,Female,Immigrants: All origins,24.4,,,5.7,,5.2,10.5,3.0
+113,1999,Female,Net migration,8.3,,,-0.3,,-0.8,4.5,0.6
+114,1999,Male,Emigrants: All destinations,15.5,,,2.2,,5.1,5.2,2.9
+115,1999,Male,Immigrants: All origins,24.5,,,4.6,,5.3,11.8,2.8
+116,1999,Male,Net migration,9.0,,,2.4,,0.2,6.6,-0.1
+117,2000,Both sexes,Emigrants: All destinations,26.6,,,5.5,,10.0,7.2,4.0
+118,2000,Both sexes,Immigrants: All origins,52.6,,,11.7,,14.5,20.8,5.5
+119,2000,Both sexes,Net migration,26.0,,,6.2,,4.5,13.6,1.5
+120,2000,Female,Emigrants: All destinations,13.5,,,3.1,,4.8,3.7,1.9
+121,2000,Female,Immigrants: All origins,26.4,,,6.8,,6.4,10.5,2.7
+122,2000,Female,Net migration,12.9,,,3.1,,-1.6,6.8,0.8
+123,2000,Male,Emigrants: All destinations,13.1,,,2.4,,5.2,3.4,2.1
+124,2000,Male,Immigrants: All origins,26.2,,,4.9,,8.1,10.4,2.8
+125,2000,Male,Net migration,13.1,,,2.5,,2.9,7.0,0.7
+126,2001,Both sexes,Emigrants: All destinations,26.2,,,5.6,,9.5,7.8,3.4
+127,2001,Both sexes,Immigrants: All origins,59.0,,,10.3,,21.5,20.6,6.7
+128,2001,Both sexes,Net migration,32.8,,,4.7,,12.0,12.8,3.3
+129,2001,Female,Emigrants: All destinations,13.6,,,3.6,,4.3,4.4,1.5
+130,2001,Female,Immigrants: All origins,29.0,,,5.4,,9.3,10.4,4.0
+131,2001,Female,Net migration,15.3,,,1.0,,-5.0,6.0,2.5
+132,2001,Male,Emigrants: All destinations,12.6,,,2.0,,5.2,3.4,2.0
+133,2001,Male,Immigrants: All origins,30.1,,,5.0,,12.2,10.2,2.7
+134,2001,Male,Net migration,17.5,,,3.0,,7.0,6.8,0.7
+135,2002,Both sexes,Emigrants: All destinations,25.6,,,4.8,,8.5,7.4,4.8
+136,2002,Both sexes,Immigrants: All origins,66.9,,,11.3,,29.9,19.1,6.6
+137,2002,Both sexes,Net migration,41.3,,,6.5,,21.4,11.7,1.8
+138,2002,Female,Emigrants: All destinations,12.9,,,2.7,,4.3,3.9,2.0
+139,2002,Female,Immigrants: All origins,35.6,,,6.7,,15.5,9.8,3.7
+140,2002,Female,Net migration,22.7,,,4.0,,11.2,5.9,1.7
+141,2002,Male,Emigrants: All destinations,12.7,,,2.1,,4.2,3.5,2.8
+142,2002,Male,Immigrants: All origins,31.3,,,4.6,,14.4,9.3,2.9
+143,2002,Male,Net migration,18.6,,,2.5,,10.2,5.8,0.1
+144,2003,Both sexes,Emigrants: All destinations,29.3,,,6.5,,11.4,8.6,2.8
+145,2003,Both sexes,Immigrants: All origins,60.0,,,11.8,,27.2,15.8,5.3
+146,2003,Both sexes,Net migration,30.7,,,5.3,,15.8,7.2,2.5
+147,2003,Female,Emigrants: All destinations,12.3,,,3.7,,4.0,3.4,1.1
+148,2003,Female,Immigrants: All origins,28.6,,,5.8,,13.6,6.7,2.5
+149,2003,Female,Net migration,16.3,,,2.1,,9.5,3.2,1.4
+150,2003,Male,Emigrants: All destinations,17.0,,,2.8,,7.3,5.2,1.7
+151,2003,Male,Immigrants: All origins,31.4,,,6.0,,13.6,9.1,2.8
+152,2003,Male,Net migration,14.3,,,3.2,,6.3,3.9,1.1
+153,2004,Both sexes,Emigrants: All destinations,26.5,,,5.0,,10.5,7.1,3.9
+154,2004,Both sexes,Immigrants: All origins,58.5,,,15.2,,23.3,14.6,5.3
+155,2004,Both sexes,Net migration,32.0,,,10.2,,12.9,7.5,1.4
+156,2004,Female,Emigrants: All destinations,14.0,,,2.8,,5.2,4.2,1.8
+157,2004,Female,Immigrants: All origins,28.0,,,7.6,,10.9,6.9,2.5
+158,2004,Female,Net migration,14.0,,,4.8,,5.7,2.7,0.7
+159,2004,Male,Emigrants: All destinations,12.5,,,2.2,,5.3,2.9,2.1
+160,2004,Male,Immigrants: All origins,30.5,,,7.6,,12.4,7.7,2.9
+161,2004,Male,Net migration,18.0,,,5.4,,7.1,4.8,0.7
+162,2005,Both sexes,Emigrants: All destinations,29.4,,,4.9,0.8,12.7,7.9,3.3
+163,2005,Both sexes,Immigrants: All origins,84.6,,,11.1,33.7,19.4,15.6,4.8
+164,2005,Both sexes,Net migration,55.1,,,6.2,32.9,6.7,7.7,1.5
+165,2005,Female,Emigrants: All destinations,14.6,,,2.8,0.4,5.8,3.9,1.6
+166,2005,Female,Immigrants: All origins,37.1,,,6.2,11.1,9.5,7.2,3.1
+167,2005,Female,Net migration,22.5,,,3.4,10.7,3.7,3.2,1.5
+168,2005,Male,Emigrants: All destinations,14.9,,,2.1,0.4,6.8,3.9,1.6
+169,2005,Male,Immigrants: All origins,47.5,,,4.9,22.6,9.9,8.4,1.6
+170,2005,Male,Net migration,32.6,,,2.8,22.2,3.1,4.5,0.0
+171,2006,Both sexes,Emigrants: All destinations,36.0,,,5.7,2.3,15.8,8.8,3.3
+172,2006,Both sexes,Immigrants: All origins,107.8,,,13.5,49.3,23.3,17.7,4.0
+173,2006,Both sexes,Net migration,71.8,,,7.8,47.0,7.5,8.9,0.7
+174,2006,Female,Emigrants: All destinations,17.3,,,3.3,1.4,6.6,4.4,1.7
+175,2006,Female,Immigrants: All origins,47.5,,,6.7,18.8,11.8,8.0,2.3
+176,2006,Female,Net migration,30.2,,,3.4,17.4,5.2,3.6,0.6
+177,2006,Male,Emigrants: All destinations,18.7,,,2.4,1.0,9.3,4.5,1.6
+178,2006,Male,Immigrants: All origins,60.3,,,6.8,30.5,11.6,9.7,1.7
+179,2006,Male,Net migration,41.6,,,4.4,29.5,2.3,5.2,0.1
+180,2007,Both sexes,Emigrants: All destinations,46.3,,,3.5,7.7,20.8,11.1,3.1
+181,2007,Both sexes,Immigrants: All origins,151.1,,,20.3,72.6,34.7,18.2,5.3
+182,2007,Both sexes,Net migration,104.8,,,16.8,64.9,13.9,7.1,2.2
+183,2007,Female,Emigrants: All destinations,20.6,,,2.1,3.0,8.3,5.9,1.4
+184,2007,Female,Immigrants: All origins,71.1,,,11.0,32.3,16.3,8.7,2.8
+185,2007,Female,Net migration,50.4,,,8.9,29.3,8.0,2.8,1.4
+186,2007,Male,Emigrants: All destinations,25.7,,,1.5,4.7,12.5,5.3,1.8
+187,2007,Male,Immigrants: All origins,80.0,,,9.3,40.3,18.4,9.5,2.5
+188,2007,Male,Net migration,54.3,,,7.8,35.6,5.9,4.2,0.7
+189,2008,Both sexes,Emigrants: All destinations,49.2,10.4,1.1,7.8,10.1,9.8,7.6,2.4
+190,2008,Both sexes,Immigrants: All origins,113.5,7.1,2.0,14.5,45.5,20.0,19.4,5.0
+191,2008,Both sexes,Net migration,64.3,-3.2,0.9,6.7,35.4,10.2,11.8,2.6
+192,2008,Female,Emigrants: All destinations,19.6,3.9,0.5,4.6,3.6,2.7,3.7,0.6
+193,2008,Female,Immigrants: All origins,59.5,3.9,1.4,8.4,24.7,9.7,8.8,2.7
+194,2008,Female,Net migration,39.9,0.0,0.9,3.7,21.1,7.0,5.1,2.1
+195,2008,Male,Emigrants: All destinations,29.6,6.5,0.6,3.2,6.5,7.1,3.9,1.8
+196,2008,Male,Immigrants: All origins,53.9,3.3,0.6,6.1,20.8,10.3,10.6,2.3
+197,2008,Male,Net migration,24.4,-3.2,0.0,2.9,14.2,3.2,6.7,0.6
+198,2009,Both sexes,Emigrants: All destinations,72.0,11.1,1.1,7.4,25.2,9.9,13.2,4.1
+199,2009,Both sexes,Immigrants: All origins,73.7,7.1,1.0,18.1,17.5,13.6,13.4,3.0
+200,2009,Both sexes,Net migration,1.6,-4.0,-0.2,10.7,-7.7,3.6,0.2,-1.0
+201,2009,Female,Emigrants: All destinations,30.1,4.4,0.6,4.4,9.2,4.6,5.1,1.8
+202,2009,Female,Immigrants: All origins,36.8,2.9,0.6,11.8,8.2,6.2,5.6,1.5
+203,2009,Female,Net migration,6.7,-1.5,0.0,7.4,-1.0,1.6,0.5,-0.3
+204,2009,Male,Emigrants: All destinations,41.9,6.7,0.6,3.0,16.0,5.4,8.0,2.2
+205,2009,Male,Immigrants: All origins,36.8,4.2,0.4,6.3,9.3,7.4,7.8,1.5
+206,2009,Male,Net migration,-5.1,-2.5,-0.2,3.3,-6.7,2.0,-0.3,-0.8
+207,2010,Both sexes,Emigrants: All destinations,69.2,10.4,2.4,11.9,14.6,11.7,15.3,2.9
+208,2010,Both sexes,Immigrants: All origins,41.8,6.5,0.5,7.8,8.7,7.6,9.1,1.7
+209,2010,Both sexes,Net migration,-27.5,-3.9,-1.9,-4.1,-5.9,-4.1,-6.2,-1.3
+210,2010,Female,Emigrants: All destinations,28.7,3.8,0.7,6.5,5.6,4.9,6.4,0.8
+211,2010,Female,Immigrants: All origins,21.4,3.0,0.3,4.4,4.0,3.8,5.1,0.8
+212,2010,Female,Net migration,-7.2,-0.7,-0.4,-2.1,-1.6,-1.1,-1.4,0.0
+213,2010,Male,Emigrants: All destinations,40.6,6.6,1.7,5.4,9.0,6.8,8.8,2.1
+214,2010,Male,Immigrants: All origins,20.4,3.5,0.2,3.4,4.7,3.8,4.0,0.8
+215,2010,Male,Net migration,-20.2,-3.2,-1.5,-2.0,-4.3,-3.0,-4.8,-1.3
+216,2011,Both sexes,Emigrants: All destinations,80.6,13.4,2.1,13.9,10.4,16.2,20.0,4.7
+217,2011,Both sexes,Immigrants: All origins,53.3,4.5,1.3,9.7,9.8,12.9,11.9,3.3
+218,2011,Both sexes,Net migration,-27.4,-9.0,-0.9,-4.2,-0.5,-3.3,-8.1,-1.4
+219,2011,Female,Emigrants: All destinations,38.8,6.0,1.0,6.8,5.4,8.5,8.9,2.1
+220,2011,Female,Immigrants: All origins,27.2,2.2,0.6,5.0,5.3,6.5,6.0,1.7
+221,2011,Female,Net migration,-11.5,-3.8,-0.4,-1.8,-0.2,-2.0,-3.0,-0.3
+222,2011,Male,Emigrants: All destinations,41.9,7.4,1.1,7.0,4.9,7.7,11.1,2.6
+223,2011,Male,Immigrants: All origins,26.0,2.2,0.7,4.7,4.5,6.5,5.9,1.5
+224,2011,Male,Net migration,-15.8,-5.1,-0.5,-2.4,-0.4,-1.3,-5.2,-1.1
+225,2012,Both sexes,Emigrants: All destinations,83.0,17.4,2.8,13.7,9.2,13.7,18.1,8.2
+226,2012,Both sexes,Immigrants: All origins,57.3,5.4,1.7,10.2,10.1,14.5,10.1,5.3
+227,2012,Both sexes,Net migration,-25.7,-12.0,-1.1,-3.6,0.9,0.9,-8.0,-2.8
+228,2012,Female,Emigrants: All destinations,37.1,7.1,1.1,7.1,4.5,5.6,8.0,3.8
+229,2012,Female,Immigrants: All origins,29.7,2.3,0.7,6.0,4.8,8.2,5.1,2.6
+230,2012,Female,Net migration,-7.3,-4.8,-0.3,-1.0,0.3,2.6,-2.8,-1.2
+231,2012,Male,Emigrants: All destinations,45.9,10.2,1.8,6.7,4.7,8.1,10.1,4.4
+232,2012,Male,Immigrants: All origins,27.5,3.1,1.0,4.1,5.2,6.4,4.9,2.8
+233,2012,Male,Net migration,-18.4,-7.2,-0.8,-2.5,0.6,-1.7,-5.2,-1.6
+234,2013,Both sexes,Emigrants: All destinations,81.3,14.1,4.9,10.5,13.0,13.2,20.0,5.7
+235,2013,Both sexes,Immigrants: All origins,62.7,6.0,1.9,11.6,10.7,16.7,11.7,4.0
+236,2013,Both sexes,Net migration,-18.7,-8.1,-3.0,1.1,-2.3,3.5,-8.3,-1.7
+237,2013,Female,Emigrants: All destinations,39.7,7.0,2.5,6.4,6.0,5.9,9.4,2.6
+238,2013,Female,Immigrants: All origins,30.4,2.1,0.8,5.8,5.6,7.9,5.7,2.5
+239,2013,Female,Net migration,-9.3,-4.8,-1.7,-0.7,-0.5,2.1,-3.6,-0.1
+240,2013,Male,Emigrants: All destinations,41.6,7.1,2.4,4.0,7.0,7.3,10.7,3.1
+241,2013,Male,Immigrants: All origins,32.3,3.9,1.1,5.8,5.2,8.8,6.0,1.5
+242,2013,Male,Net migration,-9.3,-3.3,-1.3,1.7,-1.8,1.5,-4.6,-1.5
+243,2014,Both sexes,Emigrants: All destinations,75.0,9.2,4.3,14.8,8.0,16.0,16.4,6.3
+244,2014,Both sexes,Immigrants: All origins,66.5,5.4,2.2,11.7,10.8,18.6,13.5,4.4
+245,2014,Both sexes,Net migration,-8.5,-3.8,-2.1,-3.2,2.8,2.6,-3.0,-1.9
+246,2014,Female,Emigrants: All destinations,36.6,4.8,1.3,8.2,3.1,7.9,8.0,3.3
+247,2014,Female,Immigrants: All origins,35.6,2.7,1.0,6.5,5.6,10.0,7.0,2.9
+248,2014,Female,Net migration,-1.0,-2.1,-0.4,-1.7,2.4,2.1,-1.0,-0.4
+249,2014,Male,Emigrants: All destinations,38.3,4.4,3.0,6.6,4.8,8.1,8.4,3.0
+250,2014,Male,Immigrants: All origins,30.9,2.7,1.3,5.2,5.2,8.6,6.5,1.5
+251,2014,Male,Net migration,-7.4,-1.7,-1.7,-1.4,0.4,0.5,-2.0,-1.5
+252,2015,Both sexes,Emigrants: All destinations,70.0,6.5,6.6,13.3,5.9,15.9,16.6,5.1
+253,2015,Both sexes,Immigrants: All origins,75.9,5.8,2.7,11.9,11.9,22.8,16.4,4.4
+254,2015,Both sexes,Net migration,5.9,-0.7,-3.9,-1.4,6.0,6.9,-0.2,-0.7
+255,2015,Female,Emigrants: All destinations,34.1,3.3,1.8,8.7,2.2,6.4,9.0,2.8
+256,2015,Female,Immigrants: All origins,40.2,2.7,1.2,7.0,5.9,12.4,8.3,2.7
+257,2015,Female,Net migration,6.0,-0.6,-0.6,-1.6,3.7,6.0,-0.7,-0.1
+258,2015,Male,Emigrants: All destinations,35.8,3.2,4.7,4.7,3.7,9.5,7.6,2.3
+259,2015,Male,Immigrants: All origins,35.7,3.1,1.5,4.9,6.0,10.4,8.1,1.7
+260,2015,Male,Net migration,-0.1,-0.1,-3.3,0.2,2.3,0.9,0.5,-0.6
+261,2016,Both sexes,Emigrants: All destinations,66.2,5.3,3.4,13.9,9.3,14.2,14.4,5.7
+262,2016,Both sexes,Immigrants: All origins,82.3,6.9,3.1,14.7,11.9,22.2,18.2,5.3
+263,2016,Both sexes,Net migration,16.2,1.6,-0.3,0.9,2.7,8.0,3.8,-0.4
+264,2016,Female,Emigrants: All destinations,35.1,2.8,1.7,8.2,5.0,7.8,6.8,2.8
+265,2016,Female,Immigrants: All origins,41.2,3.3,1.5,7.9,5.6,11.2,8.7,2.9
+266,2016,Female,Net migration,6.0,0.5,-0.3,-0.3,0.7,3.4,1.9,0.0
+267,2016,Male,Emigrants: All destinations,31.0,2.5,1.7,5.7,4.3,6.4,7.6,2.8
+268,2016,Male,Immigrants: All origins,41.2,3.6,1.7,6.8,6.3,11.0,9.5,2.4
+269,2016,Male,Net migration,10.1,1.1,0.0,1.1,2.0,4.6,1.8,-0.4
+270,2017,Both sexes,Emigrants: All destinations,56.1,4.6,3.2,11.2,8.4,12.7,10.5,5.6
+271,2017,Both sexes,Immigrants: All origins,95.3,8.0,3.6,17.2,13.8,25.6,21.1,6.1
+272,2017,Both sexes,Net migration,39.2,3.4,0.4,6.0,5.4,12.9,10.6,0.5
+273,2017,Female,Emigrants: All destinations,26.6,2.2,1.4,6.1,3.9,6.3,4.9,1.9
+274,2017,Female,Immigrants: All origins,48.0,3.9,1.7,9.3,6.6,13.0,10.2,3.3
+275,2017,Female,Net migration,21.4,1.7,0.3,3.2,2.7,6.7,5.3,1.4
+276,2017,Male,Emigrants: All destinations,29.5,2.4,1.8,5.1,4.5,6.4,5.6,3.7
+277,2017,Male,Immigrants: All origins,47.3,4.1,1.9,7.9,7.2,12.6,10.9,2.8
+278,2017,Male,Net migration,17.7,1.7,0.1,2.8,2.7,6.2,5.3,-0.9
+279,2018,Both sexes,Emigrants: All destinations,51.6,4.1,3.6,11.3,6.0,10.8,10.5,5.3
+280,2018,Both sexes,Immigrants: All origins,96.0,7.5,2.7,15.9,11.6,29.1,21.3,7.8
+281,2018,Both sexes,Net migration,44.4,3.4,-0.9,4.6,5.6,18.3,10.8,2.5
+282,2018,Female,Emigrants: All destinations,27.6,1.7,1.7,7.0,3.3,5.3,6.0,2.6
+283,2018,Female,Immigrants: All origins,48.7,3.6,1.5,7.8,6.3,14.8,10.5,4.2
+284,2018,Female,Net migration,21.1,1.9,-0.2,0.8,3.0,9.5,4.5,1.6
+285,2018,Male,Emigrants: All destinations,24.0,2.4,1.9,4.3,2.7,5.5,4.5,2.7
+286,2018,Male,Immigrants: All origins,47.3,3.9,1.2,8.1,5.3,14.3,10.8,3.6
+287,2018,Male,Net migration,23.3,1.5,-0.7,3.8,2.6,8.8,6.3,0.9
+288,2019,Both sexes,Emigrants: All destinations,53.1,6.3,4.7,10.1,3.7,12.1,11.2,5.1
+289,2019,Both sexes,Immigrants: All origins,97.1,6.3,2.6,15.5,10.0,34.4,21.6,6.7
+290,2019,Both sexes,Net migration,44.0,0.0,-2.1,5.4,6.3,22.3,10.4,1.6
+291,2019,Female,Emigrants: All destinations,26.2,3.5,2.5,4.6,1.8,6.5,5.5,1.9
+292,2019,Female,Immigrants: All origins,48.1,2.5,1.1,8.3,6.2,15.4,11.4,3.2
+293,2019,Female,Net migration,21.9,-1.0,-1.4,3.7,4.4,8.9,5.9,1.3
+294,2019,Male,Emigrants: All destinations,26.9,2.8,2.2,5.5,1.9,5.6,5.7,3.2
+295,2019,Male,Immigrants: All origins,49.0,3.8,1.5,7.2,3.8,19.0,10.2,3.5
+296,2019,Male,Net migration,22.1,1.0,-0.7,1.7,1.9,13.4,4.5,0.3
+297,2020,Both sexes,Emigrants: All destinations,50.9,5.6,3.1,10.7,7.9,8.7,9.7,5.3
+298,2020,Both sexes,Immigrants: All origins,95.6,7.8,3.1,15.5,9.2,36.4,17.6,6.0
+299,2020,Both sexes,Net migration,44.7,2.2,0.0,4.8,1.3,27.7,7.9,0.7
+300,2020,Female,Emigrants: All destinations,25.5,2.9,1.7,5.2,3.8,4.2,5.2,2.6
+301,2020,Female,Immigrants: All origins,48.7,4.3,1.5,7.9,4.4,18.4,9.2,3.0
+302,2020,Female,Net migration,23.2,1.4,-0.2,2.7,0.6,14.2,4.0,0.4
+303,2020,Male,Emigrants: All destinations,25.4,2.7,1.4,5.5,4.1,4.5,4.5,2.7
+304,2020,Male,Immigrants: All origins,46.9,3.5,1.6,7.6,4.8,18.0,8.4,3.0
+305,2020,Male,Net migration,21.5,0.8,0.2,2.1,0.7,13.5,3.9,0.3
+306,2021,Both sexes,Emigrants: All destinations,52.3,2.5,1.7,11.1,4.4,12.5,17.6,2.4
+307,2021,Both sexes,Immigrants: All origins,74.1,5.8,6.0,7.9,8.7,18.4,21.7,5.5
+308,2021,Both sexes,Net migration,21.8,3.3,4.3,-3.2,4.3,5.9,4.1,3.1
+309,2021,Female,Emigrants: All destinations,26.9,1.6,1.1,6.1,2.0,5.5,9.4,1.2
+310,2021,Female,Immigrants: All origins,37.9,3.3,2.4,4.2,4.4,10.3,10.1,3.2
+311,2021,Female,Net migration,11.0,1.7,1.3,-1.9,2.4,4.8,0.7,2.0
+312,2021,Male,Emigrants: All destinations,25.4,0.9,0.6,5.0,2.4,7.0,8.2,1.2
+313,2021,Male,Immigrants: All origins,36.2,2.5,3.6,3.7,4.3,8.1,11.6,2.3
+314,2021,Male,Net migration,10.8,1.6,3.0,-1.3,1.9,1.1,3.4,1.1
+315,2022,Both sexes,Emigrants: All destinations,56.1,3.9,4.2,12.8,5.0,10.7,13.4,6.3
+316,2022,Both sexes,Immigrants: All origins,107.8,3.1,2.2,8.1,16.8,60.5,12.8,4.3
+317,2022,Both sexes,Net migration,51.7,-0.8,-2.0,-4.7,11.8,49.8,-0.6,-2.0
+318,2022,Female,Emigrants: All destinations,26.5,1.8,1.9,7.1,2.3,5.6,6.2,1.7
+319,2022,Female,Immigrants: All origins,58.6,1.6,1.1,3.6,8.8,34.7,6.4,2.4
+320,2022,Female,Net migration,32.1,-0.2,-0.8,-3.5,6.5,29.1,0.2,0.7
+321,2022,Male,Emigrants: All destinations,29.6,2.1,2.3,5.7,2.7,5.1,7.2,4.6
+322,2022,Male,Immigrants: All origins,49.2,1.5,1.1,4.5,8.0,25.8,6.4,1.9
+323,2022,Male,Net migration,19.6,-0.6,-1.2,-1.2,5.3,20.7,-0.8,-2.7
+324,2023,Both sexes,Emigrants: All destinations,64.0,4.7,5.3,13.9,8.8,11.7,14.6,4.9
+325,2023,Both sexes,Immigrants: All origins,141.6,7.7,7.2,17.7,8.9,75.8,18.4,5.9
+326,2023,Both sexes,Net migration,77.7,3.0,1.9,3.8,0.1,64.1,3.8,1.0
+327,2023,Female,Emigrants: All destinations,32.9,2.4,1.8,9.1,5.2,6.4,4.7,3.3
+328,2023,Female,Immigrants: All origins,75.5,3.7,4.7,8.8,5.0,41.0,9.4,2.9
+329,2023,Female,Net migration,42.6,1.3,2.9,-0.3,-0.2,34.6,4.7,-0.4
+330,2023,Male,Emigrants: All destinations,31.0,2.3,3.5,4.8,3.6,5.3,9.9,1.6
+331,2023,Male,Immigrants: All origins,66.1,4.0,2.5,8.9,3.9,34.8,9.0,3.0
+332,2023,Male,Net migration,35.1,1.7,-1.0,4.1,0.3,29.5,-0.9,1.4

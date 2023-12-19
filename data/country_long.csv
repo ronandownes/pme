@@ -1,0 +1,2665 @@
+,year,country,sex,endpoint,value
+0,1987,United Kingdom (1),Both sexes,Net migration,-13.7
+1,1987,United Kingdom (1),Both sexes,Emigrants: All destinations,21.8
+2,1987,United Kingdom (1),Both sexes,Immigrants: All origins,8.1
+3,1987,United Kingdom (1),Male,Net migration,-9.0
+4,1987,United Kingdom (1),Male,Emigrants: All destinations,13.1
+5,1987,United Kingdom (1),Male,Immigrants: All origins,4.1
+6,1987,United Kingdom (1),Female,Net migration,-4.7
+7,1987,United Kingdom (1),Female,Emigrants: All destinations,8.7
+8,1987,United Kingdom (1),Female,Immigrants: All origins,4.0
+9,1987,United States,Both sexes,Net migration,-6.9
+10,1987,United States,Both sexes,Emigrants: All destinations,9.9
+11,1987,United States,Both sexes,Immigrants: All origins,3.0
+12,1987,United States,Male,Net migration,-3.6
+13,1987,United States,Male,Emigrants: All destinations,4.8
+14,1987,United States,Male,Immigrants: All origins,1.2
+15,1987,United States,Female,Net migration,-3.5
+16,1987,United States,Female,Emigrants: All destinations,5.2
+17,1987,United States,Female,Immigrants: All origins,1.7
+18,1987,Canada,Both sexes,Net migration,
+19,1987,Canada,Both sexes,Emigrants: All destinations,
+20,1987,Canada,Both sexes,Immigrants: All origins,
+21,1987,Canada,Male,Net migration,
+22,1987,Canada,Male,Emigrants: All destinations,
+23,1987,Canada,Male,Immigrants: All origins,
+24,1987,Canada,Female,Net migration,
+25,1987,Canada,Female,Emigrants: All destinations,
+26,1987,Canada,Female,Immigrants: All origins,
+27,1987,Australia,Both sexes,Net migration,
+28,1987,Australia,Both sexes,Emigrants: All destinations,
+29,1987,Australia,Both sexes,Immigrants: All origins,
+30,1987,Australia,Male,Net migration,
+31,1987,Australia,Male,Emigrants: All destinations,
+32,1987,Australia,Male,Immigrants: All origins,
+33,1987,Australia,Female,Net migration,
+34,1987,Australia,Female,Emigrants: All destinations,
+35,1987,Australia,Female,Immigrants: All origins,
+36,1987,Other countries (23),Both sexes,Net migration,-1.4
+37,1987,Other countries (23),Both sexes,Emigrants: All destinations,5.4
+38,1987,Other countries (23),Both sexes,Immigrants: All origins,4.0
+39,1987,Other countries (23),Male,Net migration,-0.8
+40,1987,Other countries (23),Male,Emigrants: All destinations,2.6
+41,1987,Other countries (23),Male,Immigrants: All origins,1.8
+42,1987,Other countries (23),Female,Net migration,0.6
+43,1987,Other countries (23),Female,Emigrants: All destinations,2.8
+44,1987,Other countries (23),Female,Immigrants: All origins,2.2
+45,1987,All countries,Both sexes,Net migration,-23.0
+46,1987,All countries,Both sexes,Emigrants: All destinations,40.2
+47,1987,All countries,Both sexes,Immigrants: All origins,17.2
+48,1987,All countries,Male,Net migration,-13.6
+49,1987,All countries,Male,Emigrants: All destinations,
+50,1987,All countries,Male,Immigrants: All origins,
+51,1987,All countries,Female,Net migration,-15.1
+52,1987,All countries,Female,Emigrants: All destinations,
+53,1987,All countries,Female,Immigrants: All origins,
+54,1987,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,-0.9
+55,1987,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,3.1
+56,1987,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,2.2
+57,1987,EU14 excl Irl (UK & Ireland),Male,Net migration,-0.2
+58,1987,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,1.2
+59,1987,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,1.0
+60,1987,EU14 excl Irl (UK & Ireland),Female,Net migration,-7.5
+61,1987,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,1.9
+62,1987,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,1.2
+63,1987,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+64,1987,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+65,1987,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+66,1987,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+67,1987,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+68,1987,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+69,1987,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+70,1987,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+71,1987,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+72,1988,United Kingdom (1),Both sexes,Net migration,-30.3
+73,1988,United Kingdom (1),Both sexes,Emigrants: All destinations,40.2
+74,1988,United Kingdom (1),Both sexes,Immigrants: All origins,9.9
+75,1988,United Kingdom (1),Male,Net migration,-18.1
+76,1988,United Kingdom (1),Male,Emigrants: All destinations,23.5
+77,1988,United Kingdom (1),Male,Immigrants: All origins,5.4
+78,1988,United Kingdom (1),Female,Net migration,-12.2
+79,1988,United Kingdom (1),Female,Emigrants: All destinations,16.7
+80,1988,United Kingdom (1),Female,Immigrants: All origins,4.5
+81,1988,United States,Both sexes,Net migration,-4.5
+82,1988,United States,Both sexes,Emigrants: All destinations,7.9
+83,1988,United States,Both sexes,Immigrants: All origins,3.4
+84,1988,United States,Male,Net migration,-2.1
+85,1988,United States,Male,Emigrants: All destinations,3.8
+86,1988,United States,Male,Immigrants: All origins,1.7
+87,1988,United States,Female,Net migration,-2.5
+88,1988,United States,Female,Emigrants: All destinations,4.2
+89,1988,United States,Female,Immigrants: All origins,1.7
+90,1988,Canada,Both sexes,Net migration,
+91,1988,Canada,Both sexes,Emigrants: All destinations,
+92,1988,Canada,Both sexes,Immigrants: All origins,
+93,1988,Canada,Male,Net migration,
+94,1988,Canada,Male,Emigrants: All destinations,
+95,1988,Canada,Male,Immigrants: All origins,
+96,1988,Canada,Female,Net migration,
+97,1988,Canada,Female,Emigrants: All destinations,
+98,1988,Canada,Female,Immigrants: All origins,
+99,1988,Australia,Both sexes,Net migration,
+100,1988,Australia,Both sexes,Emigrants: All destinations,
+101,1988,Australia,Both sexes,Immigrants: All origins,
+102,1988,Australia,Male,Net migration,
+103,1988,Australia,Male,Emigrants: All destinations,
+104,1988,Australia,Male,Immigrants: All origins,
+105,1988,Australia,Female,Net migration,
+106,1988,Australia,Female,Emigrants: All destinations,
+107,1988,Australia,Female,Immigrants: All origins,
+108,1988,Other countries (23),Both sexes,Net migration,-6.8
+109,1988,Other countries (23),Both sexes,Emigrants: All destinations,10.2
+110,1988,Other countries (23),Both sexes,Immigrants: All origins,3.4
+111,1988,Other countries (23),Male,Net migration,-3.7
+112,1988,Other countries (23),Male,Emigrants: All destinations,5.3
+113,1988,Other countries (23),Male,Immigrants: All origins,1.6
+114,1988,Other countries (23),Female,Net migration,3.3
+115,1988,Other countries (23),Female,Emigrants: All destinations,5.0
+116,1988,Other countries (23),Female,Immigrants: All origins,1.7
+117,1988,All countries,Both sexes,Net migration,-41.9
+118,1988,All countries,Both sexes,Emigrants: All destinations,61.1
+119,1988,All countries,Both sexes,Immigrants: All origins,19.2
+120,1988,All countries,Male,Net migration,-24.2
+121,1988,All countries,Male,Emigrants: All destinations,
+122,1988,All countries,Male,Immigrants: All origins,
+123,1988,All countries,Female,Net migration,-26.7
+124,1988,All countries,Female,Emigrants: All destinations,
+125,1988,All countries,Female,Immigrants: All origins,
+126,1988,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,-0.2
+127,1988,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,2.8
+128,1988,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,2.6
+129,1988,EU14 excl Irl (UK & Ireland),Male,Net migration,-0.3
+130,1988,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,1.5
+131,1988,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,1.2
+132,1988,EU14 excl Irl (UK & Ireland),Female,Net migration,-15.3
+133,1988,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,1.3
+134,1988,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,1.4
+135,1988,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+136,1988,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+137,1988,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+138,1988,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+139,1988,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+140,1988,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+141,1988,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+142,1988,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+143,1988,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+144,1989,United Kingdom (1),Both sexes,Net migration,-34.2
+145,1989,United Kingdom (1),Both sexes,Emigrants: All destinations,48.4
+146,1989,United Kingdom (1),Both sexes,Immigrants: All origins,14.2
+147,1989,United Kingdom (1),Male,Net migration,-21.1
+148,1989,United Kingdom (1),Male,Emigrants: All destinations,28.5
+149,1989,United Kingdom (1),Male,Immigrants: All origins,7.4
+150,1989,United Kingdom (1),Female,Net migration,-13.2
+151,1989,United Kingdom (1),Female,Emigrants: All destinations,19.9
+152,1989,United Kingdom (1),Female,Immigrants: All origins,6.7
+153,1989,United States,Both sexes,Net migration,-5.4
+154,1989,United States,Both sexes,Emigrants: All destinations,8.2
+155,1989,United States,Both sexes,Immigrants: All origins,3.1
+156,1989,United States,Male,Net migration,-2.7
+157,1989,United States,Male,Emigrants: All destinations,4.3
+158,1989,United States,Male,Immigrants: All origins,1.6
+159,1989,United States,Female,Net migration,-2.5
+160,1989,United States,Female,Emigrants: All destinations,3.9
+161,1989,United States,Female,Immigrants: All origins,1.4
+162,1989,Canada,Both sexes,Net migration,
+163,1989,Canada,Both sexes,Emigrants: All destinations,
+164,1989,Canada,Both sexes,Immigrants: All origins,
+165,1989,Canada,Male,Net migration,
+166,1989,Canada,Male,Emigrants: All destinations,
+167,1989,Canada,Male,Immigrants: All origins,
+168,1989,Canada,Female,Net migration,
+169,1989,Canada,Female,Emigrants: All destinations,
+170,1989,Canada,Female,Immigrants: All origins,
+171,1989,Australia,Both sexes,Net migration,
+172,1989,Australia,Both sexes,Emigrants: All destinations,
+173,1989,Australia,Both sexes,Immigrants: All origins,
+174,1989,Australia,Male,Net migration,
+175,1989,Australia,Male,Emigrants: All destinations,
+176,1989,Australia,Male,Immigrants: All origins,
+177,1989,Australia,Female,Net migration,
+178,1989,Australia,Female,Emigrants: All destinations,
+179,1989,Australia,Female,Immigrants: All origins,
+180,1989,Other countries (23),Both sexes,Net migration,-4.2
+181,1989,Other countries (23),Both sexes,Emigrants: All destinations,10.0
+182,1989,Other countries (23),Both sexes,Immigrants: All origins,5.8
+183,1989,Other countries (23),Male,Net migration,-1.5
+184,1989,Other countries (23),Male,Emigrants: All destinations,4.7
+185,1989,Other countries (23),Male,Immigrants: All origins,3.2
+186,1989,Other countries (23),Female,Net migration,2.6
+187,1989,Other countries (23),Female,Emigrants: All destinations,5.3
+188,1989,Other countries (23),Female,Immigrants: All origins,2.7
+189,1989,All countries,Both sexes,Net migration,-43.9
+190,1989,All countries,Both sexes,Emigrants: All destinations,70.6
+191,1989,All countries,Both sexes,Immigrants: All origins,26.7
+192,1989,All countries,Male,Net migration,-25.6
+193,1989,All countries,Male,Emigrants: All destinations,
+194,1989,All countries,Male,Immigrants: All origins,
+195,1989,All countries,Female,Net migration,-30.8
+196,1989,All countries,Female,Emigrants: All destinations,
+197,1989,All countries,Female,Immigrants: All origins,
+198,1989,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,-0.3
+199,1989,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,3.9
+200,1989,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,3.6
+201,1989,EU14 excl Irl (UK & Ireland),Male,Net migration,-0.3
+202,1989,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,1.7
+203,1989,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,1.4
+204,1989,EU14 excl Irl (UK & Ireland),Female,Net migration,-17.7
+205,1989,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,2.2
+206,1989,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,2.2
+207,1989,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+208,1989,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+209,1989,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+210,1989,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+211,1989,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+212,1989,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+213,1989,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+214,1989,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+215,1989,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+216,1990,United Kingdom (1),Both sexes,Net migration,-18.2
+217,1990,United Kingdom (1),Both sexes,Emigrants: All destinations,35.8
+218,1990,United Kingdom (1),Both sexes,Immigrants: All origins,17.6
+219,1990,United Kingdom (1),Male,Net migration,-8.8
+220,1990,United Kingdom (1),Male,Emigrants: All destinations,18.7
+221,1990,United Kingdom (1),Male,Immigrants: All origins,9.9
+222,1990,United Kingdom (1),Female,Net migration,-9.4
+223,1990,United Kingdom (1),Female,Emigrants: All destinations,17.1
+224,1990,United Kingdom (1),Female,Immigrants: All origins,7.7
+225,1990,United States,Both sexes,Net migration,-3.8
+226,1990,United States,Both sexes,Emigrants: All destinations,7.7
+227,1990,United States,Both sexes,Immigrants: All origins,3.9
+228,1990,United States,Male,Net migration,-2.1
+229,1990,United States,Male,Emigrants: All destinations,4.1
+230,1990,United States,Male,Immigrants: All origins,2.0
+231,1990,United States,Female,Net migration,-1.7
+232,1990,United States,Female,Emigrants: All destinations,3.6
+233,1990,United States,Female,Immigrants: All origins,1.9
+234,1990,Canada,Both sexes,Net migration,
+235,1990,Canada,Both sexes,Emigrants: All destinations,
+236,1990,Canada,Both sexes,Immigrants: All origins,
+237,1990,Canada,Male,Net migration,
+238,1990,Canada,Male,Emigrants: All destinations,
+239,1990,Canada,Male,Immigrants: All origins,
+240,1990,Canada,Female,Net migration,
+241,1990,Canada,Female,Emigrants: All destinations,
+242,1990,Canada,Female,Immigrants: All origins,
+243,1990,Australia,Both sexes,Net migration,
+244,1990,Australia,Both sexes,Emigrants: All destinations,
+245,1990,Australia,Both sexes,Immigrants: All origins,
+246,1990,Australia,Male,Net migration,
+247,1990,Australia,Male,Emigrants: All destinations,
+248,1990,Australia,Male,Immigrants: All origins,
+249,1990,Australia,Female,Net migration,
+250,1990,Australia,Female,Emigrants: All destinations,
+251,1990,Australia,Female,Immigrants: All origins,
+252,1990,Other countries (23),Both sexes,Net migration,-0.7
+253,1990,Other countries (23),Both sexes,Emigrants: All destinations,7.6
+254,1990,Other countries (23),Both sexes,Immigrants: All origins,6.9
+255,1990,Other countries (23),Male,Net migration,0.0
+256,1990,Other countries (23),Male,Emigrants: All destinations,3.6
+257,1990,Other countries (23),Male,Immigrants: All origins,3.6
+258,1990,Other countries (23),Female,Net migration,0.7
+259,1990,Other countries (23),Female,Emigrants: All destinations,4.0
+260,1990,Other countries (23),Female,Immigrants: All origins,3.3
+261,1990,All countries,Both sexes,Net migration,-22.9
+262,1990,All countries,Both sexes,Emigrants: All destinations,56.3
+263,1990,All countries,Both sexes,Immigrants: All origins,33.3
+264,1990,All countries,Male,Net migration,-10.9
+265,1990,All countries,Male,Emigrants: All destinations,
+266,1990,All countries,Male,Immigrants: All origins,
+267,1990,All countries,Female,Net migration,-24.8
+268,1990,All countries,Female,Emigrants: All destinations,
+269,1990,All countries,Female,Immigrants: All origins,
+270,1990,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,-0.1
+271,1990,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,5.1
+272,1990,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,5.0
+273,1990,EU14 excl Irl (UK & Ireland),Male,Net migration,0.0
+274,1990,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,2.2
+275,1990,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,2.2
+276,1990,EU14 excl Irl (UK & Ireland),Female,Net migration,-14.4
+277,1990,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,2.9
+278,1990,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,2.7
+279,1990,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+280,1990,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+281,1990,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+282,1990,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+283,1990,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+284,1990,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+285,1990,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+286,1990,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+287,1990,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+288,1991,United Kingdom (1),Both sexes,Net migration,-4.3
+289,1991,United Kingdom (1),Both sexes,Emigrants: All destinations,23.0
+290,1991,United Kingdom (1),Both sexes,Immigrants: All origins,18.7
+291,1991,United Kingdom (1),Male,Net migration,-1.6
+292,1991,United Kingdom (1),Male,Emigrants: All destinations,12.2
+293,1991,United Kingdom (1),Male,Immigrants: All origins,10.6
+294,1991,United Kingdom (1),Female,Net migration,-2.7
+295,1991,United Kingdom (1),Female,Emigrants: All destinations,10.8
+296,1991,United Kingdom (1),Female,Immigrants: All origins,8.1
+297,1991,United States,Both sexes,Net migration,-0.5
+298,1991,United States,Both sexes,Emigrants: All destinations,4.8
+299,1991,United States,Both sexes,Immigrants: All origins,4.3
+300,1991,United States,Male,Net migration,-0.1
+301,1991,United States,Male,Emigrants: All destinations,2.3
+302,1991,United States,Male,Immigrants: All origins,2.2
+303,1991,United States,Female,Net migration,-0.4
+304,1991,United States,Female,Emigrants: All destinations,2.5
+305,1991,United States,Female,Immigrants: All origins,2.1
+306,1991,Canada,Both sexes,Net migration,
+307,1991,Canada,Both sexes,Emigrants: All destinations,
+308,1991,Canada,Both sexes,Immigrants: All origins,
+309,1991,Canada,Male,Net migration,
+310,1991,Canada,Male,Emigrants: All destinations,
+311,1991,Canada,Male,Immigrants: All origins,
+312,1991,Canada,Female,Net migration,
+313,1991,Canada,Female,Emigrants: All destinations,
+314,1991,Canada,Female,Immigrants: All origins,
+315,1991,Australia,Both sexes,Net migration,
+316,1991,Australia,Both sexes,Emigrants: All destinations,
+317,1991,Australia,Both sexes,Immigrants: All origins,
+318,1991,Australia,Male,Net migration,
+319,1991,Australia,Male,Emigrants: All destinations,
+320,1991,Australia,Male,Immigrants: All origins,
+321,1991,Australia,Female,Net migration,
+322,1991,Australia,Female,Emigrants: All destinations,
+323,1991,Australia,Female,Immigrants: All origins,
+324,1991,Other countries (23),Both sexes,Net migration,1.7
+325,1991,Other countries (23),Both sexes,Emigrants: All destinations,4.4
+326,1991,Other countries (23),Both sexes,Immigrants: All origins,6.1
+327,1991,Other countries (23),Male,Net migration,1.1
+328,1991,Other countries (23),Male,Emigrants: All destinations,1.8
+329,1991,Other countries (23),Male,Immigrants: All origins,2.9
+330,1991,Other countries (23),Female,Net migration,-0.5
+331,1991,Other countries (23),Female,Emigrants: All destinations,2.7
+332,1991,Other countries (23),Female,Immigrants: All origins,3.2
+333,1991,All countries,Both sexes,Net migration,-2.0
+334,1991,All countries,Both sexes,Emigrants: All destinations,35.3
+335,1991,All countries,Both sexes,Immigrants: All origins,33.3
+336,1991,All countries,Male,Net migration,-0.1
+337,1991,All countries,Male,Emigrants: All destinations,
+338,1991,All countries,Male,Immigrants: All origins,
+339,1991,All countries,Female,Net migration,-12.1
+340,1991,All countries,Female,Emigrants: All destinations,
+341,1991,All countries,Female,Immigrants: All origins,
+342,1991,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,1.1
+343,1991,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,3.1
+344,1991,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,4.2
+345,1991,EU14 excl Irl (UK & Ireland),Male,Net migration,0.5
+346,1991,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,1.4
+347,1991,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,1.9
+348,1991,EU14 excl Irl (UK & Ireland),Female,Net migration,-8.5
+349,1991,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,1.7
+350,1991,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,2.3
+351,1991,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+352,1991,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+353,1991,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+354,1991,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+355,1991,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+356,1991,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+357,1991,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+358,1991,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+359,1991,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+360,1992,United Kingdom (1),Both sexes,Net migration,5.8
+361,1992,United Kingdom (1),Both sexes,Emigrants: All destinations,16.9
+362,1992,United Kingdom (1),Both sexes,Immigrants: All origins,22.7
+363,1992,United Kingdom (1),Male,Net migration,3.6
+364,1992,United Kingdom (1),Male,Emigrants: All destinations,9.4
+365,1992,United Kingdom (1),Male,Immigrants: All origins,13.0
+366,1992,United Kingdom (1),Female,Net migration,2.2
+367,1992,United Kingdom (1),Female,Emigrants: All destinations,7.5
+368,1992,United Kingdom (1),Female,Immigrants: All origins,9.7
+369,1992,United States,Both sexes,Net migration,1.1
+370,1992,United States,Both sexes,Emigrants: All destinations,3.5
+371,1992,United States,Both sexes,Immigrants: All origins,4.6
+372,1992,United States,Male,Net migration,0.1
+373,1992,United States,Male,Emigrants: All destinations,2.0
+374,1992,United States,Male,Immigrants: All origins,2.1
+375,1992,United States,Female,Net migration,1.0
+376,1992,United States,Female,Emigrants: All destinations,1.5
+377,1992,United States,Female,Immigrants: All origins,2.5
+378,1992,Canada,Both sexes,Net migration,
+379,1992,Canada,Both sexes,Emigrants: All destinations,
+380,1992,Canada,Both sexes,Immigrants: All origins,
+381,1992,Canada,Male,Net migration,
+382,1992,Canada,Male,Emigrants: All destinations,
+383,1992,Canada,Male,Immigrants: All origins,
+384,1992,Canada,Female,Net migration,
+385,1992,Canada,Female,Emigrants: All destinations,
+386,1992,Canada,Female,Immigrants: All origins,
+387,1992,Australia,Both sexes,Net migration,
+388,1992,Australia,Both sexes,Emigrants: All destinations,
+389,1992,Australia,Both sexes,Immigrants: All origins,
+390,1992,Australia,Male,Net migration,
+391,1992,Australia,Male,Emigrants: All destinations,
+392,1992,Australia,Male,Immigrants: All origins,
+393,1992,Australia,Female,Net migration,
+394,1992,Australia,Female,Emigrants: All destinations,
+395,1992,Australia,Female,Immigrants: All origins,
+396,1992,Other countries (23),Both sexes,Net migration,1.4
+397,1992,Other countries (23),Both sexes,Emigrants: All destinations,5.5
+398,1992,Other countries (23),Both sexes,Immigrants: All origins,6.9
+399,1992,Other countries (23),Male,Net migration,1.0
+400,1992,Other countries (23),Male,Emigrants: All destinations,2.4
+401,1992,Other countries (23),Male,Immigrants: All origins,3.4
+402,1992,Other countries (23),Female,Net migration,-0.4
+403,1992,Other countries (23),Female,Emigrants: All destinations,3.1
+404,1992,Other countries (23),Female,Immigrants: All origins,3.5
+405,1992,All countries,Both sexes,Net migration,7.4
+406,1992,All countries,Both sexes,Emigrants: All destinations,33.4
+407,1992,All countries,Both sexes,Immigrants: All origins,40.7
+408,1992,All countries,Male,Net migration,4.4
+409,1992,All countries,Male,Emigrants: All destinations,17.3
+410,1992,All countries,Male,Immigrants: All origins,21.8
+411,1992,All countries,Female,Net migration,2.9
+412,1992,All countries,Female,Emigrants: All destinations,16.0
+413,1992,All countries,Female,Immigrants: All origins,18.9
+414,1992,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,-1.0
+415,1992,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,7.5
+416,1992,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,6.5
+417,1992,EU14 excl Irl (UK & Ireland),Male,Net migration,-0.1
+418,1992,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,3.5
+419,1992,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,3.4
+420,1992,EU14 excl Irl (UK & Ireland),Female,Net migration,-4.3
+421,1992,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,4.0
+422,1992,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,3.2
+423,1992,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+424,1992,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+425,1992,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+426,1992,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+427,1992,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+428,1992,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+429,1992,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+430,1992,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+431,1992,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+432,1993,United Kingdom (1),Both sexes,Net migration,1.1
+433,1993,United Kingdom (1),Both sexes,Emigrants: All destinations,16.4
+434,1993,United Kingdom (1),Both sexes,Immigrants: All origins,17.5
+435,1993,United Kingdom (1),Male,Net migration,0.8
+436,1993,United Kingdom (1),Male,Emigrants: All destinations,8.2
+437,1993,United Kingdom (1),Male,Immigrants: All origins,9.0
+438,1993,United Kingdom (1),Female,Net migration,0.2
+439,1993,United Kingdom (1),Female,Emigrants: All destinations,8.2
+440,1993,United Kingdom (1),Female,Immigrants: All origins,8.4
+441,1993,United States,Both sexes,Net migration,-0.6
+442,1993,United States,Both sexes,Emigrants: All destinations,5.6
+443,1993,United States,Both sexes,Immigrants: All origins,5.0
+444,1993,United States,Male,Net migration,-0.6
+445,1993,United States,Male,Emigrants: All destinations,3.1
+446,1993,United States,Male,Immigrants: All origins,2.5
+447,1993,United States,Female,Net migration,0.0
+448,1993,United States,Female,Emigrants: All destinations,2.5
+449,1993,United States,Female,Immigrants: All origins,2.5
+450,1993,Canada,Both sexes,Net migration,
+451,1993,Canada,Both sexes,Emigrants: All destinations,
+452,1993,Canada,Both sexes,Immigrants: All origins,
+453,1993,Canada,Male,Net migration,
+454,1993,Canada,Male,Emigrants: All destinations,
+455,1993,Canada,Male,Immigrants: All origins,
+456,1993,Canada,Female,Net migration,
+457,1993,Canada,Female,Emigrants: All destinations,
+458,1993,Canada,Female,Immigrants: All origins,
+459,1993,Australia,Both sexes,Net migration,
+460,1993,Australia,Both sexes,Emigrants: All destinations,
+461,1993,Australia,Both sexes,Immigrants: All origins,
+462,1993,Australia,Male,Net migration,
+463,1993,Australia,Male,Emigrants: All destinations,
+464,1993,Australia,Male,Immigrants: All origins,
+465,1993,Australia,Female,Net migration,
+466,1993,Australia,Female,Emigrants: All destinations,
+467,1993,Australia,Female,Immigrants: All origins,
+468,1993,Other countries (23),Both sexes,Net migration,-0.1
+469,1993,Other countries (23),Both sexes,Emigrants: All destinations,5.8
+470,1993,Other countries (23),Both sexes,Immigrants: All origins,5.7
+471,1993,Other countries (23),Male,Net migration,0.1
+472,1993,Other countries (23),Male,Emigrants: All destinations,3.0
+473,1993,Other countries (23),Male,Immigrants: All origins,3.1
+474,1993,Other countries (23),Female,Net migration,0.3
+475,1993,Other countries (23),Female,Emigrants: All destinations,2.9
+476,1993,Other countries (23),Female,Immigrants: All origins,2.6
+477,1993,All countries,Both sexes,Net migration,-0.4
+478,1993,All countries,Both sexes,Emigrants: All destinations,35.1
+479,1993,All countries,Both sexes,Immigrants: All origins,34.7
+480,1993,All countries,Male,Net migration,-0.2
+481,1993,All countries,Male,Emigrants: All destinations,17.6
+482,1993,All countries,Male,Immigrants: All origins,17.4
+483,1993,All countries,Female,Net migration,-0.2
+484,1993,All countries,Female,Emigrants: All destinations,17.5
+485,1993,All countries,Female,Immigrants: All origins,17.3
+486,1993,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,-0.7
+487,1993,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,7.3
+488,1993,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,6.6
+489,1993,EU14 excl Irl (UK & Ireland),Male,Net migration,-0.5
+490,1993,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,3.4
+491,1993,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,2.9
+492,1993,EU14 excl Irl (UK & Ireland),Female,Net migration,-4.4
+493,1993,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,3.9
+494,1993,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,3.8
+495,1993,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+496,1993,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+497,1993,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+498,1993,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+499,1993,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+500,1993,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+501,1993,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+502,1993,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+503,1993,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+504,1994,United Kingdom (1),Both sexes,Net migration,0.4
+505,1994,United Kingdom (1),Both sexes,Emigrants: All destinations,14.8
+506,1994,United Kingdom (1),Both sexes,Immigrants: All origins,15.2
+507,1994,United Kingdom (1),Male,Net migration,0.1
+508,1994,United Kingdom (1),Male,Emigrants: All destinations,7.7
+509,1994,United Kingdom (1),Male,Immigrants: All origins,7.8
+510,1994,United Kingdom (1),Female,Net migration,0.3
+511,1994,United Kingdom (1),Female,Emigrants: All destinations,7.1
+512,1994,United Kingdom (1),Female,Immigrants: All origins,7.4
+513,1994,United States,Both sexes,Net migration,-5.3
+514,1994,United States,Both sexes,Emigrants: All destinations,9.6
+515,1994,United States,Both sexes,Immigrants: All origins,4.3
+516,1994,United States,Male,Net migration,-2.9
+517,1994,United States,Male,Emigrants: All destinations,5.0
+518,1994,United States,Male,Immigrants: All origins,2.1
+519,1994,United States,Female,Net migration,-2.4
+520,1994,United States,Female,Emigrants: All destinations,4.6
+521,1994,United States,Female,Immigrants: All origins,2.2
+522,1994,Canada,Both sexes,Net migration,
+523,1994,Canada,Both sexes,Emigrants: All destinations,
+524,1994,Canada,Both sexes,Immigrants: All origins,
+525,1994,Canada,Male,Net migration,
+526,1994,Canada,Male,Emigrants: All destinations,
+527,1994,Canada,Male,Immigrants: All origins,
+528,1994,Canada,Female,Net migration,
+529,1994,Canada,Female,Emigrants: All destinations,
+530,1994,Canada,Female,Immigrants: All origins,
+531,1994,Australia,Both sexes,Net migration,
+532,1994,Australia,Both sexes,Emigrants: All destinations,
+533,1994,Australia,Both sexes,Immigrants: All origins,
+534,1994,Australia,Male,Net migration,
+535,1994,Australia,Male,Emigrants: All destinations,
+536,1994,Australia,Male,Immigrants: All origins,
+537,1994,Australia,Female,Net migration,
+538,1994,Australia,Female,Emigrants: All destinations,
+539,1994,Australia,Female,Immigrants: All origins,
+540,1994,Other countries (23),Both sexes,Net migration,-0.1
+541,1994,Other countries (23),Both sexes,Emigrants: All destinations,4.9
+542,1994,Other countries (23),Both sexes,Immigrants: All origins,4.8
+543,1994,Other countries (23),Male,Net migration,0.0
+544,1994,Other countries (23),Male,Emigrants: All destinations,2.2
+545,1994,Other countries (23),Male,Immigrants: All origins,2.2
+546,1994,Other countries (23),Female,Net migration,0.1
+547,1994,Other countries (23),Female,Emigrants: All destinations,2.7
+548,1994,Other countries (23),Female,Immigrants: All origins,2.6
+549,1994,All countries,Both sexes,Net migration,-4.7
+550,1994,All countries,Both sexes,Emigrants: All destinations,34.8
+551,1994,All countries,Both sexes,Immigrants: All origins,30.1
+552,1994,All countries,Male,Net migration,-2.7
+553,1994,All countries,Male,Emigrants: All destinations,17.6
+554,1994,All countries,Male,Immigrants: All origins,14.8
+555,1994,All countries,Female,Net migration,-2.0
+556,1994,All countries,Female,Emigrants: All destinations,17.3
+557,1994,All countries,Female,Immigrants: All origins,15.3
+558,1994,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,0.3
+559,1994,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,5.5
+560,1994,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,5.8
+561,1994,EU14 excl Irl (UK & Ireland),Male,Net migration,0.1
+562,1994,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,2.6
+563,1994,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,2.7
+564,1994,EU14 excl Irl (UK & Ireland),Female,Net migration,-4.0
+565,1994,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,2.9
+566,1994,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,3.1
+567,1994,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+568,1994,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+569,1994,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+570,1994,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+571,1994,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+572,1994,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+573,1994,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+574,1994,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+575,1994,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+576,1995,United Kingdom (1),Both sexes,Net migration,2.3
+577,1995,United Kingdom (1),Both sexes,Emigrants: All destinations,13.3
+578,1995,United Kingdom (1),Both sexes,Immigrants: All origins,15.6
+579,1995,United Kingdom (1),Male,Net migration,-0.5
+580,1995,United Kingdom (1),Male,Emigrants: All destinations,7.8
+581,1995,United Kingdom (1),Male,Immigrants: All origins,7.3
+582,1995,United Kingdom (1),Female,Net migration,2.8
+583,1995,United Kingdom (1),Female,Emigrants: All destinations,5.4
+584,1995,United Kingdom (1),Female,Immigrants: All origins,8.2
+585,1995,United States,Both sexes,Net migration,-4.4
+586,1995,United States,Both sexes,Emigrants: All destinations,8.2
+587,1995,United States,Both sexes,Immigrants: All origins,3.8
+588,1995,United States,Male,Net migration,-2.8
+589,1995,United States,Male,Emigrants: All destinations,4.6
+590,1995,United States,Male,Immigrants: All origins,1.8
+591,1995,United States,Female,Net migration,-1.5
+592,1995,United States,Female,Emigrants: All destinations,3.6
+593,1995,United States,Female,Immigrants: All origins,2.1
+594,1995,Canada,Both sexes,Net migration,
+595,1995,Canada,Both sexes,Emigrants: All destinations,
+596,1995,Canada,Both sexes,Immigrants: All origins,
+597,1995,Canada,Male,Net migration,
+598,1995,Canada,Male,Emigrants: All destinations,
+599,1995,Canada,Male,Immigrants: All origins,
+600,1995,Canada,Female,Net migration,
+601,1995,Canada,Female,Emigrants: All destinations,
+602,1995,Canada,Female,Immigrants: All origins,
+603,1995,Australia,Both sexes,Net migration,
+604,1995,Australia,Both sexes,Emigrants: All destinations,
+605,1995,Australia,Both sexes,Immigrants: All origins,
+606,1995,Australia,Male,Net migration,
+607,1995,Australia,Male,Emigrants: All destinations,
+608,1995,Australia,Male,Immigrants: All origins,
+609,1995,Australia,Female,Net migration,
+610,1995,Australia,Female,Emigrants: All destinations,
+611,1995,Australia,Female,Immigrants: All origins,
+612,1995,Other countries (23),Both sexes,Net migration,-1.1
+613,1995,Other countries (23),Both sexes,Emigrants: All destinations,6.6
+614,1995,Other countries (23),Both sexes,Immigrants: All origins,5.5
+615,1995,Other countries (23),Male,Net migration,-0.1
+616,1995,Other countries (23),Male,Emigrants: All destinations,3.2
+617,1995,Other countries (23),Male,Immigrants: All origins,3.1
+618,1995,Other countries (23),Female,Net migration,0.9
+619,1995,Other countries (23),Female,Emigrants: All destinations,3.4
+620,1995,Other countries (23),Female,Immigrants: All origins,2.5
+621,1995,All countries,Both sexes,Net migration,-1.9
+622,1995,All countries,Both sexes,Emigrants: All destinations,33.1
+623,1995,All countries,Both sexes,Immigrants: All origins,31.2
+624,1995,All countries,Male,Net migration,-3.4
+625,1995,All countries,Male,Emigrants: All destinations,18.2
+626,1995,All countries,Male,Immigrants: All origins,14.7
+627,1995,All countries,Female,Net migration,1.6
+628,1995,All countries,Female,Emigrants: All destinations,14.9
+629,1995,All countries,Female,Immigrants: All origins,16.5
+630,1995,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,1.2
+631,1995,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,5.1
+632,1995,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,6.3
+633,1995,EU14 excl Irl (UK & Ireland),Male,Net migration,0.1
+634,1995,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,2.5
+635,1995,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,2.6
+636,1995,EU14 excl Irl (UK & Ireland),Female,Net migration,-1.7
+637,1995,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,2.6
+638,1995,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,3.7
+639,1995,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+640,1995,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+641,1995,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+642,1995,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+643,1995,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+644,1995,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+645,1995,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+646,1995,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+647,1995,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+648,1996,United Kingdom (1),Both sexes,Net migration,3.5
+649,1996,United Kingdom (1),Both sexes,Emigrants: All destinations,14.1
+650,1996,United Kingdom (1),Both sexes,Immigrants: All origins,17.6
+651,1996,United Kingdom (1),Male,Net migration,1.7
+652,1996,United Kingdom (1),Male,Emigrants: All destinations,6.7
+653,1996,United Kingdom (1),Male,Immigrants: All origins,8.4
+654,1996,United Kingdom (1),Female,Net migration,1.8
+655,1996,United Kingdom (1),Female,Emigrants: All destinations,7.4
+656,1996,United Kingdom (1),Female,Immigrants: All origins,9.2
+657,1996,United States,Both sexes,Net migration,1.2
+658,1996,United States,Both sexes,Emigrants: All destinations,5.2
+659,1996,United States,Both sexes,Immigrants: All origins,6.4
+660,1996,United States,Male,Net migration,0.1
+661,1996,United States,Male,Emigrants: All destinations,2.7
+662,1996,United States,Male,Immigrants: All origins,2.8
+663,1996,United States,Female,Net migration,1.1
+664,1996,United States,Female,Emigrants: All destinations,2.5
+665,1996,United States,Female,Immigrants: All origins,3.6
+666,1996,Canada,Both sexes,Net migration,
+667,1996,Canada,Both sexes,Emigrants: All destinations,
+668,1996,Canada,Both sexes,Immigrants: All origins,
+669,1996,Canada,Male,Net migration,
+670,1996,Canada,Male,Emigrants: All destinations,
+671,1996,Canada,Male,Immigrants: All origins,
+672,1996,Canada,Female,Net migration,
+673,1996,Canada,Female,Emigrants: All destinations,
+674,1996,Canada,Female,Immigrants: All origins,
+675,1996,Australia,Both sexes,Net migration,
+676,1996,Australia,Both sexes,Emigrants: All destinations,
+677,1996,Australia,Both sexes,Immigrants: All origins,
+678,1996,Australia,Male,Net migration,
+679,1996,Australia,Male,Emigrants: All destinations,
+680,1996,Australia,Male,Immigrants: All origins,
+681,1996,Australia,Female,Net migration,
+682,1996,Australia,Female,Emigrants: All destinations,
+683,1996,Australia,Female,Immigrants: All origins,
+684,1996,Other countries (23),Both sexes,Net migration,1.2
+685,1996,Other countries (23),Both sexes,Emigrants: All destinations,6.8
+686,1996,Other countries (23),Both sexes,Immigrants: All origins,8.0
+687,1996,Other countries (23),Male,Net migration,0.7
+688,1996,Other countries (23),Male,Emigrants: All destinations,3.6
+689,1996,Other countries (23),Male,Immigrants: All origins,4.3
+690,1996,Other countries (23),Female,Net migration,-0.5
+691,1996,Other countries (23),Female,Emigrants: All destinations,3.2
+692,1996,Other countries (23),Female,Immigrants: All origins,3.7
+693,1996,All countries,Both sexes,Net migration,8.0
+694,1996,All countries,Both sexes,Emigrants: All destinations,31.2
+695,1996,All countries,Both sexes,Immigrants: All origins,39.2
+696,1996,All countries,Male,Net migration,3.5
+697,1996,All countries,Male,Emigrants: All destinations,15.3
+698,1996,All countries,Male,Immigrants: All origins,18.8
+699,1996,All countries,Female,Net migration,4.4
+700,1996,All countries,Female,Emigrants: All destinations,15.9
+701,1996,All countries,Female,Immigrants: All origins,20.4
+702,1996,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,2.1
+703,1996,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,5.1
+704,1996,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,7.2
+705,1996,EU14 excl Irl (UK & Ireland),Male,Net migration,1.0
+706,1996,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,2.2
+707,1996,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,3.2
+708,1996,EU14 excl Irl (UK & Ireland),Female,Net migration,-3.5
+709,1996,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,2.8
+710,1996,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,3.9
+711,1996,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+712,1996,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+713,1996,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+714,1996,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+715,1996,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+716,1996,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+717,1996,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+718,1996,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+719,1996,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+720,1997,United Kingdom (1),Both sexes,Net migration,8.7
+721,1997,United Kingdom (1),Both sexes,Emigrants: All destinations,11.6
+722,1997,United Kingdom (1),Both sexes,Immigrants: All origins,20.3
+723,1997,United Kingdom (1),Male,Net migration,5.0
+724,1997,United Kingdom (1),Male,Emigrants: All destinations,5.4
+725,1997,United Kingdom (1),Male,Immigrants: All origins,10.4
+726,1997,United Kingdom (1),Female,Net migration,3.8
+727,1997,United Kingdom (1),Female,Emigrants: All destinations,6.1
+728,1997,United Kingdom (1),Female,Immigrants: All origins,9.9
+729,1997,United States,Both sexes,Net migration,3.3
+730,1997,United States,Both sexes,Emigrants: All destinations,3.4
+731,1997,United States,Both sexes,Immigrants: All origins,6.7
+732,1997,United States,Male,Net migration,0.6
+733,1997,United States,Male,Emigrants: All destinations,2.1
+734,1997,United States,Male,Immigrants: All origins,2.7
+735,1997,United States,Female,Net migration,2.7
+736,1997,United States,Female,Emigrants: All destinations,1.3
+737,1997,United States,Female,Immigrants: All origins,4.0
+738,1997,Canada,Both sexes,Net migration,
+739,1997,Canada,Both sexes,Emigrants: All destinations,
+740,1997,Canada,Both sexes,Immigrants: All origins,
+741,1997,Canada,Male,Net migration,
+742,1997,Canada,Male,Emigrants: All destinations,
+743,1997,Canada,Male,Immigrants: All origins,
+744,1997,Canada,Female,Net migration,
+745,1997,Canada,Female,Emigrants: All destinations,
+746,1997,Canada,Female,Immigrants: All origins,
+747,1997,Australia,Both sexes,Net migration,
+748,1997,Australia,Both sexes,Emigrants: All destinations,
+749,1997,Australia,Both sexes,Immigrants: All origins,
+750,1997,Australia,Male,Net migration,
+751,1997,Australia,Male,Emigrants: All destinations,
+752,1997,Australia,Male,Immigrants: All origins,
+753,1997,Australia,Female,Net migration,
+754,1997,Australia,Female,Emigrants: All destinations,
+755,1997,Australia,Female,Immigrants: All origins,
+756,1997,Other countries (23),Both sexes,Net migration,2.8
+757,1997,Other countries (23),Both sexes,Emigrants: All destinations,6.6
+758,1997,Other countries (23),Both sexes,Immigrants: All origins,9.4
+759,1997,Other countries (23),Male,Net migration,1.7
+760,1997,Other countries (23),Male,Emigrants: All destinations,3.2
+761,1997,Other countries (23),Male,Immigrants: All origins,4.9
+762,1997,Other countries (23),Female,Net migration,-1.1
+763,1997,Other countries (23),Female,Emigrants: All destinations,3.4
+764,1997,Other countries (23),Female,Immigrants: All origins,4.5
+765,1997,All countries,Both sexes,Net migration,19.2
+766,1997,All countries,Both sexes,Emigrants: All destinations,25.3
+767,1997,All countries,Both sexes,Immigrants: All origins,44.5
+768,1997,All countries,Male,Net migration,9.5
+769,1997,All countries,Male,Emigrants: All destinations,12.5
+770,1997,All countries,Male,Immigrants: All origins,22.0
+771,1997,All countries,Female,Net migration,9.7
+772,1997,All countries,Female,Emigrants: All destinations,12.9
+773,1997,All countries,Female,Immigrants: All origins,22.6
+774,1997,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,4.3
+775,1997,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,3.8
+776,1997,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,8.1
+777,1997,EU14 excl Irl (UK & Ireland),Male,Net migration,2.1
+778,1997,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,1.8
+779,1997,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,3.9
+780,1997,EU14 excl Irl (UK & Ireland),Female,Net migration,-1.9
+781,1997,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,2.0
+782,1997,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,4.2
+783,1997,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+784,1997,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+785,1997,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+786,1997,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+787,1997,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+788,1997,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+789,1997,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+790,1997,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+791,1997,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+792,1998,United Kingdom (1),Both sexes,Net migration,10.3
+793,1998,United Kingdom (1),Both sexes,Emigrants: All destinations,11.8
+794,1998,United Kingdom (1),Both sexes,Immigrants: All origins,22.1
+795,1998,United Kingdom (1),Male,Net migration,5.4
+796,1998,United Kingdom (1),Male,Emigrants: All destinations,6.0
+797,1998,United Kingdom (1),Male,Immigrants: All origins,11.4
+798,1998,United Kingdom (1),Female,Net migration,4.8
+799,1998,United Kingdom (1),Female,Emigrants: All destinations,5.8
+800,1998,United Kingdom (1),Female,Immigrants: All origins,10.6
+801,1998,United States,Both sexes,Net migration,-0.2
+802,1998,United States,Both sexes,Emigrants: All destinations,5.3
+803,1998,United States,Both sexes,Immigrants: All origins,5.1
+804,1998,United States,Male,Net migration,-0.6
+805,1998,United States,Male,Emigrants: All destinations,3.3
+806,1998,United States,Male,Immigrants: All origins,2.7
+807,1998,United States,Female,Net migration,0.4
+808,1998,United States,Female,Emigrants: All destinations,2.0
+809,1998,United States,Female,Immigrants: All origins,2.4
+810,1998,Canada,Both sexes,Net migration,
+811,1998,Canada,Both sexes,Emigrants: All destinations,
+812,1998,Canada,Both sexes,Immigrants: All origins,
+813,1998,Canada,Male,Net migration,
+814,1998,Canada,Male,Emigrants: All destinations,
+815,1998,Canada,Male,Immigrants: All origins,
+816,1998,Canada,Female,Net migration,
+817,1998,Canada,Female,Emigrants: All destinations,
+818,1998,Canada,Female,Immigrants: All origins,
+819,1998,Australia,Both sexes,Net migration,
+820,1998,Australia,Both sexes,Emigrants: All destinations,
+821,1998,Australia,Both sexes,Immigrants: All origins,
+822,1998,Australia,Male,Net migration,
+823,1998,Australia,Male,Emigrants: All destinations,
+824,1998,Australia,Male,Immigrants: All origins,
+825,1998,Australia,Female,Net migration,
+826,1998,Australia,Female,Emigrants: All destinations,
+827,1998,Australia,Female,Immigrants: All origins,
+828,1998,Other countries (23),Both sexes,Net migration,4.1
+829,1998,Other countries (23),Both sexes,Emigrants: All destinations,5.6
+830,1998,Other countries (23),Both sexes,Immigrants: All origins,9.7
+831,1998,Other countries (23),Male,Net migration,2.7
+832,1998,Other countries (23),Male,Emigrants: All destinations,2.3
+833,1998,Other countries (23),Male,Immigrants: All origins,5.0
+834,1998,Other countries (23),Female,Net migration,-1.5
+835,1998,Other countries (23),Female,Emigrants: All destinations,3.2
+836,1998,Other countries (23),Female,Immigrants: All origins,4.7
+837,1998,All countries,Both sexes,Net migration,17.4
+838,1998,All countries,Both sexes,Emigrants: All destinations,28.6
+839,1998,All countries,Both sexes,Immigrants: All origins,46.0
+840,1998,All countries,Male,Net migration,8.8
+841,1998,All countries,Male,Emigrants: All destinations,13.9
+842,1998,All countries,Male,Immigrants: All origins,22.7
+843,1998,All countries,Female,Net migration,8.6
+844,1998,All countries,Female,Emigrants: All destinations,14.7
+845,1998,All countries,Female,Immigrants: All origins,23.3
+846,1998,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,3.2
+847,1998,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,5.9
+848,1998,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,9.1
+849,1998,EU14 excl Irl (UK & Ireland),Male,Net migration,1.2
+850,1998,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,2.3
+851,1998,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,3.5
+852,1998,EU14 excl Irl (UK & Ireland),Female,Net migration,-0.3
+853,1998,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,3.6
+854,1998,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,5.5
+855,1998,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+856,1998,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+857,1998,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+858,1998,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+859,1998,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+860,1998,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+861,1998,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+862,1998,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+863,1998,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+864,1999,United Kingdom (1),Both sexes,Net migration,11.1
+865,1999,United Kingdom (1),Both sexes,Emigrants: All destinations,11.2
+866,1999,United Kingdom (1),Both sexes,Immigrants: All origins,22.3
+867,1999,United Kingdom (1),Male,Net migration,6.6
+868,1999,United Kingdom (1),Male,Emigrants: All destinations,5.2
+869,1999,United Kingdom (1),Male,Immigrants: All origins,11.8
+870,1999,United Kingdom (1),Female,Net migration,4.5
+871,1999,United Kingdom (1),Female,Emigrants: All destinations,6.0
+872,1999,United Kingdom (1),Female,Immigrants: All origins,10.5
+873,1999,United States,Both sexes,Net migration,0.6
+874,1999,United States,Both sexes,Emigrants: All destinations,5.3
+875,1999,United States,Both sexes,Immigrants: All origins,5.9
+876,1999,United States,Male,Net migration,-0.1
+877,1999,United States,Male,Emigrants: All destinations,2.9
+878,1999,United States,Male,Immigrants: All origins,2.8
+879,1999,United States,Female,Net migration,0.6
+880,1999,United States,Female,Emigrants: All destinations,2.4
+881,1999,United States,Female,Immigrants: All origins,3.0
+882,1999,Canada,Both sexes,Net migration,
+883,1999,Canada,Both sexes,Emigrants: All destinations,
+884,1999,Canada,Both sexes,Immigrants: All origins,
+885,1999,Canada,Male,Net migration,
+886,1999,Canada,Male,Emigrants: All destinations,
+887,1999,Canada,Male,Immigrants: All origins,
+888,1999,Canada,Female,Net migration,
+889,1999,Canada,Female,Emigrants: All destinations,
+890,1999,Canada,Female,Immigrants: All origins,
+891,1999,Australia,Both sexes,Net migration,
+892,1999,Australia,Both sexes,Emigrants: All destinations,
+893,1999,Australia,Both sexes,Immigrants: All origins,
+894,1999,Australia,Male,Net migration,
+895,1999,Australia,Male,Emigrants: All destinations,
+896,1999,Australia,Male,Immigrants: All origins,
+897,1999,Australia,Female,Net migration,
+898,1999,Australia,Female,Emigrants: All destinations,
+899,1999,Australia,Female,Immigrants: All origins,
+900,1999,Other countries (23),Both sexes,Net migration,1.0
+901,1999,Other countries (23),Both sexes,Emigrants: All destinations,9.5
+902,1999,Other countries (23),Both sexes,Immigrants: All origins,10.5
+903,1999,Other countries (23),Male,Net migration,0.2
+904,1999,Other countries (23),Male,Emigrants: All destinations,5.1
+905,1999,Other countries (23),Male,Immigrants: All origins,5.3
+906,1999,Other countries (23),Female,Net migration,-0.8
+907,1999,Other countries (23),Female,Emigrants: All destinations,4.4
+908,1999,Other countries (23),Female,Immigrants: All origins,5.2
+909,1999,All countries,Both sexes,Net migration,17.3
+910,1999,All countries,Both sexes,Emigrants: All destinations,31.5
+911,1999,All countries,Both sexes,Immigrants: All origins,48.9
+912,1999,All countries,Male,Net migration,9.0
+913,1999,All countries,Male,Emigrants: All destinations,15.5
+914,1999,All countries,Male,Immigrants: All origins,24.5
+915,1999,All countries,Female,Net migration,8.3
+916,1999,All countries,Female,Emigrants: All destinations,16.1
+917,1999,All countries,Female,Immigrants: All origins,24.4
+918,1999,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,4.7
+919,1999,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,5.5
+920,1999,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,10.2
+921,1999,EU14 excl Irl (UK & Ireland),Male,Net migration,2.4
+922,1999,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,2.2
+923,1999,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,4.6
+924,1999,EU14 excl Irl (UK & Ireland),Female,Net migration,-0.3
+925,1999,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,3.2
+926,1999,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,5.7
+927,1999,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+928,1999,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+929,1999,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+930,1999,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+931,1999,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+932,1999,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+933,1999,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+934,1999,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+935,1999,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+936,2000,United Kingdom (1),Both sexes,Net migration,13.6
+937,2000,United Kingdom (1),Both sexes,Emigrants: All destinations,7.2
+938,2000,United Kingdom (1),Both sexes,Immigrants: All origins,20.8
+939,2000,United Kingdom (1),Male,Net migration,7.0
+940,2000,United Kingdom (1),Male,Emigrants: All destinations,3.4
+941,2000,United Kingdom (1),Male,Immigrants: All origins,10.4
+942,2000,United Kingdom (1),Female,Net migration,6.8
+943,2000,United Kingdom (1),Female,Emigrants: All destinations,3.7
+944,2000,United Kingdom (1),Female,Immigrants: All origins,10.5
+945,2000,United States,Both sexes,Net migration,1.5
+946,2000,United States,Both sexes,Emigrants: All destinations,4.0
+947,2000,United States,Both sexes,Immigrants: All origins,5.5
+948,2000,United States,Male,Net migration,0.7
+949,2000,United States,Male,Emigrants: All destinations,2.1
+950,2000,United States,Male,Immigrants: All origins,2.8
+951,2000,United States,Female,Net migration,0.8
+952,2000,United States,Female,Emigrants: All destinations,1.9
+953,2000,United States,Female,Immigrants: All origins,2.7
+954,2000,Canada,Both sexes,Net migration,
+955,2000,Canada,Both sexes,Emigrants: All destinations,
+956,2000,Canada,Both sexes,Immigrants: All origins,
+957,2000,Canada,Male,Net migration,
+958,2000,Canada,Male,Emigrants: All destinations,
+959,2000,Canada,Male,Immigrants: All origins,
+960,2000,Canada,Female,Net migration,
+961,2000,Canada,Female,Emigrants: All destinations,
+962,2000,Canada,Female,Immigrants: All origins,
+963,2000,Australia,Both sexes,Net migration,
+964,2000,Australia,Both sexes,Emigrants: All destinations,
+965,2000,Australia,Both sexes,Immigrants: All origins,
+966,2000,Australia,Male,Net migration,
+967,2000,Australia,Male,Emigrants: All destinations,
+968,2000,Australia,Male,Immigrants: All origins,
+969,2000,Australia,Female,Net migration,
+970,2000,Australia,Female,Emigrants: All destinations,
+971,2000,Australia,Female,Immigrants: All origins,
+972,2000,Other countries (23),Both sexes,Net migration,4.5
+973,2000,Other countries (23),Both sexes,Emigrants: All destinations,10.0
+974,2000,Other countries (23),Both sexes,Immigrants: All origins,14.5
+975,2000,Other countries (23),Male,Net migration,2.9
+976,2000,Other countries (23),Male,Emigrants: All destinations,5.2
+977,2000,Other countries (23),Male,Immigrants: All origins,8.1
+978,2000,Other countries (23),Female,Net migration,-1.6
+979,2000,Other countries (23),Female,Emigrants: All destinations,4.8
+980,2000,Other countries (23),Female,Immigrants: All origins,6.4
+981,2000,All countries,Both sexes,Net migration,26.0
+982,2000,All countries,Both sexes,Emigrants: All destinations,26.6
+983,2000,All countries,Both sexes,Immigrants: All origins,52.6
+984,2000,All countries,Male,Net migration,13.1
+985,2000,All countries,Male,Emigrants: All destinations,13.1
+986,2000,All countries,Male,Immigrants: All origins,26.2
+987,2000,All countries,Female,Net migration,12.9
+988,2000,All countries,Female,Emigrants: All destinations,13.5
+989,2000,All countries,Female,Immigrants: All origins,26.4
+990,2000,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,6.2
+991,2000,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,5.5
+992,2000,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,11.7
+993,2000,EU14 excl Irl (UK & Ireland),Male,Net migration,2.5
+994,2000,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,2.4
+995,2000,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,4.9
+996,2000,EU14 excl Irl (UK & Ireland),Female,Net migration,3.1
+997,2000,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,3.1
+998,2000,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,6.8
+999,2000,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+1000,2000,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+1001,2000,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+1002,2000,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+1003,2000,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+1004,2000,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+1005,2000,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+1006,2000,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+1007,2000,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+1008,2001,United Kingdom (1),Both sexes,Net migration,12.8
+1009,2001,United Kingdom (1),Both sexes,Emigrants: All destinations,7.8
+1010,2001,United Kingdom (1),Both sexes,Immigrants: All origins,20.6
+1011,2001,United Kingdom (1),Male,Net migration,6.8
+1012,2001,United Kingdom (1),Male,Emigrants: All destinations,3.4
+1013,2001,United Kingdom (1),Male,Immigrants: All origins,10.2
+1014,2001,United Kingdom (1),Female,Net migration,6.0
+1015,2001,United Kingdom (1),Female,Emigrants: All destinations,4.4
+1016,2001,United Kingdom (1),Female,Immigrants: All origins,10.4
+1017,2001,United States,Both sexes,Net migration,3.3
+1018,2001,United States,Both sexes,Emigrants: All destinations,3.4
+1019,2001,United States,Both sexes,Immigrants: All origins,6.7
+1020,2001,United States,Male,Net migration,0.7
+1021,2001,United States,Male,Emigrants: All destinations,2.0
+1022,2001,United States,Male,Immigrants: All origins,2.7
+1023,2001,United States,Female,Net migration,2.5
+1024,2001,United States,Female,Emigrants: All destinations,1.5
+1025,2001,United States,Female,Immigrants: All origins,4.0
+1026,2001,Canada,Both sexes,Net migration,
+1027,2001,Canada,Both sexes,Emigrants: All destinations,
+1028,2001,Canada,Both sexes,Immigrants: All origins,
+1029,2001,Canada,Male,Net migration,
+1030,2001,Canada,Male,Emigrants: All destinations,
+1031,2001,Canada,Male,Immigrants: All origins,
+1032,2001,Canada,Female,Net migration,
+1033,2001,Canada,Female,Emigrants: All destinations,
+1034,2001,Canada,Female,Immigrants: All origins,
+1035,2001,Australia,Both sexes,Net migration,
+1036,2001,Australia,Both sexes,Emigrants: All destinations,
+1037,2001,Australia,Both sexes,Immigrants: All origins,
+1038,2001,Australia,Male,Net migration,
+1039,2001,Australia,Male,Emigrants: All destinations,
+1040,2001,Australia,Male,Immigrants: All origins,
+1041,2001,Australia,Female,Net migration,
+1042,2001,Australia,Female,Emigrants: All destinations,
+1043,2001,Australia,Female,Immigrants: All origins,
+1044,2001,Other countries (23),Both sexes,Net migration,12.0
+1045,2001,Other countries (23),Both sexes,Emigrants: All destinations,9.5
+1046,2001,Other countries (23),Both sexes,Immigrants: All origins,21.5
+1047,2001,Other countries (23),Male,Net migration,7.0
+1048,2001,Other countries (23),Male,Emigrants: All destinations,5.2
+1049,2001,Other countries (23),Male,Immigrants: All origins,12.2
+1050,2001,Other countries (23),Female,Net migration,-5.0
+1051,2001,Other countries (23),Female,Emigrants: All destinations,4.3
+1052,2001,Other countries (23),Female,Immigrants: All origins,9.3
+1053,2001,All countries,Both sexes,Net migration,32.8
+1054,2001,All countries,Both sexes,Emigrants: All destinations,26.2
+1055,2001,All countries,Both sexes,Immigrants: All origins,59.0
+1056,2001,All countries,Male,Net migration,17.5
+1057,2001,All countries,Male,Emigrants: All destinations,12.6
+1058,2001,All countries,Male,Immigrants: All origins,30.1
+1059,2001,All countries,Female,Net migration,15.3
+1060,2001,All countries,Female,Emigrants: All destinations,13.6
+1061,2001,All countries,Female,Immigrants: All origins,29.0
+1062,2001,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,4.7
+1063,2001,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,5.6
+1064,2001,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,10.3
+1065,2001,EU14 excl Irl (UK & Ireland),Male,Net migration,3.0
+1066,2001,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,2.0
+1067,2001,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,5.0
+1068,2001,EU14 excl Irl (UK & Ireland),Female,Net migration,1.0
+1069,2001,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,3.6
+1070,2001,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,5.4
+1071,2001,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+1072,2001,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+1073,2001,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+1074,2001,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+1075,2001,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+1076,2001,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+1077,2001,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+1078,2001,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+1079,2001,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+1080,2002,United Kingdom (1),Both sexes,Net migration,11.7
+1081,2002,United Kingdom (1),Both sexes,Emigrants: All destinations,7.4
+1082,2002,United Kingdom (1),Both sexes,Immigrants: All origins,19.1
+1083,2002,United Kingdom (1),Male,Net migration,5.8
+1084,2002,United Kingdom (1),Male,Emigrants: All destinations,3.5
+1085,2002,United Kingdom (1),Male,Immigrants: All origins,9.3
+1086,2002,United Kingdom (1),Female,Net migration,5.9
+1087,2002,United Kingdom (1),Female,Emigrants: All destinations,3.9
+1088,2002,United Kingdom (1),Female,Immigrants: All origins,9.8
+1089,2002,United States,Both sexes,Net migration,1.8
+1090,2002,United States,Both sexes,Emigrants: All destinations,4.8
+1091,2002,United States,Both sexes,Immigrants: All origins,6.6
+1092,2002,United States,Male,Net migration,0.1
+1093,2002,United States,Male,Emigrants: All destinations,2.8
+1094,2002,United States,Male,Immigrants: All origins,2.9
+1095,2002,United States,Female,Net migration,1.7
+1096,2002,United States,Female,Emigrants: All destinations,2.0
+1097,2002,United States,Female,Immigrants: All origins,3.7
+1098,2002,Canada,Both sexes,Net migration,
+1099,2002,Canada,Both sexes,Emigrants: All destinations,
+1100,2002,Canada,Both sexes,Immigrants: All origins,
+1101,2002,Canada,Male,Net migration,
+1102,2002,Canada,Male,Emigrants: All destinations,
+1103,2002,Canada,Male,Immigrants: All origins,
+1104,2002,Canada,Female,Net migration,
+1105,2002,Canada,Female,Emigrants: All destinations,
+1106,2002,Canada,Female,Immigrants: All origins,
+1107,2002,Australia,Both sexes,Net migration,
+1108,2002,Australia,Both sexes,Emigrants: All destinations,
+1109,2002,Australia,Both sexes,Immigrants: All origins,
+1110,2002,Australia,Male,Net migration,
+1111,2002,Australia,Male,Emigrants: All destinations,
+1112,2002,Australia,Male,Immigrants: All origins,
+1113,2002,Australia,Female,Net migration,
+1114,2002,Australia,Female,Emigrants: All destinations,
+1115,2002,Australia,Female,Immigrants: All origins,
+1116,2002,Other countries (23),Both sexes,Net migration,21.4
+1117,2002,Other countries (23),Both sexes,Emigrants: All destinations,8.5
+1118,2002,Other countries (23),Both sexes,Immigrants: All origins,29.9
+1119,2002,Other countries (23),Male,Net migration,10.2
+1120,2002,Other countries (23),Male,Emigrants: All destinations,4.2
+1121,2002,Other countries (23),Male,Immigrants: All origins,14.4
+1122,2002,Other countries (23),Female,Net migration,11.2
+1123,2002,Other countries (23),Female,Emigrants: All destinations,4.3
+1124,2002,Other countries (23),Female,Immigrants: All origins,15.5
+1125,2002,All countries,Both sexes,Net migration,41.3
+1126,2002,All countries,Both sexes,Emigrants: All destinations,25.6
+1127,2002,All countries,Both sexes,Immigrants: All origins,66.9
+1128,2002,All countries,Male,Net migration,18.6
+1129,2002,All countries,Male,Emigrants: All destinations,12.7
+1130,2002,All countries,Male,Immigrants: All origins,31.3
+1131,2002,All countries,Female,Net migration,22.7
+1132,2002,All countries,Female,Emigrants: All destinations,12.9
+1133,2002,All countries,Female,Immigrants: All origins,35.6
+1134,2002,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,6.5
+1135,2002,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,4.8
+1136,2002,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,11.3
+1137,2002,EU14 excl Irl (UK & Ireland),Male,Net migration,2.5
+1138,2002,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,2.1
+1139,2002,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,4.6
+1140,2002,EU14 excl Irl (UK & Ireland),Female,Net migration,4.0
+1141,2002,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,2.7
+1142,2002,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,6.7
+1143,2002,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+1144,2002,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+1145,2002,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+1146,2002,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+1147,2002,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+1148,2002,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+1149,2002,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+1150,2002,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+1151,2002,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+1152,2003,United Kingdom (1),Both sexes,Net migration,7.2
+1153,2003,United Kingdom (1),Both sexes,Emigrants: All destinations,8.6
+1154,2003,United Kingdom (1),Both sexes,Immigrants: All origins,15.8
+1155,2003,United Kingdom (1),Male,Net migration,3.9
+1156,2003,United Kingdom (1),Male,Emigrants: All destinations,5.2
+1157,2003,United Kingdom (1),Male,Immigrants: All origins,9.1
+1158,2003,United Kingdom (1),Female,Net migration,3.2
+1159,2003,United Kingdom (1),Female,Emigrants: All destinations,3.4
+1160,2003,United Kingdom (1),Female,Immigrants: All origins,6.7
+1161,2003,United States,Both sexes,Net migration,2.5
+1162,2003,United States,Both sexes,Emigrants: All destinations,2.8
+1163,2003,United States,Both sexes,Immigrants: All origins,5.3
+1164,2003,United States,Male,Net migration,1.1
+1165,2003,United States,Male,Emigrants: All destinations,1.7
+1166,2003,United States,Male,Immigrants: All origins,2.8
+1167,2003,United States,Female,Net migration,1.4
+1168,2003,United States,Female,Emigrants: All destinations,1.1
+1169,2003,United States,Female,Immigrants: All origins,2.5
+1170,2003,Canada,Both sexes,Net migration,
+1171,2003,Canada,Both sexes,Emigrants: All destinations,
+1172,2003,Canada,Both sexes,Immigrants: All origins,
+1173,2003,Canada,Male,Net migration,
+1174,2003,Canada,Male,Emigrants: All destinations,
+1175,2003,Canada,Male,Immigrants: All origins,
+1176,2003,Canada,Female,Net migration,
+1177,2003,Canada,Female,Emigrants: All destinations,
+1178,2003,Canada,Female,Immigrants: All origins,
+1179,2003,Australia,Both sexes,Net migration,
+1180,2003,Australia,Both sexes,Emigrants: All destinations,
+1181,2003,Australia,Both sexes,Immigrants: All origins,
+1182,2003,Australia,Male,Net migration,
+1183,2003,Australia,Male,Emigrants: All destinations,
+1184,2003,Australia,Male,Immigrants: All origins,
+1185,2003,Australia,Female,Net migration,
+1186,2003,Australia,Female,Emigrants: All destinations,
+1187,2003,Australia,Female,Immigrants: All origins,
+1188,2003,Other countries (23),Both sexes,Net migration,15.8
+1189,2003,Other countries (23),Both sexes,Emigrants: All destinations,11.4
+1190,2003,Other countries (23),Both sexes,Immigrants: All origins,27.2
+1191,2003,Other countries (23),Male,Net migration,6.3
+1192,2003,Other countries (23),Male,Emigrants: All destinations,7.3
+1193,2003,Other countries (23),Male,Immigrants: All origins,13.6
+1194,2003,Other countries (23),Female,Net migration,9.5
+1195,2003,Other countries (23),Female,Emigrants: All destinations,4.0
+1196,2003,Other countries (23),Female,Immigrants: All origins,13.6
+1197,2003,All countries,Both sexes,Net migration,30.7
+1198,2003,All countries,Both sexes,Emigrants: All destinations,29.3
+1199,2003,All countries,Both sexes,Immigrants: All origins,60.0
+1200,2003,All countries,Male,Net migration,14.3
+1201,2003,All countries,Male,Emigrants: All destinations,17.0
+1202,2003,All countries,Male,Immigrants: All origins,31.4
+1203,2003,All countries,Female,Net migration,16.3
+1204,2003,All countries,Female,Emigrants: All destinations,12.3
+1205,2003,All countries,Female,Immigrants: All origins,28.6
+1206,2003,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,5.3
+1207,2003,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,6.5
+1208,2003,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,11.8
+1209,2003,EU14 excl Irl (UK & Ireland),Male,Net migration,3.2
+1210,2003,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,2.8
+1211,2003,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,6.0
+1212,2003,EU14 excl Irl (UK & Ireland),Female,Net migration,2.1
+1213,2003,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,3.7
+1214,2003,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,5.8
+1215,2003,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+1216,2003,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+1217,2003,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+1218,2003,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+1219,2003,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+1220,2003,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+1221,2003,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+1222,2003,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+1223,2003,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+1224,2004,United Kingdom (1),Both sexes,Net migration,7.5
+1225,2004,United Kingdom (1),Both sexes,Emigrants: All destinations,7.1
+1226,2004,United Kingdom (1),Both sexes,Immigrants: All origins,14.6
+1227,2004,United Kingdom (1),Male,Net migration,4.8
+1228,2004,United Kingdom (1),Male,Emigrants: All destinations,2.9
+1229,2004,United Kingdom (1),Male,Immigrants: All origins,7.7
+1230,2004,United Kingdom (1),Female,Net migration,2.7
+1231,2004,United Kingdom (1),Female,Emigrants: All destinations,4.2
+1232,2004,United Kingdom (1),Female,Immigrants: All origins,6.9
+1233,2004,United States,Both sexes,Net migration,1.4
+1234,2004,United States,Both sexes,Emigrants: All destinations,3.9
+1235,2004,United States,Both sexes,Immigrants: All origins,5.3
+1236,2004,United States,Male,Net migration,0.7
+1237,2004,United States,Male,Emigrants: All destinations,2.1
+1238,2004,United States,Male,Immigrants: All origins,2.9
+1239,2004,United States,Female,Net migration,0.7
+1240,2004,United States,Female,Emigrants: All destinations,1.8
+1241,2004,United States,Female,Immigrants: All origins,2.5
+1242,2004,Canada,Both sexes,Net migration,
+1243,2004,Canada,Both sexes,Emigrants: All destinations,
+1244,2004,Canada,Both sexes,Immigrants: All origins,
+1245,2004,Canada,Male,Net migration,
+1246,2004,Canada,Male,Emigrants: All destinations,
+1247,2004,Canada,Male,Immigrants: All origins,
+1248,2004,Canada,Female,Net migration,
+1249,2004,Canada,Female,Emigrants: All destinations,
+1250,2004,Canada,Female,Immigrants: All origins,
+1251,2004,Australia,Both sexes,Net migration,
+1252,2004,Australia,Both sexes,Emigrants: All destinations,
+1253,2004,Australia,Both sexes,Immigrants: All origins,
+1254,2004,Australia,Male,Net migration,
+1255,2004,Australia,Male,Emigrants: All destinations,
+1256,2004,Australia,Male,Immigrants: All origins,
+1257,2004,Australia,Female,Net migration,
+1258,2004,Australia,Female,Emigrants: All destinations,
+1259,2004,Australia,Female,Immigrants: All origins,
+1260,2004,Other countries (23),Both sexes,Net migration,12.9
+1261,2004,Other countries (23),Both sexes,Emigrants: All destinations,10.5
+1262,2004,Other countries (23),Both sexes,Immigrants: All origins,23.3
+1263,2004,Other countries (23),Male,Net migration,7.1
+1264,2004,Other countries (23),Male,Emigrants: All destinations,5.3
+1265,2004,Other countries (23),Male,Immigrants: All origins,12.4
+1266,2004,Other countries (23),Female,Net migration,5.7
+1267,2004,Other countries (23),Female,Emigrants: All destinations,5.2
+1268,2004,Other countries (23),Female,Immigrants: All origins,10.9
+1269,2004,All countries,Both sexes,Net migration,32.0
+1270,2004,All countries,Both sexes,Emigrants: All destinations,26.5
+1271,2004,All countries,Both sexes,Immigrants: All origins,58.5
+1272,2004,All countries,Male,Net migration,18.0
+1273,2004,All countries,Male,Emigrants: All destinations,12.5
+1274,2004,All countries,Male,Immigrants: All origins,30.5
+1275,2004,All countries,Female,Net migration,14.0
+1276,2004,All countries,Female,Emigrants: All destinations,14.0
+1277,2004,All countries,Female,Immigrants: All origins,28.0
+1278,2004,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,10.2
+1279,2004,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,5.0
+1280,2004,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,15.2
+1281,2004,EU14 excl Irl (UK & Ireland),Male,Net migration,5.4
+1282,2004,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,2.2
+1283,2004,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,7.6
+1284,2004,EU14 excl Irl (UK & Ireland),Female,Net migration,4.8
+1285,2004,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,2.8
+1286,2004,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,7.6
+1287,2004,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,
+1288,2004,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,
+1289,2004,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,
+1290,2004,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,
+1291,2004,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,
+1292,2004,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,
+1293,2004,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,
+1294,2004,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,
+1295,2004,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,
+1296,2005,United Kingdom (1),Both sexes,Net migration,7.7
+1297,2005,United Kingdom (1),Both sexes,Emigrants: All destinations,7.9
+1298,2005,United Kingdom (1),Both sexes,Immigrants: All origins,15.6
+1299,2005,United Kingdom (1),Male,Net migration,4.5
+1300,2005,United Kingdom (1),Male,Emigrants: All destinations,3.9
+1301,2005,United Kingdom (1),Male,Immigrants: All origins,8.4
+1302,2005,United Kingdom (1),Female,Net migration,3.2
+1303,2005,United Kingdom (1),Female,Emigrants: All destinations,3.9
+1304,2005,United Kingdom (1),Female,Immigrants: All origins,7.2
+1305,2005,United States,Both sexes,Net migration,1.5
+1306,2005,United States,Both sexes,Emigrants: All destinations,3.3
+1307,2005,United States,Both sexes,Immigrants: All origins,4.8
+1308,2005,United States,Male,Net migration,0.0
+1309,2005,United States,Male,Emigrants: All destinations,1.6
+1310,2005,United States,Male,Immigrants: All origins,1.6
+1311,2005,United States,Female,Net migration,1.5
+1312,2005,United States,Female,Emigrants: All destinations,1.6
+1313,2005,United States,Female,Immigrants: All origins,3.1
+1314,2005,Canada,Both sexes,Net migration,
+1315,2005,Canada,Both sexes,Emigrants: All destinations,
+1316,2005,Canada,Both sexes,Immigrants: All origins,
+1317,2005,Canada,Male,Net migration,
+1318,2005,Canada,Male,Emigrants: All destinations,
+1319,2005,Canada,Male,Immigrants: All origins,
+1320,2005,Canada,Female,Net migration,
+1321,2005,Canada,Female,Emigrants: All destinations,
+1322,2005,Canada,Female,Immigrants: All origins,
+1323,2005,Australia,Both sexes,Net migration,
+1324,2005,Australia,Both sexes,Emigrants: All destinations,
+1325,2005,Australia,Both sexes,Immigrants: All origins,
+1326,2005,Australia,Male,Net migration,
+1327,2005,Australia,Male,Emigrants: All destinations,
+1328,2005,Australia,Male,Immigrants: All origins,
+1329,2005,Australia,Female,Net migration,
+1330,2005,Australia,Female,Emigrants: All destinations,
+1331,2005,Australia,Female,Immigrants: All origins,
+1332,2005,Other countries (23),Both sexes,Net migration,6.7
+1333,2005,Other countries (23),Both sexes,Emigrants: All destinations,12.7
+1334,2005,Other countries (23),Both sexes,Immigrants: All origins,19.4
+1335,2005,Other countries (23),Male,Net migration,3.1
+1336,2005,Other countries (23),Male,Emigrants: All destinations,6.8
+1337,2005,Other countries (23),Male,Immigrants: All origins,9.9
+1338,2005,Other countries (23),Female,Net migration,3.7
+1339,2005,Other countries (23),Female,Emigrants: All destinations,5.8
+1340,2005,Other countries (23),Female,Immigrants: All origins,9.5
+1341,2005,All countries,Both sexes,Net migration,55.1
+1342,2005,All countries,Both sexes,Emigrants: All destinations,29.4
+1343,2005,All countries,Both sexes,Immigrants: All origins,84.6
+1344,2005,All countries,Male,Net migration,32.6
+1345,2005,All countries,Male,Emigrants: All destinations,14.9
+1346,2005,All countries,Male,Immigrants: All origins,47.5
+1347,2005,All countries,Female,Net migration,22.5
+1348,2005,All countries,Female,Emigrants: All destinations,14.6
+1349,2005,All countries,Female,Immigrants: All origins,37.1
+1350,2005,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,6.2
+1351,2005,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,4.9
+1352,2005,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,11.1
+1353,2005,EU14 excl Irl (UK & Ireland),Male,Net migration,2.8
+1354,2005,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,2.1
+1355,2005,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,4.9
+1356,2005,EU14 excl Irl (UK & Ireland),Female,Net migration,3.4
+1357,2005,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,2.8
+1358,2005,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,6.2
+1359,2005,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,32.9
+1360,2005,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,0.8
+1361,2005,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,33.7
+1362,2005,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,22.2
+1363,2005,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,0.4
+1364,2005,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,22.6
+1365,2005,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,10.7
+1366,2005,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,0.4
+1367,2005,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,11.1
+1368,2006,United Kingdom (1),Both sexes,Net migration,8.9
+1369,2006,United Kingdom (1),Both sexes,Emigrants: All destinations,8.8
+1370,2006,United Kingdom (1),Both sexes,Immigrants: All origins,17.7
+1371,2006,United Kingdom (1),Male,Net migration,5.2
+1372,2006,United Kingdom (1),Male,Emigrants: All destinations,4.5
+1373,2006,United Kingdom (1),Male,Immigrants: All origins,9.7
+1374,2006,United Kingdom (1),Female,Net migration,3.6
+1375,2006,United Kingdom (1),Female,Emigrants: All destinations,4.4
+1376,2006,United Kingdom (1),Female,Immigrants: All origins,8.0
+1377,2006,United States,Both sexes,Net migration,0.7
+1378,2006,United States,Both sexes,Emigrants: All destinations,3.3
+1379,2006,United States,Both sexes,Immigrants: All origins,4.0
+1380,2006,United States,Male,Net migration,0.1
+1381,2006,United States,Male,Emigrants: All destinations,1.6
+1382,2006,United States,Male,Immigrants: All origins,1.7
+1383,2006,United States,Female,Net migration,0.6
+1384,2006,United States,Female,Emigrants: All destinations,1.7
+1385,2006,United States,Female,Immigrants: All origins,2.3
+1386,2006,Canada,Both sexes,Net migration,
+1387,2006,Canada,Both sexes,Emigrants: All destinations,
+1388,2006,Canada,Both sexes,Immigrants: All origins,
+1389,2006,Canada,Male,Net migration,
+1390,2006,Canada,Male,Emigrants: All destinations,
+1391,2006,Canada,Male,Immigrants: All origins,
+1392,2006,Canada,Female,Net migration,
+1393,2006,Canada,Female,Emigrants: All destinations,
+1394,2006,Canada,Female,Immigrants: All origins,
+1395,2006,Australia,Both sexes,Net migration,
+1396,2006,Australia,Both sexes,Emigrants: All destinations,
+1397,2006,Australia,Both sexes,Immigrants: All origins,
+1398,2006,Australia,Male,Net migration,
+1399,2006,Australia,Male,Emigrants: All destinations,
+1400,2006,Australia,Male,Immigrants: All origins,
+1401,2006,Australia,Female,Net migration,
+1402,2006,Australia,Female,Emigrants: All destinations,
+1403,2006,Australia,Female,Immigrants: All origins,
+1404,2006,Other countries (23),Both sexes,Net migration,7.5
+1405,2006,Other countries (23),Both sexes,Emigrants: All destinations,15.8
+1406,2006,Other countries (23),Both sexes,Immigrants: All origins,23.3
+1407,2006,Other countries (23),Male,Net migration,2.3
+1408,2006,Other countries (23),Male,Emigrants: All destinations,9.3
+1409,2006,Other countries (23),Male,Immigrants: All origins,11.6
+1410,2006,Other countries (23),Female,Net migration,5.2
+1411,2006,Other countries (23),Female,Emigrants: All destinations,6.6
+1412,2006,Other countries (23),Female,Immigrants: All origins,11.8
+1413,2006,All countries,Both sexes,Net migration,71.8
+1414,2006,All countries,Both sexes,Emigrants: All destinations,36.0
+1415,2006,All countries,Both sexes,Immigrants: All origins,107.8
+1416,2006,All countries,Male,Net migration,41.6
+1417,2006,All countries,Male,Emigrants: All destinations,18.7
+1418,2006,All countries,Male,Immigrants: All origins,60.3
+1419,2006,All countries,Female,Net migration,30.2
+1420,2006,All countries,Female,Emigrants: All destinations,17.3
+1421,2006,All countries,Female,Immigrants: All origins,47.5
+1422,2006,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,7.8
+1423,2006,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,5.7
+1424,2006,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,13.5
+1425,2006,EU14 excl Irl (UK & Ireland),Male,Net migration,4.4
+1426,2006,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,2.4
+1427,2006,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,6.8
+1428,2006,EU14 excl Irl (UK & Ireland),Female,Net migration,3.4
+1429,2006,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,3.3
+1430,2006,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,6.7
+1431,2006,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,47.0
+1432,2006,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,2.3
+1433,2006,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,49.3
+1434,2006,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,29.5
+1435,2006,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,1.0
+1436,2006,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,30.5
+1437,2006,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,17.4
+1438,2006,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,1.4
+1439,2006,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,18.8
+1440,2007,United Kingdom (1),Both sexes,Net migration,7.1
+1441,2007,United Kingdom (1),Both sexes,Emigrants: All destinations,11.1
+1442,2007,United Kingdom (1),Both sexes,Immigrants: All origins,18.2
+1443,2007,United Kingdom (1),Male,Net migration,4.2
+1444,2007,United Kingdom (1),Male,Emigrants: All destinations,5.3
+1445,2007,United Kingdom (1),Male,Immigrants: All origins,9.5
+1446,2007,United Kingdom (1),Female,Net migration,2.8
+1447,2007,United Kingdom (1),Female,Emigrants: All destinations,5.9
+1448,2007,United Kingdom (1),Female,Immigrants: All origins,8.7
+1449,2007,United States,Both sexes,Net migration,2.2
+1450,2007,United States,Both sexes,Emigrants: All destinations,3.1
+1451,2007,United States,Both sexes,Immigrants: All origins,5.3
+1452,2007,United States,Male,Net migration,0.7
+1453,2007,United States,Male,Emigrants: All destinations,1.8
+1454,2007,United States,Male,Immigrants: All origins,2.5
+1455,2007,United States,Female,Net migration,1.4
+1456,2007,United States,Female,Emigrants: All destinations,1.4
+1457,2007,United States,Female,Immigrants: All origins,2.8
+1458,2007,Canada,Both sexes,Net migration,
+1459,2007,Canada,Both sexes,Emigrants: All destinations,
+1460,2007,Canada,Both sexes,Immigrants: All origins,
+1461,2007,Canada,Male,Net migration,
+1462,2007,Canada,Male,Emigrants: All destinations,
+1463,2007,Canada,Male,Immigrants: All origins,
+1464,2007,Canada,Female,Net migration,
+1465,2007,Canada,Female,Emigrants: All destinations,
+1466,2007,Canada,Female,Immigrants: All origins,
+1467,2007,Australia,Both sexes,Net migration,
+1468,2007,Australia,Both sexes,Emigrants: All destinations,
+1469,2007,Australia,Both sexes,Immigrants: All origins,
+1470,2007,Australia,Male,Net migration,
+1471,2007,Australia,Male,Emigrants: All destinations,
+1472,2007,Australia,Male,Immigrants: All origins,
+1473,2007,Australia,Female,Net migration,
+1474,2007,Australia,Female,Emigrants: All destinations,
+1475,2007,Australia,Female,Immigrants: All origins,
+1476,2007,Other countries (23),Both sexes,Net migration,13.9
+1477,2007,Other countries (23),Both sexes,Emigrants: All destinations,20.8
+1478,2007,Other countries (23),Both sexes,Immigrants: All origins,34.7
+1479,2007,Other countries (23),Male,Net migration,5.9
+1480,2007,Other countries (23),Male,Emigrants: All destinations,12.5
+1481,2007,Other countries (23),Male,Immigrants: All origins,18.4
+1482,2007,Other countries (23),Female,Net migration,8.0
+1483,2007,Other countries (23),Female,Emigrants: All destinations,8.3
+1484,2007,Other countries (23),Female,Immigrants: All origins,16.3
+1485,2007,All countries,Both sexes,Net migration,104.8
+1486,2007,All countries,Both sexes,Emigrants: All destinations,46.3
+1487,2007,All countries,Both sexes,Immigrants: All origins,151.1
+1488,2007,All countries,Male,Net migration,54.3
+1489,2007,All countries,Male,Emigrants: All destinations,25.7
+1490,2007,All countries,Male,Immigrants: All origins,80.0
+1491,2007,All countries,Female,Net migration,50.4
+1492,2007,All countries,Female,Emigrants: All destinations,20.6
+1493,2007,All countries,Female,Immigrants: All origins,71.1
+1494,2007,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,16.8
+1495,2007,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,3.5
+1496,2007,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,20.3
+1497,2007,EU14 excl Irl (UK & Ireland),Male,Net migration,7.8
+1498,2007,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,1.5
+1499,2007,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,9.3
+1500,2007,EU14 excl Irl (UK & Ireland),Female,Net migration,8.9
+1501,2007,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,2.1
+1502,2007,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,11.0
+1503,2007,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,64.9
+1504,2007,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,7.7
+1505,2007,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,72.6
+1506,2007,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,35.6
+1507,2007,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,4.7
+1508,2007,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,40.3
+1509,2007,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,29.3
+1510,2007,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,3.0
+1511,2007,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,32.3
+1512,2008,United Kingdom (1),Both sexes,Net migration,11.8
+1513,2008,United Kingdom (1),Both sexes,Emigrants: All destinations,7.6
+1514,2008,United Kingdom (1),Both sexes,Immigrants: All origins,19.4
+1515,2008,United Kingdom (1),Male,Net migration,6.7
+1516,2008,United Kingdom (1),Male,Emigrants: All destinations,3.9
+1517,2008,United Kingdom (1),Male,Immigrants: All origins,10.6
+1518,2008,United Kingdom (1),Female,Net migration,5.1
+1519,2008,United Kingdom (1),Female,Emigrants: All destinations,3.7
+1520,2008,United Kingdom (1),Female,Immigrants: All origins,8.8
+1521,2008,United States,Both sexes,Net migration,2.6
+1522,2008,United States,Both sexes,Emigrants: All destinations,2.4
+1523,2008,United States,Both sexes,Immigrants: All origins,5.0
+1524,2008,United States,Male,Net migration,0.6
+1525,2008,United States,Male,Emigrants: All destinations,1.8
+1526,2008,United States,Male,Immigrants: All origins,2.3
+1527,2008,United States,Female,Net migration,2.1
+1528,2008,United States,Female,Emigrants: All destinations,0.6
+1529,2008,United States,Female,Immigrants: All origins,2.7
+1530,2008,Canada,Both sexes,Net migration,0.9
+1531,2008,Canada,Both sexes,Emigrants: All destinations,1.1
+1532,2008,Canada,Both sexes,Immigrants: All origins,2.0
+1533,2008,Canada,Male,Net migration,0.0
+1534,2008,Canada,Male,Emigrants: All destinations,0.6
+1535,2008,Canada,Male,Immigrants: All origins,0.6
+1536,2008,Canada,Female,Net migration,0.9
+1537,2008,Canada,Female,Emigrants: All destinations,0.5
+1538,2008,Canada,Female,Immigrants: All origins,1.4
+1539,2008,Australia,Both sexes,Net migration,-3.2
+1540,2008,Australia,Both sexes,Emigrants: All destinations,10.4
+1541,2008,Australia,Both sexes,Immigrants: All origins,7.1
+1542,2008,Australia,Male,Net migration,-3.2
+1543,2008,Australia,Male,Emigrants: All destinations,6.5
+1544,2008,Australia,Male,Immigrants: All origins,3.3
+1545,2008,Australia,Female,Net migration,0.0
+1546,2008,Australia,Female,Emigrants: All destinations,3.9
+1547,2008,Australia,Female,Immigrants: All origins,3.9
+1548,2008,Other countries (23),Both sexes,Net migration,10.2
+1549,2008,Other countries (23),Both sexes,Emigrants: All destinations,9.8
+1550,2008,Other countries (23),Both sexes,Immigrants: All origins,20.0
+1551,2008,Other countries (23),Male,Net migration,3.2
+1552,2008,Other countries (23),Male,Emigrants: All destinations,7.1
+1553,2008,Other countries (23),Male,Immigrants: All origins,10.3
+1554,2008,Other countries (23),Female,Net migration,7.0
+1555,2008,Other countries (23),Female,Emigrants: All destinations,2.7
+1556,2008,Other countries (23),Female,Immigrants: All origins,9.7
+1557,2008,All countries,Both sexes,Net migration,64.3
+1558,2008,All countries,Both sexes,Emigrants: All destinations,49.2
+1559,2008,All countries,Both sexes,Immigrants: All origins,113.5
+1560,2008,All countries,Male,Net migration,24.4
+1561,2008,All countries,Male,Emigrants: All destinations,29.6
+1562,2008,All countries,Male,Immigrants: All origins,53.9
+1563,2008,All countries,Female,Net migration,39.9
+1564,2008,All countries,Female,Emigrants: All destinations,19.6
+1565,2008,All countries,Female,Immigrants: All origins,59.5
+1566,2008,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,6.7
+1567,2008,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,7.8
+1568,2008,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,14.5
+1569,2008,EU14 excl Irl (UK & Ireland),Male,Net migration,2.9
+1570,2008,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,3.2
+1571,2008,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,6.1
+1572,2008,EU14 excl Irl (UK & Ireland),Female,Net migration,3.7
+1573,2008,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,4.6
+1574,2008,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,8.4
+1575,2008,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,35.4
+1576,2008,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,10.1
+1577,2008,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,45.5
+1578,2008,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,14.2
+1579,2008,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,6.5
+1580,2008,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,20.8
+1581,2008,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,21.1
+1582,2008,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,3.6
+1583,2008,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,24.7
+1584,2009,United Kingdom (1),Both sexes,Net migration,0.2
+1585,2009,United Kingdom (1),Both sexes,Emigrants: All destinations,13.2
+1586,2009,United Kingdom (1),Both sexes,Immigrants: All origins,13.4
+1587,2009,United Kingdom (1),Male,Net migration,-0.3
+1588,2009,United Kingdom (1),Male,Emigrants: All destinations,8.0
+1589,2009,United Kingdom (1),Male,Immigrants: All origins,7.8
+1590,2009,United Kingdom (1),Female,Net migration,0.5
+1591,2009,United Kingdom (1),Female,Emigrants: All destinations,5.1
+1592,2009,United Kingdom (1),Female,Immigrants: All origins,5.6
+1593,2009,United States,Both sexes,Net migration,-1.0
+1594,2009,United States,Both sexes,Emigrants: All destinations,4.1
+1595,2009,United States,Both sexes,Immigrants: All origins,3.0
+1596,2009,United States,Male,Net migration,-0.8
+1597,2009,United States,Male,Emigrants: All destinations,2.2
+1598,2009,United States,Male,Immigrants: All origins,1.5
+1599,2009,United States,Female,Net migration,-0.3
+1600,2009,United States,Female,Emigrants: All destinations,1.8
+1601,2009,United States,Female,Immigrants: All origins,1.5
+1602,2009,Canada,Both sexes,Net migration,-0.2
+1603,2009,Canada,Both sexes,Emigrants: All destinations,1.1
+1604,2009,Canada,Both sexes,Immigrants: All origins,1.0
+1605,2009,Canada,Male,Net migration,-0.2
+1606,2009,Canada,Male,Emigrants: All destinations,0.6
+1607,2009,Canada,Male,Immigrants: All origins,0.4
+1608,2009,Canada,Female,Net migration,0.0
+1609,2009,Canada,Female,Emigrants: All destinations,0.6
+1610,2009,Canada,Female,Immigrants: All origins,0.6
+1611,2009,Australia,Both sexes,Net migration,-4.0
+1612,2009,Australia,Both sexes,Emigrants: All destinations,11.1
+1613,2009,Australia,Both sexes,Immigrants: All origins,7.1
+1614,2009,Australia,Male,Net migration,-2.5
+1615,2009,Australia,Male,Emigrants: All destinations,6.7
+1616,2009,Australia,Male,Immigrants: All origins,4.2
+1617,2009,Australia,Female,Net migration,-1.5
+1618,2009,Australia,Female,Emigrants: All destinations,4.4
+1619,2009,Australia,Female,Immigrants: All origins,2.9
+1620,2009,Other countries (23),Both sexes,Net migration,3.6
+1621,2009,Other countries (23),Both sexes,Emigrants: All destinations,9.9
+1622,2009,Other countries (23),Both sexes,Immigrants: All origins,13.6
+1623,2009,Other countries (23),Male,Net migration,2.0
+1624,2009,Other countries (23),Male,Emigrants: All destinations,5.4
+1625,2009,Other countries (23),Male,Immigrants: All origins,7.4
+1626,2009,Other countries (23),Female,Net migration,1.6
+1627,2009,Other countries (23),Female,Emigrants: All destinations,4.6
+1628,2009,Other countries (23),Female,Immigrants: All origins,6.2
+1629,2009,All countries,Both sexes,Net migration,1.6
+1630,2009,All countries,Both sexes,Emigrants: All destinations,72.0
+1631,2009,All countries,Both sexes,Immigrants: All origins,73.7
+1632,2009,All countries,Male,Net migration,-5.1
+1633,2009,All countries,Male,Emigrants: All destinations,41.9
+1634,2009,All countries,Male,Immigrants: All origins,36.8
+1635,2009,All countries,Female,Net migration,6.7
+1636,2009,All countries,Female,Emigrants: All destinations,30.1
+1637,2009,All countries,Female,Immigrants: All origins,36.8
+1638,2009,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,10.7
+1639,2009,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,7.4
+1640,2009,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,18.1
+1641,2009,EU14 excl Irl (UK & Ireland),Male,Net migration,3.3
+1642,2009,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,3.0
+1643,2009,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,6.3
+1644,2009,EU14 excl Irl (UK & Ireland),Female,Net migration,7.4
+1645,2009,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,4.4
+1646,2009,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,11.8
+1647,2009,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,-7.7
+1648,2009,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,25.2
+1649,2009,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,17.5
+1650,2009,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,-6.7
+1651,2009,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,16.0
+1652,2009,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,9.3
+1653,2009,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,-1.0
+1654,2009,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,9.2
+1655,2009,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,8.2
+1656,2010,United Kingdom (1),Both sexes,Net migration,-6.2
+1657,2010,United Kingdom (1),Both sexes,Emigrants: All destinations,15.3
+1658,2010,United Kingdom (1),Both sexes,Immigrants: All origins,9.1
+1659,2010,United Kingdom (1),Male,Net migration,-4.8
+1660,2010,United Kingdom (1),Male,Emigrants: All destinations,8.8
+1661,2010,United Kingdom (1),Male,Immigrants: All origins,4.0
+1662,2010,United Kingdom (1),Female,Net migration,-1.4
+1663,2010,United Kingdom (1),Female,Emigrants: All destinations,6.4
+1664,2010,United Kingdom (1),Female,Immigrants: All origins,5.1
+1665,2010,United States,Both sexes,Net migration,-1.3
+1666,2010,United States,Both sexes,Emigrants: All destinations,2.9
+1667,2010,United States,Both sexes,Immigrants: All origins,1.7
+1668,2010,United States,Male,Net migration,-1.3
+1669,2010,United States,Male,Emigrants: All destinations,2.1
+1670,2010,United States,Male,Immigrants: All origins,0.8
+1671,2010,United States,Female,Net migration,0.0
+1672,2010,United States,Female,Emigrants: All destinations,0.8
+1673,2010,United States,Female,Immigrants: All origins,0.8
+1674,2010,Canada,Both sexes,Net migration,-1.9
+1675,2010,Canada,Both sexes,Emigrants: All destinations,2.4
+1676,2010,Canada,Both sexes,Immigrants: All origins,0.5
+1677,2010,Canada,Male,Net migration,-1.5
+1678,2010,Canada,Male,Emigrants: All destinations,1.7
+1679,2010,Canada,Male,Immigrants: All origins,0.2
+1680,2010,Canada,Female,Net migration,-0.4
+1681,2010,Canada,Female,Emigrants: All destinations,0.7
+1682,2010,Canada,Female,Immigrants: All origins,0.3
+1683,2010,Australia,Both sexes,Net migration,-3.9
+1684,2010,Australia,Both sexes,Emigrants: All destinations,10.4
+1685,2010,Australia,Both sexes,Immigrants: All origins,6.5
+1686,2010,Australia,Male,Net migration,-3.2
+1687,2010,Australia,Male,Emigrants: All destinations,6.6
+1688,2010,Australia,Male,Immigrants: All origins,3.5
+1689,2010,Australia,Female,Net migration,-0.7
+1690,2010,Australia,Female,Emigrants: All destinations,3.8
+1691,2010,Australia,Female,Immigrants: All origins,3.0
+1692,2010,Other countries (23),Both sexes,Net migration,-4.1
+1693,2010,Other countries (23),Both sexes,Emigrants: All destinations,11.7
+1694,2010,Other countries (23),Both sexes,Immigrants: All origins,7.6
+1695,2010,Other countries (23),Male,Net migration,-3.0
+1696,2010,Other countries (23),Male,Emigrants: All destinations,6.8
+1697,2010,Other countries (23),Male,Immigrants: All origins,3.8
+1698,2010,Other countries (23),Female,Net migration,-1.1
+1699,2010,Other countries (23),Female,Emigrants: All destinations,4.9
+1700,2010,Other countries (23),Female,Immigrants: All origins,3.8
+1701,2010,All countries,Both sexes,Net migration,-27.5
+1702,2010,All countries,Both sexes,Emigrants: All destinations,69.2
+1703,2010,All countries,Both sexes,Immigrants: All origins,41.8
+1704,2010,All countries,Male,Net migration,-20.2
+1705,2010,All countries,Male,Emigrants: All destinations,40.6
+1706,2010,All countries,Male,Immigrants: All origins,20.4
+1707,2010,All countries,Female,Net migration,-7.2
+1708,2010,All countries,Female,Emigrants: All destinations,28.7
+1709,2010,All countries,Female,Immigrants: All origins,21.4
+1710,2010,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,-4.1
+1711,2010,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,11.9
+1712,2010,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,7.8
+1713,2010,EU14 excl Irl (UK & Ireland),Male,Net migration,-2.0
+1714,2010,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,5.4
+1715,2010,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,3.4
+1716,2010,EU14 excl Irl (UK & Ireland),Female,Net migration,-2.1
+1717,2010,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,6.5
+1718,2010,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,4.4
+1719,2010,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,-5.9
+1720,2010,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,14.6
+1721,2010,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,8.7
+1722,2010,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,-4.3
+1723,2010,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,9.0
+1724,2010,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,4.7
+1725,2010,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,-1.6
+1726,2010,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,5.6
+1727,2010,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,4.0
+1728,2011,United Kingdom (1),Both sexes,Net migration,-8.1
+1729,2011,United Kingdom (1),Both sexes,Emigrants: All destinations,20.0
+1730,2011,United Kingdom (1),Both sexes,Immigrants: All origins,11.9
+1731,2011,United Kingdom (1),Male,Net migration,-5.2
+1732,2011,United Kingdom (1),Male,Emigrants: All destinations,11.1
+1733,2011,United Kingdom (1),Male,Immigrants: All origins,5.9
+1734,2011,United Kingdom (1),Female,Net migration,-3.0
+1735,2011,United Kingdom (1),Female,Emigrants: All destinations,8.9
+1736,2011,United Kingdom (1),Female,Immigrants: All origins,6.0
+1737,2011,United States,Both sexes,Net migration,-1.4
+1738,2011,United States,Both sexes,Emigrants: All destinations,4.7
+1739,2011,United States,Both sexes,Immigrants: All origins,3.3
+1740,2011,United States,Male,Net migration,-1.1
+1741,2011,United States,Male,Emigrants: All destinations,2.6
+1742,2011,United States,Male,Immigrants: All origins,1.5
+1743,2011,United States,Female,Net migration,-0.3
+1744,2011,United States,Female,Emigrants: All destinations,2.1
+1745,2011,United States,Female,Immigrants: All origins,1.7
+1746,2011,Canada,Both sexes,Net migration,-0.9
+1747,2011,Canada,Both sexes,Emigrants: All destinations,2.1
+1748,2011,Canada,Both sexes,Immigrants: All origins,1.3
+1749,2011,Canada,Male,Net migration,-0.5
+1750,2011,Canada,Male,Emigrants: All destinations,1.1
+1751,2011,Canada,Male,Immigrants: All origins,0.7
+1752,2011,Canada,Female,Net migration,-0.4
+1753,2011,Canada,Female,Emigrants: All destinations,1.0
+1754,2011,Canada,Female,Immigrants: All origins,0.6
+1755,2011,Australia,Both sexes,Net migration,-9.0
+1756,2011,Australia,Both sexes,Emigrants: All destinations,13.4
+1757,2011,Australia,Both sexes,Immigrants: All origins,4.5
+1758,2011,Australia,Male,Net migration,-5.1
+1759,2011,Australia,Male,Emigrants: All destinations,7.4
+1760,2011,Australia,Male,Immigrants: All origins,2.2
+1761,2011,Australia,Female,Net migration,-3.8
+1762,2011,Australia,Female,Emigrants: All destinations,6.0
+1763,2011,Australia,Female,Immigrants: All origins,2.2
+1764,2011,Other countries (23),Both sexes,Net migration,-3.3
+1765,2011,Other countries (23),Both sexes,Emigrants: All destinations,16.2
+1766,2011,Other countries (23),Both sexes,Immigrants: All origins,12.9
+1767,2011,Other countries (23),Male,Net migration,-1.3
+1768,2011,Other countries (23),Male,Emigrants: All destinations,7.7
+1769,2011,Other countries (23),Male,Immigrants: All origins,6.5
+1770,2011,Other countries (23),Female,Net migration,-2.0
+1771,2011,Other countries (23),Female,Emigrants: All destinations,8.5
+1772,2011,Other countries (23),Female,Immigrants: All origins,6.5
+1773,2011,All countries,Both sexes,Net migration,-27.4
+1774,2011,All countries,Both sexes,Emigrants: All destinations,80.6
+1775,2011,All countries,Both sexes,Immigrants: All origins,53.3
+1776,2011,All countries,Male,Net migration,-15.8
+1777,2011,All countries,Male,Emigrants: All destinations,41.9
+1778,2011,All countries,Male,Immigrants: All origins,26.0
+1779,2011,All countries,Female,Net migration,-11.5
+1780,2011,All countries,Female,Emigrants: All destinations,38.8
+1781,2011,All countries,Female,Immigrants: All origins,27.2
+1782,2011,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,-4.2
+1783,2011,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,13.9
+1784,2011,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,9.7
+1785,2011,EU14 excl Irl (UK & Ireland),Male,Net migration,-2.4
+1786,2011,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,7.0
+1787,2011,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,4.7
+1788,2011,EU14 excl Irl (UK & Ireland),Female,Net migration,-1.8
+1789,2011,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,6.8
+1790,2011,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,5.0
+1791,2011,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,-0.5
+1792,2011,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,10.4
+1793,2011,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,9.8
+1794,2011,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,-0.4
+1795,2011,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,4.9
+1796,2011,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,4.5
+1797,2011,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,-0.2
+1798,2011,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,5.4
+1799,2011,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,5.3
+1800,2012,United Kingdom (1),Both sexes,Net migration,-8.0
+1801,2012,United Kingdom (1),Both sexes,Emigrants: All destinations,18.1
+1802,2012,United Kingdom (1),Both sexes,Immigrants: All origins,10.1
+1803,2012,United Kingdom (1),Male,Net migration,-5.2
+1804,2012,United Kingdom (1),Male,Emigrants: All destinations,10.1
+1805,2012,United Kingdom (1),Male,Immigrants: All origins,4.9
+1806,2012,United Kingdom (1),Female,Net migration,-2.8
+1807,2012,United Kingdom (1),Female,Emigrants: All destinations,8.0
+1808,2012,United Kingdom (1),Female,Immigrants: All origins,5.1
+1809,2012,United States,Both sexes,Net migration,-2.8
+1810,2012,United States,Both sexes,Emigrants: All destinations,8.2
+1811,2012,United States,Both sexes,Immigrants: All origins,5.3
+1812,2012,United States,Male,Net migration,-1.6
+1813,2012,United States,Male,Emigrants: All destinations,4.4
+1814,2012,United States,Male,Immigrants: All origins,2.8
+1815,2012,United States,Female,Net migration,-1.2
+1816,2012,United States,Female,Emigrants: All destinations,3.8
+1817,2012,United States,Female,Immigrants: All origins,2.6
+1818,2012,Canada,Both sexes,Net migration,-1.1
+1819,2012,Canada,Both sexes,Emigrants: All destinations,2.8
+1820,2012,Canada,Both sexes,Immigrants: All origins,1.7
+1821,2012,Canada,Male,Net migration,-0.8
+1822,2012,Canada,Male,Emigrants: All destinations,1.8
+1823,2012,Canada,Male,Immigrants: All origins,1.0
+1824,2012,Canada,Female,Net migration,-0.3
+1825,2012,Canada,Female,Emigrants: All destinations,1.1
+1826,2012,Canada,Female,Immigrants: All origins,0.7
+1827,2012,Australia,Both sexes,Net migration,-12.0
+1828,2012,Australia,Both sexes,Emigrants: All destinations,17.4
+1829,2012,Australia,Both sexes,Immigrants: All origins,5.4
+1830,2012,Australia,Male,Net migration,-7.2
+1831,2012,Australia,Male,Emigrants: All destinations,10.2
+1832,2012,Australia,Male,Immigrants: All origins,3.1
+1833,2012,Australia,Female,Net migration,-4.8
+1834,2012,Australia,Female,Emigrants: All destinations,7.1
+1835,2012,Australia,Female,Immigrants: All origins,2.3
+1836,2012,Other countries (23),Both sexes,Net migration,0.9
+1837,2012,Other countries (23),Both sexes,Emigrants: All destinations,13.7
+1838,2012,Other countries (23),Both sexes,Immigrants: All origins,14.5
+1839,2012,Other countries (23),Male,Net migration,-1.7
+1840,2012,Other countries (23),Male,Emigrants: All destinations,8.1
+1841,2012,Other countries (23),Male,Immigrants: All origins,6.4
+1842,2012,Other countries (23),Female,Net migration,2.6
+1843,2012,Other countries (23),Female,Emigrants: All destinations,5.6
+1844,2012,Other countries (23),Female,Immigrants: All origins,8.2
+1845,2012,All countries,Both sexes,Net migration,-25.7
+1846,2012,All countries,Both sexes,Emigrants: All destinations,83.0
+1847,2012,All countries,Both sexes,Immigrants: All origins,57.3
+1848,2012,All countries,Male,Net migration,-18.4
+1849,2012,All countries,Male,Emigrants: All destinations,45.9
+1850,2012,All countries,Male,Immigrants: All origins,27.5
+1851,2012,All countries,Female,Net migration,-7.3
+1852,2012,All countries,Female,Emigrants: All destinations,37.1
+1853,2012,All countries,Female,Immigrants: All origins,29.7
+1854,2012,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,-3.6
+1855,2012,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,13.7
+1856,2012,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,10.2
+1857,2012,EU14 excl Irl (UK & Ireland),Male,Net migration,-2.5
+1858,2012,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,6.7
+1859,2012,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,4.1
+1860,2012,EU14 excl Irl (UK & Ireland),Female,Net migration,-1.0
+1861,2012,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,7.1
+1862,2012,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,6.0
+1863,2012,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,0.9
+1864,2012,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,9.2
+1865,2012,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,10.1
+1866,2012,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,0.6
+1867,2012,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,4.7
+1868,2012,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,5.2
+1869,2012,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,0.3
+1870,2012,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,4.5
+1871,2012,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,4.8
+1872,2013,United Kingdom (1),Both sexes,Net migration,-8.3
+1873,2013,United Kingdom (1),Both sexes,Emigrants: All destinations,20.0
+1874,2013,United Kingdom (1),Both sexes,Immigrants: All origins,11.7
+1875,2013,United Kingdom (1),Male,Net migration,-4.6
+1876,2013,United Kingdom (1),Male,Emigrants: All destinations,10.7
+1877,2013,United Kingdom (1),Male,Immigrants: All origins,6.0
+1878,2013,United Kingdom (1),Female,Net migration,-3.6
+1879,2013,United Kingdom (1),Female,Emigrants: All destinations,9.4
+1880,2013,United Kingdom (1),Female,Immigrants: All origins,5.7
+1881,2013,United States,Both sexes,Net migration,-1.7
+1882,2013,United States,Both sexes,Emigrants: All destinations,5.7
+1883,2013,United States,Both sexes,Immigrants: All origins,4.0
+1884,2013,United States,Male,Net migration,-1.5
+1885,2013,United States,Male,Emigrants: All destinations,3.1
+1886,2013,United States,Male,Immigrants: All origins,1.5
+1887,2013,United States,Female,Net migration,-0.1
+1888,2013,United States,Female,Emigrants: All destinations,2.6
+1889,2013,United States,Female,Immigrants: All origins,2.5
+1890,2013,Canada,Both sexes,Net migration,-3.0
+1891,2013,Canada,Both sexes,Emigrants: All destinations,4.9
+1892,2013,Canada,Both sexes,Immigrants: All origins,1.9
+1893,2013,Canada,Male,Net migration,-1.3
+1894,2013,Canada,Male,Emigrants: All destinations,2.4
+1895,2013,Canada,Male,Immigrants: All origins,1.1
+1896,2013,Canada,Female,Net migration,-1.7
+1897,2013,Canada,Female,Emigrants: All destinations,2.5
+1898,2013,Canada,Female,Immigrants: All origins,0.8
+1899,2013,Australia,Both sexes,Net migration,-8.1
+1900,2013,Australia,Both sexes,Emigrants: All destinations,14.1
+1901,2013,Australia,Both sexes,Immigrants: All origins,6.0
+1902,2013,Australia,Male,Net migration,-3.3
+1903,2013,Australia,Male,Emigrants: All destinations,7.1
+1904,2013,Australia,Male,Immigrants: All origins,3.9
+1905,2013,Australia,Female,Net migration,-4.8
+1906,2013,Australia,Female,Emigrants: All destinations,7.0
+1907,2013,Australia,Female,Immigrants: All origins,2.1
+1908,2013,Other countries (23),Both sexes,Net migration,3.5
+1909,2013,Other countries (23),Both sexes,Emigrants: All destinations,13.2
+1910,2013,Other countries (23),Both sexes,Immigrants: All origins,16.7
+1911,2013,Other countries (23),Male,Net migration,1.5
+1912,2013,Other countries (23),Male,Emigrants: All destinations,7.3
+1913,2013,Other countries (23),Male,Immigrants: All origins,8.8
+1914,2013,Other countries (23),Female,Net migration,2.1
+1915,2013,Other countries (23),Female,Emigrants: All destinations,5.9
+1916,2013,Other countries (23),Female,Immigrants: All origins,7.9
+1917,2013,All countries,Both sexes,Net migration,-18.7
+1918,2013,All countries,Both sexes,Emigrants: All destinations,81.3
+1919,2013,All countries,Both sexes,Immigrants: All origins,62.7
+1920,2013,All countries,Male,Net migration,-9.3
+1921,2013,All countries,Male,Emigrants: All destinations,41.6
+1922,2013,All countries,Male,Immigrants: All origins,32.3
+1923,2013,All countries,Female,Net migration,-9.3
+1924,2013,All countries,Female,Emigrants: All destinations,39.7
+1925,2013,All countries,Female,Immigrants: All origins,30.4
+1926,2013,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,1.1
+1927,2013,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,10.5
+1928,2013,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,11.6
+1929,2013,EU14 excl Irl (UK & Ireland),Male,Net migration,1.7
+1930,2013,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,4.0
+1931,2013,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,5.8
+1932,2013,EU14 excl Irl (UK & Ireland),Female,Net migration,-0.7
+1933,2013,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,6.4
+1934,2013,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,5.8
+1935,2013,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,-2.3
+1936,2013,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,13.0
+1937,2013,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,10.7
+1938,2013,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,-1.8
+1939,2013,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,7.0
+1940,2013,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,5.2
+1941,2013,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,-0.5
+1942,2013,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,6.0
+1943,2013,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,5.6
+1944,2014,United Kingdom (1),Both sexes,Net migration,-3.0
+1945,2014,United Kingdom (1),Both sexes,Emigrants: All destinations,16.4
+1946,2014,United Kingdom (1),Both sexes,Immigrants: All origins,13.5
+1947,2014,United Kingdom (1),Male,Net migration,-2.0
+1948,2014,United Kingdom (1),Male,Emigrants: All destinations,8.4
+1949,2014,United Kingdom (1),Male,Immigrants: All origins,6.5
+1950,2014,United Kingdom (1),Female,Net migration,-1.0
+1951,2014,United Kingdom (1),Female,Emigrants: All destinations,8.0
+1952,2014,United Kingdom (1),Female,Immigrants: All origins,7.0
+1953,2014,United States,Both sexes,Net migration,-1.9
+1954,2014,United States,Both sexes,Emigrants: All destinations,6.3
+1955,2014,United States,Both sexes,Immigrants: All origins,4.4
+1956,2014,United States,Male,Net migration,-1.5
+1957,2014,United States,Male,Emigrants: All destinations,3.0
+1958,2014,United States,Male,Immigrants: All origins,1.5
+1959,2014,United States,Female,Net migration,-0.4
+1960,2014,United States,Female,Emigrants: All destinations,3.3
+1961,2014,United States,Female,Immigrants: All origins,2.9
+1962,2014,Canada,Both sexes,Net migration,-2.1
+1963,2014,Canada,Both sexes,Emigrants: All destinations,4.3
+1964,2014,Canada,Both sexes,Immigrants: All origins,2.2
+1965,2014,Canada,Male,Net migration,-1.7
+1966,2014,Canada,Male,Emigrants: All destinations,3.0
+1967,2014,Canada,Male,Immigrants: All origins,1.3
+1968,2014,Canada,Female,Net migration,-0.4
+1969,2014,Canada,Female,Emigrants: All destinations,1.3
+1970,2014,Canada,Female,Immigrants: All origins,1.0
+1971,2014,Australia,Both sexes,Net migration,-3.8
+1972,2014,Australia,Both sexes,Emigrants: All destinations,9.2
+1973,2014,Australia,Both sexes,Immigrants: All origins,5.4
+1974,2014,Australia,Male,Net migration,-1.7
+1975,2014,Australia,Male,Emigrants: All destinations,4.4
+1976,2014,Australia,Male,Immigrants: All origins,2.7
+1977,2014,Australia,Female,Net migration,-2.1
+1978,2014,Australia,Female,Emigrants: All destinations,4.8
+1979,2014,Australia,Female,Immigrants: All origins,2.7
+1980,2014,Other countries (23),Both sexes,Net migration,2.6
+1981,2014,Other countries (23),Both sexes,Emigrants: All destinations,16.0
+1982,2014,Other countries (23),Both sexes,Immigrants: All origins,18.6
+1983,2014,Other countries (23),Male,Net migration,0.5
+1984,2014,Other countries (23),Male,Emigrants: All destinations,8.1
+1985,2014,Other countries (23),Male,Immigrants: All origins,8.6
+1986,2014,Other countries (23),Female,Net migration,2.1
+1987,2014,Other countries (23),Female,Emigrants: All destinations,7.9
+1988,2014,Other countries (23),Female,Immigrants: All origins,10.0
+1989,2014,All countries,Both sexes,Net migration,-8.5
+1990,2014,All countries,Both sexes,Emigrants: All destinations,75.0
+1991,2014,All countries,Both sexes,Immigrants: All origins,66.5
+1992,2014,All countries,Male,Net migration,-7.4
+1993,2014,All countries,Male,Emigrants: All destinations,38.3
+1994,2014,All countries,Male,Immigrants: All origins,30.9
+1995,2014,All countries,Female,Net migration,-1.0
+1996,2014,All countries,Female,Emigrants: All destinations,36.6
+1997,2014,All countries,Female,Immigrants: All origins,35.6
+1998,2014,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,-3.2
+1999,2014,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,14.8
+2000,2014,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,11.7
+2001,2014,EU14 excl Irl (UK & Ireland),Male,Net migration,-1.4
+2002,2014,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,6.6
+2003,2014,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,5.2
+2004,2014,EU14 excl Irl (UK & Ireland),Female,Net migration,-1.7
+2005,2014,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,8.2
+2006,2014,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,6.5
+2007,2014,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,2.8
+2008,2014,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,8.0
+2009,2014,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,10.8
+2010,2014,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,0.4
+2011,2014,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,4.8
+2012,2014,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,5.2
+2013,2014,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,2.4
+2014,2014,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,3.1
+2015,2014,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,5.6
+2016,2015,United Kingdom (1),Both sexes,Net migration,-0.2
+2017,2015,United Kingdom (1),Both sexes,Emigrants: All destinations,16.6
+2018,2015,United Kingdom (1),Both sexes,Immigrants: All origins,16.4
+2019,2015,United Kingdom (1),Male,Net migration,0.5
+2020,2015,United Kingdom (1),Male,Emigrants: All destinations,7.6
+2021,2015,United Kingdom (1),Male,Immigrants: All origins,8.1
+2022,2015,United Kingdom (1),Female,Net migration,-0.7
+2023,2015,United Kingdom (1),Female,Emigrants: All destinations,9.0
+2024,2015,United Kingdom (1),Female,Immigrants: All origins,8.3
+2025,2015,United States,Both sexes,Net migration,-0.7
+2026,2015,United States,Both sexes,Emigrants: All destinations,5.1
+2027,2015,United States,Both sexes,Immigrants: All origins,4.4
+2028,2015,United States,Male,Net migration,-0.6
+2029,2015,United States,Male,Emigrants: All destinations,2.3
+2030,2015,United States,Male,Immigrants: All origins,1.7
+2031,2015,United States,Female,Net migration,-0.1
+2032,2015,United States,Female,Emigrants: All destinations,2.8
+2033,2015,United States,Female,Immigrants: All origins,2.7
+2034,2015,Canada,Both sexes,Net migration,-3.9
+2035,2015,Canada,Both sexes,Emigrants: All destinations,6.6
+2036,2015,Canada,Both sexes,Immigrants: All origins,2.7
+2037,2015,Canada,Male,Net migration,-3.3
+2038,2015,Canada,Male,Emigrants: All destinations,4.7
+2039,2015,Canada,Male,Immigrants: All origins,1.5
+2040,2015,Canada,Female,Net migration,-0.6
+2041,2015,Canada,Female,Emigrants: All destinations,1.8
+2042,2015,Canada,Female,Immigrants: All origins,1.2
+2043,2015,Australia,Both sexes,Net migration,-0.7
+2044,2015,Australia,Both sexes,Emigrants: All destinations,6.5
+2045,2015,Australia,Both sexes,Immigrants: All origins,5.8
+2046,2015,Australia,Male,Net migration,-0.1
+2047,2015,Australia,Male,Emigrants: All destinations,3.2
+2048,2015,Australia,Male,Immigrants: All origins,3.1
+2049,2015,Australia,Female,Net migration,-0.6
+2050,2015,Australia,Female,Emigrants: All destinations,3.3
+2051,2015,Australia,Female,Immigrants: All origins,2.7
+2052,2015,Other countries (23),Both sexes,Net migration,6.9
+2053,2015,Other countries (23),Both sexes,Emigrants: All destinations,15.9
+2054,2015,Other countries (23),Both sexes,Immigrants: All origins,22.8
+2055,2015,Other countries (23),Male,Net migration,0.9
+2056,2015,Other countries (23),Male,Emigrants: All destinations,9.5
+2057,2015,Other countries (23),Male,Immigrants: All origins,10.4
+2058,2015,Other countries (23),Female,Net migration,6.0
+2059,2015,Other countries (23),Female,Emigrants: All destinations,6.4
+2060,2015,Other countries (23),Female,Immigrants: All origins,12.4
+2061,2015,All countries,Both sexes,Net migration,5.9
+2062,2015,All countries,Both sexes,Emigrants: All destinations,70.0
+2063,2015,All countries,Both sexes,Immigrants: All origins,75.9
+2064,2015,All countries,Male,Net migration,-0.1
+2065,2015,All countries,Male,Emigrants: All destinations,35.8
+2066,2015,All countries,Male,Immigrants: All origins,35.7
+2067,2015,All countries,Female,Net migration,6.0
+2068,2015,All countries,Female,Emigrants: All destinations,34.1
+2069,2015,All countries,Female,Immigrants: All origins,40.2
+2070,2015,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,-1.4
+2071,2015,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,13.3
+2072,2015,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,11.9
+2073,2015,EU14 excl Irl (UK & Ireland),Male,Net migration,0.2
+2074,2015,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,4.7
+2075,2015,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,4.9
+2076,2015,EU14 excl Irl (UK & Ireland),Female,Net migration,-1.6
+2077,2015,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,8.7
+2078,2015,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,7.0
+2079,2015,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,6.0
+2080,2015,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,5.9
+2081,2015,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,11.9
+2082,2015,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,2.3
+2083,2015,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,3.7
+2084,2015,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,6.0
+2085,2015,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,3.7
+2086,2015,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,2.2
+2087,2015,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,5.9
+2088,2016,United Kingdom (1),Both sexes,Net migration,3.8
+2089,2016,United Kingdom (1),Both sexes,Emigrants: All destinations,14.4
+2090,2016,United Kingdom (1),Both sexes,Immigrants: All origins,18.2
+2091,2016,United Kingdom (1),Male,Net migration,1.8
+2092,2016,United Kingdom (1),Male,Emigrants: All destinations,7.6
+2093,2016,United Kingdom (1),Male,Immigrants: All origins,9.5
+2094,2016,United Kingdom (1),Female,Net migration,1.9
+2095,2016,United Kingdom (1),Female,Emigrants: All destinations,6.8
+2096,2016,United Kingdom (1),Female,Immigrants: All origins,8.7
+2097,2016,United States,Both sexes,Net migration,-0.4
+2098,2016,United States,Both sexes,Emigrants: All destinations,5.7
+2099,2016,United States,Both sexes,Immigrants: All origins,5.3
+2100,2016,United States,Male,Net migration,-0.4
+2101,2016,United States,Male,Emigrants: All destinations,2.8
+2102,2016,United States,Male,Immigrants: All origins,2.4
+2103,2016,United States,Female,Net migration,0.0
+2104,2016,United States,Female,Emigrants: All destinations,2.8
+2105,2016,United States,Female,Immigrants: All origins,2.9
+2106,2016,Canada,Both sexes,Net migration,-0.3
+2107,2016,Canada,Both sexes,Emigrants: All destinations,3.4
+2108,2016,Canada,Both sexes,Immigrants: All origins,3.1
+2109,2016,Canada,Male,Net migration,0.0
+2110,2016,Canada,Male,Emigrants: All destinations,1.7
+2111,2016,Canada,Male,Immigrants: All origins,1.7
+2112,2016,Canada,Female,Net migration,-0.3
+2113,2016,Canada,Female,Emigrants: All destinations,1.7
+2114,2016,Canada,Female,Immigrants: All origins,1.5
+2115,2016,Australia,Both sexes,Net migration,1.6
+2116,2016,Australia,Both sexes,Emigrants: All destinations,5.3
+2117,2016,Australia,Both sexes,Immigrants: All origins,6.9
+2118,2016,Australia,Male,Net migration,1.1
+2119,2016,Australia,Male,Emigrants: All destinations,2.5
+2120,2016,Australia,Male,Immigrants: All origins,3.6
+2121,2016,Australia,Female,Net migration,0.5
+2122,2016,Australia,Female,Emigrants: All destinations,2.8
+2123,2016,Australia,Female,Immigrants: All origins,3.3
+2124,2016,Other countries (23),Both sexes,Net migration,8.0
+2125,2016,Other countries (23),Both sexes,Emigrants: All destinations,14.2
+2126,2016,Other countries (23),Both sexes,Immigrants: All origins,22.2
+2127,2016,Other countries (23),Male,Net migration,4.6
+2128,2016,Other countries (23),Male,Emigrants: All destinations,6.4
+2129,2016,Other countries (23),Male,Immigrants: All origins,11.0
+2130,2016,Other countries (23),Female,Net migration,3.4
+2131,2016,Other countries (23),Female,Emigrants: All destinations,7.8
+2132,2016,Other countries (23),Female,Immigrants: All origins,11.2
+2133,2016,All countries,Both sexes,Net migration,16.2
+2134,2016,All countries,Both sexes,Emigrants: All destinations,66.2
+2135,2016,All countries,Both sexes,Immigrants: All origins,82.3
+2136,2016,All countries,Male,Net migration,10.1
+2137,2016,All countries,Male,Emigrants: All destinations,31.0
+2138,2016,All countries,Male,Immigrants: All origins,41.2
+2139,2016,All countries,Female,Net migration,6.0
+2140,2016,All countries,Female,Emigrants: All destinations,35.1
+2141,2016,All countries,Female,Immigrants: All origins,41.2
+2142,2016,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,0.9
+2143,2016,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,13.9
+2144,2016,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,14.7
+2145,2016,EU14 excl Irl (UK & Ireland),Male,Net migration,1.1
+2146,2016,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,5.7
+2147,2016,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,6.8
+2148,2016,EU14 excl Irl (UK & Ireland),Female,Net migration,-0.3
+2149,2016,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,8.2
+2150,2016,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,7.9
+2151,2016,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,2.7
+2152,2016,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,9.3
+2153,2016,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,11.9
+2154,2016,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,2.0
+2155,2016,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,4.3
+2156,2016,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,6.3
+2157,2016,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,0.7
+2158,2016,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,5.0
+2159,2016,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,5.6
+2160,2017,United Kingdom (1),Both sexes,Net migration,10.6
+2161,2017,United Kingdom (1),Both sexes,Emigrants: All destinations,10.5
+2162,2017,United Kingdom (1),Both sexes,Immigrants: All origins,21.1
+2163,2017,United Kingdom (1),Male,Net migration,5.3
+2164,2017,United Kingdom (1),Male,Emigrants: All destinations,5.6
+2165,2017,United Kingdom (1),Male,Immigrants: All origins,10.9
+2166,2017,United Kingdom (1),Female,Net migration,5.3
+2167,2017,United Kingdom (1),Female,Emigrants: All destinations,4.9
+2168,2017,United Kingdom (1),Female,Immigrants: All origins,10.2
+2169,2017,United States,Both sexes,Net migration,0.5
+2170,2017,United States,Both sexes,Emigrants: All destinations,5.6
+2171,2017,United States,Both sexes,Immigrants: All origins,6.1
+2172,2017,United States,Male,Net migration,-0.9
+2173,2017,United States,Male,Emigrants: All destinations,3.7
+2174,2017,United States,Male,Immigrants: All origins,2.8
+2175,2017,United States,Female,Net migration,1.4
+2176,2017,United States,Female,Emigrants: All destinations,1.9
+2177,2017,United States,Female,Immigrants: All origins,3.3
+2178,2017,Canada,Both sexes,Net migration,0.4
+2179,2017,Canada,Both sexes,Emigrants: All destinations,3.2
+2180,2017,Canada,Both sexes,Immigrants: All origins,3.6
+2181,2017,Canada,Male,Net migration,0.1
+2182,2017,Canada,Male,Emigrants: All destinations,1.8
+2183,2017,Canada,Male,Immigrants: All origins,1.9
+2184,2017,Canada,Female,Net migration,0.3
+2185,2017,Canada,Female,Emigrants: All destinations,1.4
+2186,2017,Canada,Female,Immigrants: All origins,1.7
+2187,2017,Australia,Both sexes,Net migration,3.4
+2188,2017,Australia,Both sexes,Emigrants: All destinations,4.6
+2189,2017,Australia,Both sexes,Immigrants: All origins,8.0
+2190,2017,Australia,Male,Net migration,1.7
+2191,2017,Australia,Male,Emigrants: All destinations,2.4
+2192,2017,Australia,Male,Immigrants: All origins,4.1
+2193,2017,Australia,Female,Net migration,1.7
+2194,2017,Australia,Female,Emigrants: All destinations,2.2
+2195,2017,Australia,Female,Immigrants: All origins,3.9
+2196,2017,Other countries (23),Both sexes,Net migration,12.9
+2197,2017,Other countries (23),Both sexes,Emigrants: All destinations,12.7
+2198,2017,Other countries (23),Both sexes,Immigrants: All origins,25.6
+2199,2017,Other countries (23),Male,Net migration,6.2
+2200,2017,Other countries (23),Male,Emigrants: All destinations,6.4
+2201,2017,Other countries (23),Male,Immigrants: All origins,12.6
+2202,2017,Other countries (23),Female,Net migration,6.7
+2203,2017,Other countries (23),Female,Emigrants: All destinations,6.3
+2204,2017,Other countries (23),Female,Immigrants: All origins,13.0
+2205,2017,All countries,Both sexes,Net migration,39.2
+2206,2017,All countries,Both sexes,Emigrants: All destinations,56.1
+2207,2017,All countries,Both sexes,Immigrants: All origins,95.3
+2208,2017,All countries,Male,Net migration,17.7
+2209,2017,All countries,Male,Emigrants: All destinations,29.5
+2210,2017,All countries,Male,Immigrants: All origins,47.3
+2211,2017,All countries,Female,Net migration,21.4
+2212,2017,All countries,Female,Emigrants: All destinations,26.6
+2213,2017,All countries,Female,Immigrants: All origins,48.0
+2214,2017,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,6.0
+2215,2017,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,11.2
+2216,2017,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,17.2
+2217,2017,EU14 excl Irl (UK & Ireland),Male,Net migration,2.8
+2218,2017,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,5.1
+2219,2017,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,7.9
+2220,2017,EU14 excl Irl (UK & Ireland),Female,Net migration,3.2
+2221,2017,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,6.1
+2222,2017,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,9.3
+2223,2017,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,5.4
+2224,2017,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,8.4
+2225,2017,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,13.8
+2226,2017,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,2.7
+2227,2017,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,4.5
+2228,2017,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,7.2
+2229,2017,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,2.7
+2230,2017,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,3.9
+2231,2017,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,6.6
+2232,2018,United Kingdom (1),Both sexes,Net migration,10.8
+2233,2018,United Kingdom (1),Both sexes,Emigrants: All destinations,10.5
+2234,2018,United Kingdom (1),Both sexes,Immigrants: All origins,21.3
+2235,2018,United Kingdom (1),Male,Net migration,6.3
+2236,2018,United Kingdom (1),Male,Emigrants: All destinations,4.5
+2237,2018,United Kingdom (1),Male,Immigrants: All origins,10.8
+2238,2018,United Kingdom (1),Female,Net migration,4.5
+2239,2018,United Kingdom (1),Female,Emigrants: All destinations,6.0
+2240,2018,United Kingdom (1),Female,Immigrants: All origins,10.5
+2241,2018,United States,Both sexes,Net migration,2.5
+2242,2018,United States,Both sexes,Emigrants: All destinations,5.3
+2243,2018,United States,Both sexes,Immigrants: All origins,7.8
+2244,2018,United States,Male,Net migration,0.9
+2245,2018,United States,Male,Emigrants: All destinations,2.7
+2246,2018,United States,Male,Immigrants: All origins,3.6
+2247,2018,United States,Female,Net migration,1.6
+2248,2018,United States,Female,Emigrants: All destinations,2.6
+2249,2018,United States,Female,Immigrants: All origins,4.2
+2250,2018,Canada,Both sexes,Net migration,-0.9
+2251,2018,Canada,Both sexes,Emigrants: All destinations,3.6
+2252,2018,Canada,Both sexes,Immigrants: All origins,2.7
+2253,2018,Canada,Male,Net migration,-0.7
+2254,2018,Canada,Male,Emigrants: All destinations,1.9
+2255,2018,Canada,Male,Immigrants: All origins,1.2
+2256,2018,Canada,Female,Net migration,-0.2
+2257,2018,Canada,Female,Emigrants: All destinations,1.7
+2258,2018,Canada,Female,Immigrants: All origins,1.5
+2259,2018,Australia,Both sexes,Net migration,3.4
+2260,2018,Australia,Both sexes,Emigrants: All destinations,4.1
+2261,2018,Australia,Both sexes,Immigrants: All origins,7.5
+2262,2018,Australia,Male,Net migration,1.5
+2263,2018,Australia,Male,Emigrants: All destinations,2.4
+2264,2018,Australia,Male,Immigrants: All origins,3.9
+2265,2018,Australia,Female,Net migration,1.9
+2266,2018,Australia,Female,Emigrants: All destinations,1.7
+2267,2018,Australia,Female,Immigrants: All origins,3.6
+2268,2018,Other countries (23),Both sexes,Net migration,18.3
+2269,2018,Other countries (23),Both sexes,Emigrants: All destinations,10.8
+2270,2018,Other countries (23),Both sexes,Immigrants: All origins,29.1
+2271,2018,Other countries (23),Male,Net migration,8.8
+2272,2018,Other countries (23),Male,Emigrants: All destinations,5.5
+2273,2018,Other countries (23),Male,Immigrants: All origins,14.3
+2274,2018,Other countries (23),Female,Net migration,9.5
+2275,2018,Other countries (23),Female,Emigrants: All destinations,5.3
+2276,2018,Other countries (23),Female,Immigrants: All origins,14.8
+2277,2018,All countries,Both sexes,Net migration,44.4
+2278,2018,All countries,Both sexes,Emigrants: All destinations,51.6
+2279,2018,All countries,Both sexes,Immigrants: All origins,96.0
+2280,2018,All countries,Male,Net migration,23.3
+2281,2018,All countries,Male,Emigrants: All destinations,24.0
+2282,2018,All countries,Male,Immigrants: All origins,47.3
+2283,2018,All countries,Female,Net migration,21.1
+2284,2018,All countries,Female,Emigrants: All destinations,27.6
+2285,2018,All countries,Female,Immigrants: All origins,48.7
+2286,2018,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,4.6
+2287,2018,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,11.3
+2288,2018,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,15.9
+2289,2018,EU14 excl Irl (UK & Ireland),Male,Net migration,3.8
+2290,2018,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,4.3
+2291,2018,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,8.1
+2292,2018,EU14 excl Irl (UK & Ireland),Female,Net migration,0.8
+2293,2018,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,7.0
+2294,2018,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,7.8
+2295,2018,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,5.6
+2296,2018,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,6.0
+2297,2018,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,11.6
+2298,2018,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,2.6
+2299,2018,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,2.7
+2300,2018,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,5.3
+2301,2018,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,3.0
+2302,2018,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,3.3
+2303,2018,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,6.3
+2304,2019,United Kingdom (1),Both sexes,Net migration,10.4
+2305,2019,United Kingdom (1),Both sexes,Emigrants: All destinations,11.2
+2306,2019,United Kingdom (1),Both sexes,Immigrants: All origins,21.6
+2307,2019,United Kingdom (1),Male,Net migration,4.5
+2308,2019,United Kingdom (1),Male,Emigrants: All destinations,5.7
+2309,2019,United Kingdom (1),Male,Immigrants: All origins,10.2
+2310,2019,United Kingdom (1),Female,Net migration,5.9
+2311,2019,United Kingdom (1),Female,Emigrants: All destinations,5.5
+2312,2019,United Kingdom (1),Female,Immigrants: All origins,11.4
+2313,2019,United States,Both sexes,Net migration,1.6
+2314,2019,United States,Both sexes,Emigrants: All destinations,5.1
+2315,2019,United States,Both sexes,Immigrants: All origins,6.7
+2316,2019,United States,Male,Net migration,0.3
+2317,2019,United States,Male,Emigrants: All destinations,3.2
+2318,2019,United States,Male,Immigrants: All origins,3.5
+2319,2019,United States,Female,Net migration,1.3
+2320,2019,United States,Female,Emigrants: All destinations,1.9
+2321,2019,United States,Female,Immigrants: All origins,3.2
+2322,2019,Canada,Both sexes,Net migration,-2.1
+2323,2019,Canada,Both sexes,Emigrants: All destinations,4.7
+2324,2019,Canada,Both sexes,Immigrants: All origins,2.6
+2325,2019,Canada,Male,Net migration,-0.7
+2326,2019,Canada,Male,Emigrants: All destinations,2.2
+2327,2019,Canada,Male,Immigrants: All origins,1.5
+2328,2019,Canada,Female,Net migration,-1.4
+2329,2019,Canada,Female,Emigrants: All destinations,2.5
+2330,2019,Canada,Female,Immigrants: All origins,1.1
+2331,2019,Australia,Both sexes,Net migration,0.0
+2332,2019,Australia,Both sexes,Emigrants: All destinations,6.3
+2333,2019,Australia,Both sexes,Immigrants: All origins,6.3
+2334,2019,Australia,Male,Net migration,1.0
+2335,2019,Australia,Male,Emigrants: All destinations,2.8
+2336,2019,Australia,Male,Immigrants: All origins,3.8
+2337,2019,Australia,Female,Net migration,-1.0
+2338,2019,Australia,Female,Emigrants: All destinations,3.5
+2339,2019,Australia,Female,Immigrants: All origins,2.5
+2340,2019,Other countries (23),Both sexes,Net migration,22.3
+2341,2019,Other countries (23),Both sexes,Emigrants: All destinations,12.1
+2342,2019,Other countries (23),Both sexes,Immigrants: All origins,34.4
+2343,2019,Other countries (23),Male,Net migration,13.4
+2344,2019,Other countries (23),Male,Emigrants: All destinations,5.6
+2345,2019,Other countries (23),Male,Immigrants: All origins,19.0
+2346,2019,Other countries (23),Female,Net migration,8.9
+2347,2019,Other countries (23),Female,Emigrants: All destinations,6.5
+2348,2019,Other countries (23),Female,Immigrants: All origins,15.4
+2349,2019,All countries,Both sexes,Net migration,44.0
+2350,2019,All countries,Both sexes,Emigrants: All destinations,53.1
+2351,2019,All countries,Both sexes,Immigrants: All origins,97.1
+2352,2019,All countries,Male,Net migration,22.1
+2353,2019,All countries,Male,Emigrants: All destinations,26.9
+2354,2019,All countries,Male,Immigrants: All origins,49.0
+2355,2019,All countries,Female,Net migration,21.9
+2356,2019,All countries,Female,Emigrants: All destinations,26.2
+2357,2019,All countries,Female,Immigrants: All origins,48.1
+2358,2019,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,5.4
+2359,2019,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,10.1
+2360,2019,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,15.5
+2361,2019,EU14 excl Irl (UK & Ireland),Male,Net migration,1.7
+2362,2019,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,5.5
+2363,2019,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,7.2
+2364,2019,EU14 excl Irl (UK & Ireland),Female,Net migration,3.7
+2365,2019,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,4.6
+2366,2019,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,8.3
+2367,2019,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,6.3
+2368,2019,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,3.7
+2369,2019,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,10.0
+2370,2019,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,1.9
+2371,2019,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,1.9
+2372,2019,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,3.8
+2373,2019,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,4.4
+2374,2019,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,1.8
+2375,2019,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,6.2
+2376,2020,United Kingdom (1),Both sexes,Net migration,7.9
+2377,2020,United Kingdom (1),Both sexes,Emigrants: All destinations,9.7
+2378,2020,United Kingdom (1),Both sexes,Immigrants: All origins,17.6
+2379,2020,United Kingdom (1),Male,Net migration,3.9
+2380,2020,United Kingdom (1),Male,Emigrants: All destinations,4.5
+2381,2020,United Kingdom (1),Male,Immigrants: All origins,8.4
+2382,2020,United Kingdom (1),Female,Net migration,4.0
+2383,2020,United Kingdom (1),Female,Emigrants: All destinations,5.2
+2384,2020,United Kingdom (1),Female,Immigrants: All origins,9.2
+2385,2020,United States,Both sexes,Net migration,0.7
+2386,2020,United States,Both sexes,Emigrants: All destinations,5.3
+2387,2020,United States,Both sexes,Immigrants: All origins,6.0
+2388,2020,United States,Male,Net migration,0.3
+2389,2020,United States,Male,Emigrants: All destinations,2.7
+2390,2020,United States,Male,Immigrants: All origins,3.0
+2391,2020,United States,Female,Net migration,0.4
+2392,2020,United States,Female,Emigrants: All destinations,2.6
+2393,2020,United States,Female,Immigrants: All origins,3.0
+2394,2020,Canada,Both sexes,Net migration,0.0
+2395,2020,Canada,Both sexes,Emigrants: All destinations,3.1
+2396,2020,Canada,Both sexes,Immigrants: All origins,3.1
+2397,2020,Canada,Male,Net migration,0.2
+2398,2020,Canada,Male,Emigrants: All destinations,1.4
+2399,2020,Canada,Male,Immigrants: All origins,1.6
+2400,2020,Canada,Female,Net migration,-0.2
+2401,2020,Canada,Female,Emigrants: All destinations,1.7
+2402,2020,Canada,Female,Immigrants: All origins,1.5
+2403,2020,Australia,Both sexes,Net migration,2.2
+2404,2020,Australia,Both sexes,Emigrants: All destinations,5.6
+2405,2020,Australia,Both sexes,Immigrants: All origins,7.8
+2406,2020,Australia,Male,Net migration,0.8
+2407,2020,Australia,Male,Emigrants: All destinations,2.7
+2408,2020,Australia,Male,Immigrants: All origins,3.5
+2409,2020,Australia,Female,Net migration,1.4
+2410,2020,Australia,Female,Emigrants: All destinations,2.9
+2411,2020,Australia,Female,Immigrants: All origins,4.3
+2412,2020,Other countries (23),Both sexes,Net migration,27.7
+2413,2020,Other countries (23),Both sexes,Emigrants: All destinations,8.7
+2414,2020,Other countries (23),Both sexes,Immigrants: All origins,36.4
+2415,2020,Other countries (23),Male,Net migration,13.5
+2416,2020,Other countries (23),Male,Emigrants: All destinations,4.5
+2417,2020,Other countries (23),Male,Immigrants: All origins,18.0
+2418,2020,Other countries (23),Female,Net migration,14.2
+2419,2020,Other countries (23),Female,Emigrants: All destinations,4.2
+2420,2020,Other countries (23),Female,Immigrants: All origins,18.4
+2421,2020,All countries,Both sexes,Net migration,44.7
+2422,2020,All countries,Both sexes,Emigrants: All destinations,50.9
+2423,2020,All countries,Both sexes,Immigrants: All origins,95.6
+2424,2020,All countries,Male,Net migration,21.5
+2425,2020,All countries,Male,Emigrants: All destinations,25.4
+2426,2020,All countries,Male,Immigrants: All origins,46.9
+2427,2020,All countries,Female,Net migration,23.2
+2428,2020,All countries,Female,Emigrants: All destinations,25.5
+2429,2020,All countries,Female,Immigrants: All origins,48.7
+2430,2020,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,4.8
+2431,2020,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,10.7
+2432,2020,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,15.5
+2433,2020,EU14 excl Irl (UK & Ireland),Male,Net migration,2.1
+2434,2020,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,5.5
+2435,2020,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,7.6
+2436,2020,EU14 excl Irl (UK & Ireland),Female,Net migration,2.7
+2437,2020,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,5.2
+2438,2020,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,7.9
+2439,2020,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,1.3
+2440,2020,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,7.9
+2441,2020,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,9.2
+2442,2020,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,0.7
+2443,2020,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,4.1
+2444,2020,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,4.8
+2445,2020,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,0.6
+2446,2020,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,3.8
+2447,2020,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,4.4
+2448,2021,United Kingdom (1),Both sexes,Net migration,4.1
+2449,2021,United Kingdom (1),Both sexes,Emigrants: All destinations,17.6
+2450,2021,United Kingdom (1),Both sexes,Immigrants: All origins,21.7
+2451,2021,United Kingdom (1),Male,Net migration,3.4
+2452,2021,United Kingdom (1),Male,Emigrants: All destinations,8.2
+2453,2021,United Kingdom (1),Male,Immigrants: All origins,11.6
+2454,2021,United Kingdom (1),Female,Net migration,0.7
+2455,2021,United Kingdom (1),Female,Emigrants: All destinations,9.4
+2456,2021,United Kingdom (1),Female,Immigrants: All origins,10.1
+2457,2021,United States,Both sexes,Net migration,3.1
+2458,2021,United States,Both sexes,Emigrants: All destinations,2.4
+2459,2021,United States,Both sexes,Immigrants: All origins,5.5
+2460,2021,United States,Male,Net migration,1.1
+2461,2021,United States,Male,Emigrants: All destinations,1.2
+2462,2021,United States,Male,Immigrants: All origins,2.3
+2463,2021,United States,Female,Net migration,2.0
+2464,2021,United States,Female,Emigrants: All destinations,1.2
+2465,2021,United States,Female,Immigrants: All origins,3.2
+2466,2021,Canada,Both sexes,Net migration,4.3
+2467,2021,Canada,Both sexes,Emigrants: All destinations,1.7
+2468,2021,Canada,Both sexes,Immigrants: All origins,6.0
+2469,2021,Canada,Male,Net migration,3.0
+2470,2021,Canada,Male,Emigrants: All destinations,0.6
+2471,2021,Canada,Male,Immigrants: All origins,3.6
+2472,2021,Canada,Female,Net migration,1.3
+2473,2021,Canada,Female,Emigrants: All destinations,1.1
+2474,2021,Canada,Female,Immigrants: All origins,2.4
+2475,2021,Australia,Both sexes,Net migration,3.3
+2476,2021,Australia,Both sexes,Emigrants: All destinations,2.5
+2477,2021,Australia,Both sexes,Immigrants: All origins,5.8
+2478,2021,Australia,Male,Net migration,1.6
+2479,2021,Australia,Male,Emigrants: All destinations,0.9
+2480,2021,Australia,Male,Immigrants: All origins,2.5
+2481,2021,Australia,Female,Net migration,1.7
+2482,2021,Australia,Female,Emigrants: All destinations,1.6
+2483,2021,Australia,Female,Immigrants: All origins,3.3
+2484,2021,Other countries (23),Both sexes,Net migration,5.9
+2485,2021,Other countries (23),Both sexes,Emigrants: All destinations,12.5
+2486,2021,Other countries (23),Both sexes,Immigrants: All origins,18.4
+2487,2021,Other countries (23),Male,Net migration,1.1
+2488,2021,Other countries (23),Male,Emigrants: All destinations,7.0
+2489,2021,Other countries (23),Male,Immigrants: All origins,8.1
+2490,2021,Other countries (23),Female,Net migration,4.8
+2491,2021,Other countries (23),Female,Emigrants: All destinations,5.5
+2492,2021,Other countries (23),Female,Immigrants: All origins,10.3
+2493,2021,All countries,Both sexes,Net migration,21.8
+2494,2021,All countries,Both sexes,Emigrants: All destinations,52.3
+2495,2021,All countries,Both sexes,Immigrants: All origins,74.1
+2496,2021,All countries,Male,Net migration,10.8
+2497,2021,All countries,Male,Emigrants: All destinations,25.4
+2498,2021,All countries,Male,Immigrants: All origins,36.2
+2499,2021,All countries,Female,Net migration,11.0
+2500,2021,All countries,Female,Emigrants: All destinations,26.9
+2501,2021,All countries,Female,Immigrants: All origins,37.9
+2502,2021,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,-3.2
+2503,2021,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,11.1
+2504,2021,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,7.9
+2505,2021,EU14 excl Irl (UK & Ireland),Male,Net migration,-1.3
+2506,2021,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,5.0
+2507,2021,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,3.7
+2508,2021,EU14 excl Irl (UK & Ireland),Female,Net migration,-1.9
+2509,2021,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,6.1
+2510,2021,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,4.2
+2511,2021,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,4.3
+2512,2021,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,4.4
+2513,2021,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,8.7
+2514,2021,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,1.9
+2515,2021,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,2.4
+2516,2021,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,4.3
+2517,2021,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,2.4
+2518,2021,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,2.0
+2519,2021,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,4.4
+2520,2022,United Kingdom (1),Both sexes,Net migration,-0.6
+2521,2022,United Kingdom (1),Both sexes,Emigrants: All destinations,13.4
+2522,2022,United Kingdom (1),Both sexes,Immigrants: All origins,12.8
+2523,2022,United Kingdom (1),Male,Net migration,-0.8
+2524,2022,United Kingdom (1),Male,Emigrants: All destinations,7.2
+2525,2022,United Kingdom (1),Male,Immigrants: All origins,6.4
+2526,2022,United Kingdom (1),Female,Net migration,0.2
+2527,2022,United Kingdom (1),Female,Emigrants: All destinations,6.2
+2528,2022,United Kingdom (1),Female,Immigrants: All origins,6.4
+2529,2022,United States,Both sexes,Net migration,-2.0
+2530,2022,United States,Both sexes,Emigrants: All destinations,6.3
+2531,2022,United States,Both sexes,Immigrants: All origins,4.3
+2532,2022,United States,Male,Net migration,-2.7
+2533,2022,United States,Male,Emigrants: All destinations,4.6
+2534,2022,United States,Male,Immigrants: All origins,1.9
+2535,2022,United States,Female,Net migration,0.7
+2536,2022,United States,Female,Emigrants: All destinations,1.7
+2537,2022,United States,Female,Immigrants: All origins,2.4
+2538,2022,Canada,Both sexes,Net migration,-2.0
+2539,2022,Canada,Both sexes,Emigrants: All destinations,4.2
+2540,2022,Canada,Both sexes,Immigrants: All origins,2.2
+2541,2022,Canada,Male,Net migration,-1.2
+2542,2022,Canada,Male,Emigrants: All destinations,2.3
+2543,2022,Canada,Male,Immigrants: All origins,1.1
+2544,2022,Canada,Female,Net migration,-0.8
+2545,2022,Canada,Female,Emigrants: All destinations,1.9
+2546,2022,Canada,Female,Immigrants: All origins,1.1
+2547,2022,Australia,Both sexes,Net migration,-0.8
+2548,2022,Australia,Both sexes,Emigrants: All destinations,3.9
+2549,2022,Australia,Both sexes,Immigrants: All origins,3.1
+2550,2022,Australia,Male,Net migration,-0.6
+2551,2022,Australia,Male,Emigrants: All destinations,2.1
+2552,2022,Australia,Male,Immigrants: All origins,1.5
+2553,2022,Australia,Female,Net migration,-0.2
+2554,2022,Australia,Female,Emigrants: All destinations,1.8
+2555,2022,Australia,Female,Immigrants: All origins,1.6
+2556,2022,Other countries (23),Both sexes,Net migration,49.8
+2557,2022,Other countries (23),Both sexes,Emigrants: All destinations,10.7
+2558,2022,Other countries (23),Both sexes,Immigrants: All origins,60.5
+2559,2022,Other countries (23),Male,Net migration,20.7
+2560,2022,Other countries (23),Male,Emigrants: All destinations,5.1
+2561,2022,Other countries (23),Male,Immigrants: All origins,25.8
+2562,2022,Other countries (23),Female,Net migration,29.1
+2563,2022,Other countries (23),Female,Emigrants: All destinations,5.6
+2564,2022,Other countries (23),Female,Immigrants: All origins,34.7
+2565,2022,All countries,Both sexes,Net migration,51.7
+2566,2022,All countries,Both sexes,Emigrants: All destinations,56.1
+2567,2022,All countries,Both sexes,Immigrants: All origins,107.8
+2568,2022,All countries,Male,Net migration,19.6
+2569,2022,All countries,Male,Emigrants: All destinations,29.6
+2570,2022,All countries,Male,Immigrants: All origins,49.2
+2571,2022,All countries,Female,Net migration,32.1
+2572,2022,All countries,Female,Emigrants: All destinations,26.5
+2573,2022,All countries,Female,Immigrants: All origins,58.6
+2574,2022,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,-4.7
+2575,2022,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,12.8
+2576,2022,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,8.1
+2577,2022,EU14 excl Irl (UK & Ireland),Male,Net migration,-1.2
+2578,2022,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,5.7
+2579,2022,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,4.5
+2580,2022,EU14 excl Irl (UK & Ireland),Female,Net migration,-3.5
+2581,2022,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,7.1
+2582,2022,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,3.6
+2583,2022,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,11.8
+2584,2022,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,5.0
+2585,2022,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,16.8
+2586,2022,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,5.3
+2587,2022,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,2.7
+2588,2022,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,8.0
+2589,2022,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,6.5
+2590,2022,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,2.3
+2591,2022,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,8.8
+2592,2023,United Kingdom (1),Both sexes,Net migration,3.8
+2593,2023,United Kingdom (1),Both sexes,Emigrants: All destinations,14.6
+2594,2023,United Kingdom (1),Both sexes,Immigrants: All origins,18.4
+2595,2023,United Kingdom (1),Male,Net migration,-0.9
+2596,2023,United Kingdom (1),Male,Emigrants: All destinations,9.9
+2597,2023,United Kingdom (1),Male,Immigrants: All origins,9.0
+2598,2023,United Kingdom (1),Female,Net migration,4.7
+2599,2023,United Kingdom (1),Female,Emigrants: All destinations,4.7
+2600,2023,United Kingdom (1),Female,Immigrants: All origins,9.4
+2601,2023,United States,Both sexes,Net migration,1.0
+2602,2023,United States,Both sexes,Emigrants: All destinations,4.9
+2603,2023,United States,Both sexes,Immigrants: All origins,5.9
+2604,2023,United States,Male,Net migration,1.4
+2605,2023,United States,Male,Emigrants: All destinations,1.6
+2606,2023,United States,Male,Immigrants: All origins,3.0
+2607,2023,United States,Female,Net migration,-0.4
+2608,2023,United States,Female,Emigrants: All destinations,3.3
+2609,2023,United States,Female,Immigrants: All origins,2.9
+2610,2023,Canada,Both sexes,Net migration,1.9
+2611,2023,Canada,Both sexes,Emigrants: All destinations,5.3
+2612,2023,Canada,Both sexes,Immigrants: All origins,7.2
+2613,2023,Canada,Male,Net migration,-1.0
+2614,2023,Canada,Male,Emigrants: All destinations,3.5
+2615,2023,Canada,Male,Immigrants: All origins,2.5
+2616,2023,Canada,Female,Net migration,2.9
+2617,2023,Canada,Female,Emigrants: All destinations,1.8
+2618,2023,Canada,Female,Immigrants: All origins,4.7
+2619,2023,Australia,Both sexes,Net migration,3.0
+2620,2023,Australia,Both sexes,Emigrants: All destinations,4.7
+2621,2023,Australia,Both sexes,Immigrants: All origins,7.7
+2622,2023,Australia,Male,Net migration,1.7
+2623,2023,Australia,Male,Emigrants: All destinations,2.3
+2624,2023,Australia,Male,Immigrants: All origins,4.0
+2625,2023,Australia,Female,Net migration,1.3
+2626,2023,Australia,Female,Emigrants: All destinations,2.4
+2627,2023,Australia,Female,Immigrants: All origins,3.7
+2628,2023,Other countries (23),Both sexes,Net migration,64.1
+2629,2023,Other countries (23),Both sexes,Emigrants: All destinations,11.7
+2630,2023,Other countries (23),Both sexes,Immigrants: All origins,75.8
+2631,2023,Other countries (23),Male,Net migration,29.5
+2632,2023,Other countries (23),Male,Emigrants: All destinations,5.3
+2633,2023,Other countries (23),Male,Immigrants: All origins,34.8
+2634,2023,Other countries (23),Female,Net migration,34.6
+2635,2023,Other countries (23),Female,Emigrants: All destinations,6.4
+2636,2023,Other countries (23),Female,Immigrants: All origins,41.0
+2637,2023,All countries,Both sexes,Net migration,77.7
+2638,2023,All countries,Both sexes,Emigrants: All destinations,64.0
+2639,2023,All countries,Both sexes,Immigrants: All origins,141.6
+2640,2023,All countries,Male,Net migration,35.1
+2641,2023,All countries,Male,Emigrants: All destinations,31.0
+2642,2023,All countries,Male,Immigrants: All origins,66.1
+2643,2023,All countries,Female,Net migration,42.6
+2644,2023,All countries,Female,Emigrants: All destinations,32.9
+2645,2023,All countries,Female,Immigrants: All origins,75.5
+2646,2023,EU14 excl Irl (UK & Ireland),Both sexes,Net migration,3.8
+2647,2023,EU14 excl Irl (UK & Ireland),Both sexes,Emigrants: All destinations,13.9
+2648,2023,EU14 excl Irl (UK & Ireland),Both sexes,Immigrants: All origins,17.7
+2649,2023,EU14 excl Irl (UK & Ireland),Male,Net migration,4.1
+2650,2023,EU14 excl Irl (UK & Ireland),Male,Emigrants: All destinations,4.8
+2651,2023,EU14 excl Irl (UK & Ireland),Male,Immigrants: All origins,8.9
+2652,2023,EU14 excl Irl (UK & Ireland),Female,Net migration,-0.3
+2653,2023,EU14 excl Irl (UK & Ireland),Female,Emigrants: All destinations,9.1
+2654,2023,EU14 excl Irl (UK & Ireland),Female,Immigrants: All origins,8.8
+2655,2023,EU15 to EU27 (accession countries joined post 2004),Both sexes,Net migration,0.1
+2656,2023,EU15 to EU27 (accession countries joined post 2004),Both sexes,Emigrants: All destinations,8.8
+2657,2023,EU15 to EU27 (accession countries joined post 2004),Both sexes,Immigrants: All origins,8.9
+2658,2023,EU15 to EU27 (accession countries joined post 2004),Male,Net migration,0.3
+2659,2023,EU15 to EU27 (accession countries joined post 2004),Male,Emigrants: All destinations,3.6
+2660,2023,EU15 to EU27 (accession countries joined post 2004),Male,Immigrants: All origins,3.9
+2661,2023,EU15 to EU27 (accession countries joined post 2004),Female,Net migration,-0.2
+2662,2023,EU15 to EU27 (accession countries joined post 2004),Female,Emigrants: All destinations,5.2
+2663,2023,EU15 to EU27 (accession countries joined post 2004),Female,Immigrants: All origins,5.0

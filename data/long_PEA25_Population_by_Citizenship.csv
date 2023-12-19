@@ -1,0 +1,325 @@
+,year,sex,citizenship,value
+0,2006,Both sexes,All Countries,4232.9
+1,2006,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),43.8
+2,2006,Both sexes,EU15 to EU27 (accession countries joined post 2004),132.5
+3,2006,Both sexes,United Kingdom,115.5
+4,2006,Both sexes,Ireland,3802.4
+5,2006,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",138.8
+6,2006,Male,All Countries,2117.3
+7,2006,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),21.3
+8,2006,Male,EU15 to EU27 (accession countries joined post 2004),79.9
+9,2006,Male,United Kingdom,57.8
+10,2006,Male,Ireland,1887.4
+11,2006,Male,"All countries excluding Ireland,United Kingdom and EU272020",70.9
+12,2006,Female,All Countries,2115.6
+13,2006,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),22.5
+14,2006,Female,EU15 to EU27 (accession countries joined post 2004),52.6
+15,2006,Female,United Kingdom,57.7
+16,2006,Female,Ireland,1914.9
+17,2006,Female,"All countries excluding Ireland,United Kingdom and EU272020",67.9
+18,2007,Both sexes,All Countries,4375.8
+19,2007,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),47.0
+20,2007,Both sexes,EU15 to EU27 (accession countries joined post 2004),207.6
+21,2007,Both sexes,United Kingdom,115.5
+22,2007,Both sexes,Ireland,3856.2
+23,2007,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",149.6
+24,2007,Male,All Countries,2191.3
+25,2007,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),21.8
+26,2007,Male,EU15 to EU27 (accession countries joined post 2004),120.3
+27,2007,Male,United Kingdom,57.6
+28,2007,Male,Ireland,1915.7
+29,2007,Male,"All countries excluding Ireland,United Kingdom and EU272020",75.9
+30,2007,Female,All Countries,2184.6
+31,2007,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),25.2
+32,2007,Female,EU15 to EU27 (accession countries joined post 2004),87.4
+33,2007,Female,United Kingdom,57.9
+34,2007,Female,Ireland,1940.5
+35,2007,Female,"All countries excluding Ireland,United Kingdom and EU272020",73.7
+36,2008,Both sexes,All Countries,4485.1
+37,2008,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),50.8
+38,2008,Both sexes,EU15 to EU27 (accession countries joined post 2004),247.7
+39,2008,Both sexes,United Kingdom,117.9
+40,2008,Both sexes,Ireland,3909.5
+41,2008,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",159.2
+42,2008,Male,All Countries,2238.6
+43,2008,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),23.7
+44,2008,Male,EU15 to EU27 (accession countries joined post 2004),133.9
+45,2008,Male,United Kingdom,58.9
+46,2008,Male,Ireland,1942.3
+47,2008,Male,"All countries excluding Ireland,United Kingdom and EU272020",79.8
+48,2008,Female,All Countries,2246.5
+49,2008,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),27.1
+50,2008,Female,EU15 to EU27 (accession countries joined post 2004),113.8
+51,2008,Female,United Kingdom,59.0
+52,2008,Female,Ireland,1967.2
+53,2008,Female,"All countries excluding Ireland,United Kingdom and EU272020",79.5
+54,2009,Both sexes,All Countries,4533.4
+55,2009,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),55.3
+56,2009,Both sexes,EU15 to EU27 (accession countries joined post 2004),240.8
+57,2009,Both sexes,United Kingdom,117.1
+58,2009,Both sexes,Ireland,3958.0
+59,2009,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",162.2
+60,2009,Male,All Countries,2257.3
+61,2009,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),25.5
+62,2009,Male,EU15 to EU27 (accession countries joined post 2004),124.8
+63,2009,Male,United Kingdom,58.3
+64,2009,Male,Ireland,1966.4
+65,2009,Male,"All countries excluding Ireland,United Kingdom and EU272020",82.3
+66,2009,Female,All Countries,2276.1
+67,2009,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),29.7
+68,2009,Female,EU15 to EU27 (accession countries joined post 2004),116.0
+69,2009,Female,United Kingdom,58.8
+70,2009,Female,Ireland,1991.6
+71,2009,Female,"All countries excluding Ireland,United Kingdom and EU272020",79.9
+72,2010,Both sexes,All Countries,4554.8
+73,2010,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),52.4
+74,2010,Both sexes,EU15 to EU27 (accession countries joined post 2004),233.0
+75,2010,Both sexes,United Kingdom,115.9
+76,2010,Both sexes,Ireland,3994.7
+77,2010,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",158.7
+78,2010,Male,All Countries,2262.2
+79,2010,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),24.0
+80,2010,Male,EU15 to EU27 (accession countries joined post 2004),117.6
+81,2010,Male,United Kingdom,57.7
+82,2010,Male,Ireland,1983.3
+83,2010,Male,"All countries excluding Ireland,United Kingdom and EU272020",79.6
+84,2010,Female,All Countries,2292.6
+85,2010,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),28.4
+86,2010,Female,EU15 to EU27 (accession countries joined post 2004),115.5
+87,2010,Female,United Kingdom,58.2
+88,2010,Female,Ireland,2011.4
+89,2010,Female,"All countries excluding Ireland,United Kingdom and EU272020",79.1
+90,2011,Both sexes,All Countries,4574.9
+91,2011,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),49.4
+92,2011,Both sexes,EU15 to EU27 (accession countries joined post 2004),231.5
+93,2011,Both sexes,United Kingdom,114.9
+94,2011,Both sexes,Ireland,4017.9
+95,2011,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",161.2
+96,2011,Male,All Countries,2270.5
+97,2011,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),23.9
+98,2011,Male,EU15 to EU27 (accession countries joined post 2004),116.5
+99,2011,Male,United Kingdom,57.8
+100,2011,Male,Ireland,1991.9
+101,2011,Male,"All countries excluding Ireland,United Kingdom and EU272020",80.4
+102,2011,Female,All Countries,2304.4
+103,2011,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),25.5
+104,2011,Female,EU15 to EU27 (accession countries joined post 2004),114.9
+105,2011,Female,United Kingdom,57.1
+106,2011,Female,Ireland,2026.0
+107,2011,Female,"All countries excluding Ireland,United Kingdom and EU272020",80.8
+108,2012,Both sexes,All Countries,4593.7
+109,2012,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),51.0
+110,2012,Both sexes,EU15 to EU27 (accession countries joined post 2004),232.7
+111,2012,Both sexes,United Kingdom,111.8
+112,2012,Both sexes,Ireland,4046.6
+113,2012,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",151.6
+114,2012,Male,All Countries,2275.0
+115,2012,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),24.3
+116,2012,Male,EU15 to EU27 (accession countries joined post 2004),116.8
+117,2012,Male,United Kingdom,56.1
+118,2012,Male,Ireland,2003.2
+119,2012,Male,"All countries excluding Ireland,United Kingdom and EU272020",74.7
+120,2012,Female,All Countries,2318.7
+121,2012,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),26.7
+122,2012,Female,EU15 to EU27 (accession countries joined post 2004),115.9
+123,2012,Female,United Kingdom,55.7
+124,2012,Female,Ireland,2043.4
+125,2012,Female,"All countries excluding Ireland,United Kingdom and EU272020",76.9
+126,2013,Both sexes,All Countries,4614.7
+127,2013,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),53.2
+128,2013,Both sexes,EU15 to EU27 (accession countries joined post 2004),234.5
+129,2013,Both sexes,United Kingdom,109.2
+130,2013,Both sexes,Ireland,4080.7
+131,2013,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",137.1
+132,2013,Male,All Countries,2286.1
+133,2013,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),25.8
+134,2013,Male,EU15 to EU27 (accession countries joined post 2004),117.5
+135,2013,Male,United Kingdom,55.0
+136,2013,Male,Ireland,2019.4
+137,2013,Male,"All countries excluding Ireland,United Kingdom and EU272020",68.4
+138,2013,Female,All Countries,2328.5
+139,2013,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),27.4
+140,2013,Female,EU15 to EU27 (accession countries joined post 2004),117.0
+141,2013,Female,United Kingdom,54.1
+142,2013,Female,Ireland,2061.3
+143,2013,Female,"All countries excluding Ireland,United Kingdom and EU272020",68.7
+144,2014,Both sexes,All Countries,4645.4
+145,2014,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),56.9
+146,2014,Both sexes,EU15 to EU27 (accession countries joined post 2004),242.8
+147,2014,Both sexes,United Kingdom,107.1
+148,2014,Both sexes,Ireland,4117.6
+149,2014,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",121.0
+150,2014,Male,All Countries,2299.0
+151,2014,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),27.6
+152,2014,Male,EU15 to EU27 (accession countries joined post 2004),121.5
+153,2014,Male,United Kingdom,54.1
+154,2014,Male,Ireland,2036.0
+155,2014,Male,"All countries excluding Ireland,United Kingdom and EU272020",59.8
+156,2014,Female,All Countries,2346.4
+157,2014,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),29.3
+158,2014,Female,EU15 to EU27 (accession countries joined post 2004),121.3
+159,2014,Female,United Kingdom,53.0
+160,2014,Female,Ireland,2081.6
+161,2014,Female,"All countries excluding Ireland,United Kingdom and EU272020",61.2
+162,2015,Both sexes,All Countries,4687.8
+163,2015,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),60.3
+164,2015,Both sexes,EU15 to EU27 (accession countries joined post 2004),247.8
+165,2015,Both sexes,United Kingdom,105.7
+166,2015,Both sexes,Ireland,4152.9
+167,2015,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",121.1
+168,2015,Male,All Countries,2317.7
+169,2015,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),28.4
+170,2015,Male,EU15 to EU27 (accession countries joined post 2004),123.5
+171,2015,Male,United Kingdom,53.6
+172,2015,Male,Ireland,2052.1
+173,2015,Male,"All countries excluding Ireland,United Kingdom and EU272020",60.1
+174,2015,Female,All Countries,2370.1
+175,2015,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),31.9
+176,2015,Female,EU15 to EU27 (accession countries joined post 2004),124.2
+177,2015,Female,United Kingdom,52.2
+178,2015,Female,Ireland,2100.8
+179,2015,Female,"All countries excluding Ireland,United Kingdom and EU272020",61.0
+180,2016,Both sexes,All Countries,4739.6
+181,2016,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),64.9
+182,2016,Both sexes,EU15 to EU27 (accession countries joined post 2004),249.4
+183,2016,Both sexes,United Kingdom,105.7
+184,2016,Both sexes,Ireland,4189.1
+185,2016,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",130.4
+186,2016,Male,All Countries,2346.5
+187,2016,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),31.3
+188,2016,Male,EU15 to EU27 (accession countries joined post 2004),123.5
+189,2016,Male,United Kingdom,54.2
+190,2016,Male,Ireland,2071.4
+191,2016,Male,"All countries excluding Ireland,United Kingdom and EU272020",66.1
+192,2016,Female,All Countries,2393.1
+193,2016,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),33.5
+194,2016,Female,EU15 to EU27 (accession countries joined post 2004),125.9
+195,2016,Female,United Kingdom,51.6
+196,2016,Female,Ireland,2117.7
+197,2016,Female,"All countries excluding Ireland,United Kingdom and EU272020",64.4
+198,2017,Both sexes,All Countries,4810.9
+199,2017,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),69.5
+200,2017,Both sexes,EU15 to EU27 (accession countries joined post 2004),246.9
+201,2017,Both sexes,United Kingdom,103.3
+202,2017,Both sexes,Ireland,4245.3
+203,2017,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",145.9
+204,2017,Male,All Countries,2380.8
+205,2017,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),33.2
+206,2017,Male,EU15 to EU27 (accession countries joined post 2004),122.1
+207,2017,Male,United Kingdom,53.1
+208,2017,Male,Ireland,2099.2
+209,2017,Male,"All countries excluding Ireland,United Kingdom and EU272020",73.2
+210,2017,Female,All Countries,2430.1
+211,2017,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),36.4
+212,2017,Female,EU15 to EU27 (accession countries joined post 2004),124.7
+213,2017,Female,United Kingdom,50.3
+214,2017,Female,Ireland,2146.0
+215,2017,Female,"All countries excluding Ireland,United Kingdom and EU272020",72.7
+216,2018,Both sexes,All Countries,4884.9
+217,2018,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),74.3
+218,2018,Both sexes,EU15 to EU27 (accession countries joined post 2004),247.9
+219,2018,Both sexes,United Kingdom,103.0
+220,2018,Both sexes,Ireland,4292.3
+221,2018,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",167.5
+222,2018,Male,All Countries,2419.5
+223,2018,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),35.5
+224,2018,Male,EU15 to EU27 (accession countries joined post 2004),122.5
+225,2018,Male,United Kingdom,53.3
+226,2018,Male,Ireland,2123.5
+227,2018,Male,"All countries excluding Ireland,United Kingdom and EU272020",84.8
+228,2018,Female,All Countries,2465.4
+229,2018,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),38.8
+230,2018,Female,EU15 to EU27 (accession countries joined post 2004),125.4
+231,2018,Female,United Kingdom,49.7
+232,2018,Female,Ireland,2168.8
+233,2018,Female,"All countries excluding Ireland,United Kingdom and EU272020",82.7
+234,2019,Both sexes,All Countries,4958.5
+235,2019,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),82.3
+236,2019,Both sexes,EU15 to EU27 (accession countries joined post 2004),245.2
+237,2019,Both sexes,United Kingdom,102.7
+238,2019,Both sexes,Ireland,4336.5
+239,2019,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",191.7
+240,2019,Male,All Countries,2456.3
+241,2019,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),39.4
+242,2019,Male,EU15 to EU27 (accession countries joined post 2004),121.0
+243,2019,Male,United Kingdom,53.5
+244,2019,Male,Ireland,2145.2
+245,2019,Male,"All countries excluding Ireland,United Kingdom and EU272020",97.3
+246,2019,Female,All Countries,2502.2
+247,2019,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),42.9
+248,2019,Female,EU15 to EU27 (accession countries joined post 2004),124.2
+249,2019,Female,United Kingdom,49.2
+250,2019,Female,Ireland,2191.3
+251,2019,Female,"All countries excluding Ireland,United Kingdom and EU272020",94.5
+252,2020,Both sexes,All Countries,5029.9
+253,2020,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),86.5
+254,2020,Both sexes,EU15 to EU27 (accession countries joined post 2004),244.9
+255,2020,Both sexes,United Kingdom,100.0
+256,2020,Both sexes,Ireland,4384.8
+257,2020,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",213.6
+258,2020,Male,All Countries,2491.8
+259,2020,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),41.5
+260,2020,Male,EU15 to EU27 (accession countries joined post 2004),121.8
+261,2020,Male,United Kingdom,51.8
+262,2020,Male,Ireland,2169.2
+263,2020,Male,"All countries excluding Ireland,United Kingdom and EU272020",107.4
+264,2020,Female,All Countries,2538.1
+265,2020,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),45.0
+266,2020,Female,EU15 to EU27 (accession countries joined post 2004),123.1
+267,2020,Female,United Kingdom,48.2
+268,2020,Female,Ireland,2215.6
+269,2020,Female,"All countries excluding Ireland,United Kingdom and EU272020",106.2
+270,2021,Both sexes,All Countries,5074.7
+271,2021,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),86.7
+272,2021,Both sexes,EU15 to EU27 (accession countries joined post 2004),240.0
+273,2021,Both sexes,United Kingdom,97.7
+274,2021,Both sexes,Ireland,4430.8
+275,2021,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",219.4
+276,2021,Male,All Countries,2514.0
+277,2021,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),42.1
+278,2021,Male,EU15 to EU27 (accession countries joined post 2004),118.6
+279,2021,Male,United Kingdom,53.6
+280,2021,Male,Ireland,2194.5
+281,2021,Male,"All countries excluding Ireland,United Kingdom and EU272020",105.2
+282,2021,Female,All Countries,2560.6
+283,2021,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),44.6
+284,2021,Female,EU15 to EU27 (accession countries joined post 2004),121.4
+285,2021,Female,United Kingdom,44.1
+286,2021,Female,Ireland,2236.3
+287,2021,Female,"All countries excluding Ireland,United Kingdom and EU272020",114.2
+288,2022,Both sexes,All Countries,5184.0
+289,2022,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),90.6
+290,2022,Both sexes,EU15 to EU27 (accession countries joined post 2004),240.5
+291,2022,Both sexes,United Kingdom,89.3
+292,2022,Both sexes,Ireland,4495.4
+293,2022,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",268.1
+294,2022,Male,All Countries,2562.0
+295,2022,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),43.9
+296,2022,Male,EU15 to EU27 (accession countries joined post 2004),119.9
+297,2022,Male,United Kingdom,48.1
+298,2022,Male,Ireland,2222.0
+299,2022,Male,"All countries excluding Ireland,United Kingdom and EU272020",128.0
+300,2022,Female,All Countries,2622.0
+301,2022,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),46.6
+302,2022,Female,EU15 to EU27 (accession countries joined post 2004),120.6
+303,2022,Female,United Kingdom,41.2
+304,2022,Female,Ireland,2273.5
+305,2022,Female,"All countries excluding Ireland,United Kingdom and EU272020",140.1
+306,2023,Both sexes,All Countries,5281.6
+307,2023,Both sexes,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),98.7
+308,2023,Both sexes,EU15 to EU27 (accession countries joined post 2004),243.2
+309,2023,Both sexes,United Kingdom,88.1
+310,2023,Both sexes,Ireland,4524.6
+311,2023,Both sexes,"All countries excluding Ireland,United Kingdom and EU272020",327.0
+312,2023,Male,All Countries,2606.2
+313,2023,Male,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),48.7
+314,2023,Male,EU15 to EU27 (accession countries joined post 2004),120.6
+315,2023,Male,United Kingdom,47.5
+316,2023,Male,Ireland,2237.1
+317,2023,Male,"All countries excluding Ireland,United Kingdom and EU272020",152.3
+318,2023,Female,All Countries,2675.4
+319,2023,Female,EU14 excl Irl (countries in the EU pre 2004 excluding UK & Ireland),50.0
+320,2023,Female,EU15 to EU27 (accession countries joined post 2004),122.6
+321,2023,Female,United Kingdom,40.5
+322,2023,Female,Ireland,2287.5
+323,2023,Female,"All countries excluding Ireland,United Kingdom and EU272020",174.7
